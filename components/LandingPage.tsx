@@ -691,7 +691,7 @@ export function LandingPage() {
                       fill
                       sizes="(max-width: 1024px) 100vw, 70rem"
                       className="h-full w-full object-cover object-center"
-                      loading="lazy"
+                      loading="eager"
                     />
                   </figure>
                   <div id={`sticky-services-list-content-${step.id}`} className="p-[clamp(1rem,3vw,2rem)]">
@@ -757,6 +757,7 @@ export function LandingPage() {
                         fill
                         sizes="100vw"
                         className="h-full w-full object-cover object-center [contain:paint]"
+                        loading="eager"
                         priority={index === 0}
                       />
                     </div>
@@ -831,7 +832,7 @@ export function LandingPage() {
                               fill
                               sizes="(max-width: 1024px) 85vw, 32rem"
                               className="h-full w-full object-cover object-center"
-                              loading={index === 0 ? "eager" : "lazy"}
+                              loading="eager"
                             />
                           </figure>
                         ))}
