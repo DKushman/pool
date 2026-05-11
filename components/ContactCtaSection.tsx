@@ -17,14 +17,14 @@ type ContactCtaSectionProps = {
 
 export function ContactCtaSection({
   id = "site-contact-cta-section",
-  email = "office@daumarchitekten.com",
+  email = "pool@poolarch.ch",
   headingBoldStart = "Wir freuen uns",
   headingLight = "auf Ihre",
   headingBoldEnd = "Nachricht.",
-  phoneLine = "+49 (0) 30 23 25 807 00",
-  applicationsLine = "apply@daumarchitekten.com",
+  phoneLine = "+41 (0)44 200 70 70",
+  applicationsLine = "mitarbeit@poolarch.ch",
   buttonLabel = "Kontakt aufnehmen",
-  buttonHref = "mailto:office@daumarchitekten.com",
+  buttonHref = "mailto:pool@poolarch.ch",
   className = "",
 }: ContactCtaSectionProps) {
   return (
@@ -34,7 +34,14 @@ export function ContactCtaSection({
       aria-labelledby="site-contact-cta-heading"
     >
       <div className="mx-auto flex w-full max-w-[62rem] flex-col items-center text-center">
-        <p className="font-sans text-[clamp(0.78rem,1vw,0.92rem)] font-light text-black/48">{email}</p>
+        <div className="font-sans text-[clamp(0.78rem,1vw,0.92rem)] font-light leading-snug text-black/48">
+          <p>{email}</p>
+          <p className="mt-[clamp(0.35rem,0.8vw,0.5rem)]">
+            Bremgartnerstrasse 7
+            <br />
+            CH – 8003 Zürich
+          </p>
+        </div>
 
         <h2
           id="site-contact-cta-heading"

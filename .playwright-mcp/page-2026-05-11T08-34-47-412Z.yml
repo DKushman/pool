@@ -1,0 +1,805 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "pool logo" [ref=e6] [cursor=pointer]:
+      - /url: https://www.poolarch.ch/
+      - img "pool logo" [ref=e7]
+    - list [ref=e9]:
+      - listitem [ref=e10]:
+        - link "Suche" [ref=e11] [cursor=pointer]:
+          - /url: suche.html
+      - listitem [ref=e12]:
+        - link "Kontakt" [ref=e13] [cursor=pointer]:
+          - /url: buero/kontakt.html
+      - listitem [ref=e14]:
+        - link [ref=e15] [cursor=pointer]:
+          - /url: https://www.instagram.com/poolarchitekten
+  - generic [ref=e16]:
+    - list [ref=e19]:
+      - listitem [ref=e20]:
+        - link "Projekte" [ref=e21] [cursor=pointer]:
+          - /url: projekte/#Projekte
+      - listitem [ref=e22]:
+        - link "Büro" [ref=e23] [cursor=pointer]:
+          - /url: buero/portrait/#Büro
+      - listitem [ref=e24]:
+        - link "Loop" [ref=e25] [cursor=pointer]:
+          - /url: loop/#Loop
+      - listitem [ref=e26]:
+        - link "Annex" [ref=e27] [cursor=pointer]:
+          - /url: annex/ausstellungen.html#Annex
+    - generic [ref=e30]:
+      - article [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - time [ref=e36]: 05.05.2026
+            - 'heading "Symposium «Architektur und Handwerk: Eine Wiederannäherung?»" [level=1] [ref=e37]'
+            - heading "Am 9. Mai ist pool an der ZHAW mit mehreren Projekten vertreten" [level=2] [ref=e38]
+          - paragraph [ref=e39]: "Am 9. Mai 2026 findet im Blauen Saal der Halle 180 der ZHAW Winterthur das Symposium «Architektur und Handwerk: Eine Wiederannäherung?» im Rahmen des Forschungsprojekts Walz 4.0 statt. Im Zentrum steht die Frage, wie Architektur und Handwerk in der Praxis enger zusammenwirken können – heute und in Zukunft."
+          - paragraph [ref=e40]
+          - paragraph [ref=e41]: "Wir beteiligen uns mit mehreren Beiträgen am Symposium: Thomas Friberg gibt Einblick in die Arbeit an den temporären Sportbauten. Christoph Stahel stellt gemeinsam mit Erich Mühlemann von Schäfer Holzbautechnik das Temporäre Hotel Lauchernalp sowie El Gato Muerto vor. Die Beiträge greifen Fragen zum Zusammenspiel von Planung und Ausführung sowie zur Zusammenarbeit im Bauprozess auf. Das Symposium wird unter anderem von Andreas Sonderegger mitorganisiert. Neben den Vorträgen bietet das Programm auch Workshops, Diskussionsrunden sowie eine Führung durch die Werkstückhalle mit Einblicken in 1:1 Mock-ups."
+          - paragraph [ref=e42]
+          - paragraph [ref=e43]:
+            - text: Zum
+            - link "Symposium" [ref=e44] [cursor=pointer]:
+              - /url: https://www.zhaw.ch/de/ueber-uns/aktuell/veranstaltungen/detailansicht-veranstaltung/event-news/architektur-und-handwerk-eine-wiederannaeherung-praxiserfahrungen-im-dialog
+            - text: und zur
+            - link "Anmledung" [ref=e45] [cursor=pointer]:
+              - /url: https://www.zhaw.ch/de/archbau/formulare/anmeldung-symposium-architektur-und-handwerk
+          - paragraph [ref=e46]
+          - paragraph [ref=e47]: Wir freuen uns auf den Austausch und spannende Gespräche vor Ort.
+          - paragraph [ref=e48]
+          - paragraph [ref=e49]: "Fotografie: Ralph Feiner"
+          - paragraph [ref=e50]
+          - paragraph [ref=e51]:
+            - text: "Link zu den Projekten:"
+            - link "Freudenberg-Enge + Uetikon am See" [ref=e52] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0423-provisorische-sportbauten.html
+              - text: Freudenberg-Enge + Uetikon am See
+            - link "Schulen Döltschi + Hans Asper" [ref=e53] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2022/0459-temp-sportbauten.html
+            - link "Kantonsschule Wiedikon, Filiale Hohlstrasse" [ref=e54] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0423-hohlstrasse.html
+            - link "Temporäres Hotel Lauchernalp" [ref=e55] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2025/0529-tempora%CC%88res-hotel-lauchernalp.html
+            - link "El Gato Muerto" [ref=e56] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/loop/#Loop
+        - 'img "Symposium «Architektur und Handwerk: Eine Wiederannäherung?»" [ref=e58]'
+      - article [ref=e60]:
+        - generic [ref=e61]:
+          - generic [ref=e62]:
+            - time [ref=e63]: 28.04.2026
+            - heading "CCP15Y – 15 Years of Comparative Architectures" [level=1] [ref=e64]
+            - heading "Die temporären Sportbauten als Teil der Wanderausstellung" [level=2] [ref=e65]
+          - paragraph [ref=e66]: Das Cities Connection Project (CCP), 2012 von Nicola Regusci und Xavier Bustos gegründet, vernetzt europäische Städte und Regionen mit gemeinsamer architektonischer Tradition und richtet den Blick auf zeitgenössische Architektur und Stadtentwicklung.
+          - paragraph [ref=e67]
+          - paragraph [ref=e68]: Anlässlich des 15-jährigen Bestehens zeigt CCP die Ausstellung CCP15Y – 15 Years of Comparative Architectures. Die temporären Sportbauten wurden für die Teilnahme ausgewählt und als Beispiel für öffentliche Infrastrukturprojekte in den Kontext aufgenommen. Die Ausstellung wurde am 16. April 2026 in Barcelona eröffnet und reist anschliessend durch weitere europäische Städte. Sie vereint Beiträge aus 15 Jahren CCP und präsentiert Projekte von über 400 Architekturbüros. Im Fokus steht die Rolle öffentlicher Bauten für die Stadtentwicklung.
+          - paragraph [ref=e69]
+          - paragraph [ref=e70]: "Fotografie: Elodie Meunier"
+          - paragraph [ref=e71]
+          - paragraph [ref=e72]:
+            - text: "Link zu den Projekten:"
+            - link "Freudenberg-Enge + Uetikon am See" [ref=e73] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0423-provisorische-sportbauten.html
+              - text: Freudenberg-Enge + Uetikon am See
+            - link "Schulen Döltschi + Hans Asper" [ref=e74] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2022/0459-temp-sportbauten.html
+            - link "Kantonsschule Wiedikon, Filiale Hohlstrasse" [ref=e75] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0423-hohlstrasse.html
+        - img "CCP15Y – 15 Years of Comparative Architectures" [ref=e77]
+      - article [ref=e79]:
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - time [ref=e82]: 22.03.2026
+            - heading "2. Preis «déjà-vu»" [level=1] [ref=e83]
+            - heading "Projektwettbewerb Schürgistrasse" [level=2] [ref=e84]
+          - paragraph [ref=e85]: Ausgehend von der Fragestellung „Wie geht bezahlbarer und ressourcenschonender Ersatzneubau heute?“ wurde der mit dem 2. Platz ausgezeichnete Projektvorschlag für die Schürgistrasse 62 als ruhiges, präzises Haus für Schwamendingen konzipiert, das sich in die Körnung und Typologie des Quartiers einfügt. Die kompakte Hausform mit Schrägdach, Erkern und Balkonen verleiht dem Gebäude eine klare Identität und Verankerung im Ort. Eine einfache, robuste Gebäudestruktur aus materialoptimiertem Holzbau mit hohem Wiederholungsgrad, minimaler Technik und Wiederverwendung von Bauteilen bildet die Grundlage für Kosteneffizienz und langfristige Nachhaltigkeit. Ergänzt wird dies durch suffiziente Grundrisse für rund 100 Bewohnende sowie eine aktivierte Boden- und Dachebene, die an das Erbe der Riedlandschaft anknüpft.
+          - paragraph [ref=e86]
+          - paragraph [ref=e87]: So erreicht der Ersatzneubau eine Nachhaltigkeit, die jener einer Bestandserweiterung ebenbürtig ist, und schafft langfristig einen sozialen, ökologischen und ökonomischen Mehrwert für Schwamendingen.
+          - paragraph [ref=e88]
+          - paragraph [ref=e89]:
+            - link "Zum Projekt" [ref=e90] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2025/0530-ersatzneubau-schuergistrasse.html
+        - img "2. Preis «déjà-vu»" [ref=e92]
+      - link [ref=e94] [cursor=pointer]:
+        - /url: https://www.poolarch.ch/loop/
+        - article [ref=e95]:
+          - generic [ref=e96]:
+            - img "Giulietta Margot" [ref=e97]
+            - img "Giulietta Margot" [ref=e98]
+          - heading "Giulietta Margot" [level=1] [ref=e100]
+      - article [ref=e102]:
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - time [ref=e105]: 05.03.2026
+            - heading "3. Preis «Urbanität durch qualitätvolle Dichte»" [level=1] [ref=e106]
+            - heading "Erneuerung Wohnsiedlung Badenerstrasse – Projektwettbewerb" [level=2] [ref=e107]
+          - paragraph [ref=e108]: Entlang der Badenerstrasse entwickelten wir ein Stadthaus, das zwischen bestehender Bebauung und zukünftiger Massstäblichkeit vermittelt. Der Entwurf entstand im Rahmen eines Wettbewerbs und versteht sich als Baustein einer sich verdichtenden Stadtlandschaft. Er stärkt den Strassenraum als urbanen Ort für Aufenthalt, Begegnung und Bewegung.
+          - paragraph [ref=e109]
+          - paragraph [ref=e110]: Flexible Gewerbeflächen im Erdgeschoss, differenzierte Freiräume mit waldartigem Charakter im Hof sowie gemeinschaftlich nutzbare Dachflächen schaffen vielfältige Qualitäten auf kompakter Fläche. Modulare Grundrisse und ein robustes Tragwerk ermöglichen langfristige Nutzbarkeit und eine nachhaltige Bewirtschaftung – ein präziser Beitrag im gewachsenen Kontext.
+          - paragraph [ref=e111]
+          - paragraph [ref=e112]:
+            - link "Zum Projekt" [ref=e113] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse.html
+        - img "3. Preis «Urbanität durch qualitätvolle Dichte»" [ref=e115]
+      - article [ref=e117]:
+        - generic [ref=e118]:
+          - generic [ref=e119]:
+            - time [ref=e120]: 20.02.2026
+            - heading "Der fertige Alto Tower" [level=1] [ref=e121]
+          - paragraph [ref=e122]:
+            - text: An der Freihofstrasse steht der fertiggestellte Alto Tower – abgerüstet und bereit für den Einzug. Mit 26 Geschossen und 149 Wohnungen setzt das neue Wohnhochhaus einen markanten Akzent in Zürich-Altstetten und knüpft dabei an den Bestand der ehemaligen Fiat-Garage an.
+            - text: Als erstes Hochhaus der Stadt mit integrierter Photovoltaikfassade verbindet der Turm Energiegewinnung und Architektur nahtlos – eine schlanke, ressourcenschonende Betonkonstruktion bildet dafür die Grundlage. Gleichzeitig entsteht am Sockel des Gebäudes eine öffentliche Stadtloggia als gedeckter Raum und Bindeglied zwischen Neubau und Bestand.
+          - paragraph [ref=e123]
+          - paragraph [ref=e124]:
+            - link "Zum Projekt" [ref=e125] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0428-freihofstrasse/
+        - img "Der fertige Alto Tower" [ref=e127]
+      - article [ref=e129]:
+        - generic [ref=e130]:
+          - generic [ref=e131]:
+            - time [ref=e132]: 11.02.2026
+            - heading "Besichtigung des Einsiedlerhofs" [level=1] [ref=e133]
+            - heading "Öffentliche Einladung für Samstag, 21. Februar 2026" [level=2] [ref=e134]
+          - paragraph [ref=e135]: Das Bauvorhaben Einsiedlerhof in Einsiedeln ist vollendet! Am 21. Februar, laden wir von 13 bis 17 Uhr ein, die Anlage vor Ort zu entdecken und Einblick in die unterschiedlichen Einheiten zu erhalten. Zur Besichtigung stehen das Pfarreiheim sowie das Bezirksgebäude offen.
+          - paragraph [ref=e136]
+          - paragraph
+          - paragraph [ref=e137]: Treffpunkt ist das Foyer des Bezirksgebäudes im Erdgeschoss am Klosterplatz. Der Apéro findet auf der Terrasse im 4. Obergeschoss des Bezirksgebäudes statt. Wir empfehlen die Anreise mit dem öffentlichen Verkehr. Parkmöglichkeiten befinden sich beim Klosterplatz sowie im Parkhaus Brüel.
+          - paragraph [ref=e138]
+          - paragraph
+          - paragraph [ref=e139]: Wir freuen uns auf euren Besuch in Einsiedeln!
+          - paragraph [ref=e140]:
+            - link:
+              - /url: https://www.poolarch.ch/projekte/2020/0412-einsiedlerhof/
+          - paragraph [ref=e141]:
+            - link "Zum Projekt" [ref=e142] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0412-einsiedlerhof/
+          - paragraph
+        - img "Besichtigung des Einsiedlerhofs" [ref=e144]
+      - article [ref=e146]:
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - time [ref=e149]: 17.12.2025
+            - heading "Eröffnung temporäres Hotel nach Bergsturz in Blatten" [level=1] [ref=e150]
+            - heading "Neubau auf der Lauchernalp in Rekordzeit" [level=2] [ref=e151]
+          - paragraph
+          - paragraph [ref=e152]:
+            - text: Gemeinsam mit Schäfer Holzbautechnik projektieren wir auf der Lauchernalp im Wallis ein temporäres Hotel. Hintergrund ist der Bergsturz, durch den im Lötschental rund zwei Drittel der bestehenden Hotelbetten verloren gingen.
+            - text: Der dreigeschossige Holzelementbau bietet Platz für 19 Zimmer mit insgesamt 54 Betten. Dank der im Werk vorgefertigten Decken- und Wandelemente sowie der voll ausgestatteten Badezimmer-Module kann der Holzbau besonders effizient umgesetzt und innerhalb kürzester Zeit auf rund 2’000 Metern über Meer errichtet werden. Die Konstruktion aus Holzelementbauteilen ermöglicht einen problemlosen Rück- und Wiederaufbau an einem neuen Standort.
+            - text: Das Hotel wurde in Rekordzeit geplant und errichtet. Ende Juli entstanden die ersten Entwürfe und nun wird es bereits am 19. Dezember pünktlich zur Eröffnung der Wintersaison 2025 in Betrieb genommen.
+            - link:
+              - /url: https://www.poolarch.ch/projekte/2025/0529-tempora%CC%88res-hotel-lauchernalp.html
+          - paragraph [ref=e153]:
+            - link "Zum Projekt" [ref=e154] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2025/0529-tempora%CC%88res-hotel-lauchernalp.html
+          - paragraph [ref=e155]
+          - paragraph
+          - paragraph [ref=e156]:
+            - link:
+              - /url: https://www.srf.ch/play/tv/-/video/-?urn=urn:srf:video:b9714523-0782-4b29-bf1f-04eb58a864ef
+            - link "Link Schweiz Aktuell SRF" [ref=e157] [cursor=pointer]:
+              - /url: https://www.srf.ch/play/tv/-/video/-?urn=urn:srf:video:b9714523-0782-4b29-bf1f-04eb58a864ef
+              - text: Link Schweiz Aktuell SRF
+            - link "Link zur Buchung" [ref=e158] [cursor=pointer]:
+              - /url: https://www.momentum-lauchernalp.ch/de
+          - paragraph
+        - img "Eröffnung temporäres Hotel nach Bergsturz in Blatten" [ref=e160]
+      - article [ref=e162]:
+        - generic [ref=e163]:
+          - generic [ref=e164]:
+            - time [ref=e165]: 23.11.2025
+            - heading "Update Ziegelei Ost Allschwil" [level=1] [ref=e166]
+          - paragraph
+          - text: Das Quartierplanverfahren für das Areal Ziegelei Ost in Allschwil befindet sich nach wie vor in Bearbeitung. Momentan wird unter anderem der Mitwirkungsbericht ausgearbeitet.
+          - text: Gleichzeitig dazu wird das Gebiet in verschiedenen Hochschulformaten untersucht. Die Hochschule Biberach aus Baden-Württemberg bearbeitet das Ziegelei-Areal im Rahmen eines laufenden Entwurfsateliers. Nach einem ersten Besuch im Oktober 2025 analysieren die Studierenden die bestehenden Strukturen und Freiräume und entwickeln darauf aufbauend Szenarien für ein aus dem Bestand weitergedachtes, gemischt genutztes Quartier mit Wohnen, Gewerbe, sozialer Infrastruktur und vielfältigen öffentlichen Räumen.
+          - text: Ab dem Frühlingssemester 2026 setzt sich auch die FHNW vertieft mit dem Areal auseinander. Das geplante Entwurfsatelier ist Teil des übergeordneten Jahresthemas «Transformation» und bildet zugleich eine Schnittstelle zum unter pool-Beteiligung laufenden BFE-Forschungsprojekt zur Wiederverwendung von gemauerten Wandstücken als Module («ReWaMo»). pool unterstützt die Arbeiten mit diversen Inputs sowie Zwischen- und Schlusskritiken.
+          - paragraph [ref=e167]:
+            - link:
+              - /url: https://www.poolarch.ch/projekte/2022/0474-bricks-allschwil.html
+            - link "Zum Projekt" [ref=e168] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2022/0474-bricks-allschwil.html
+          - paragraph
+        - img "Update Ziegelei Ost Allschwil" [ref=e170]
+      - article [ref=e172]:
+        - generic [ref=e173]:
+          - generic [ref=e174]:
+            - time [ref=e175]: 13.11.2025
+            - heading "Zukunftstag 2025" [level=1] [ref=e176]
+            - heading "Junge Gäste entdecken, wie Architektur entsteht" [level=2] [ref=e177]
+          - paragraph
+          - paragraph [ref=e178]: "Der Zukunftstag brachte dieses Jahr frischen Wind ins Büro: Zwölf neugierige Schülerinnen und Schüler tauchten am 13. November bei pool Architekten in die Welt des Planens, Zeichnens und Bauens ein."
+          - paragraph [ref=e179]: "Mit vielen Fragen im Gepäck erkundete die Gruppe unser Büro, erhielt Einblicke in unterschiedliche Entwurfsmethoden und besuchte eine laufende Baustelle, wo Architektur direkt erlebbar wurde. In unserer Modellwerkstatt wartete zum Abschluss eine besondere Herausforderung: Gemeinsam entstand eine grosse, nur gesteckte Da-Vinci-Brücke aus Holz – sorgfältig gebaut und erstaunlich robust. Wir freuen uns über das Interesse und die Begeisterung unserer jungen Gäste."
+          - paragraph [ref=e180]: Schön, wart ihr bei uns!
+          - paragraph
+        - img "Zukunftstag 2025" [ref=e182]
+      - article [ref=e184]:
+        - generic [ref=e185]:
+          - generic [ref=e186]:
+            - time [ref=e187]: 30.10.2025
+            - heading "Update aus Einsiedeln" [level=1] [ref=e188]
+            - heading "Die drei Teilprojekte des «Einsiedlerhofs» werden in den kommenden Monaten gestaffelt fertiggestellt" [level=2] [ref=e189]
+          - paragraph [ref=e190]:
+            - text: Das Ensemble «Einsiedlerhof», bestehend aus einem Pfarreiheim für die römisch-katholische Kirchengemeinde, dem neuen Verwaltungsbau für den Bezirk Einsiedeln und zwei Wohnhäusern mit insgesamt 25 Eigentumswohnungen, nimmt Form an.
+            - text: "Die drei Teilprojekte mit unterschiedlichen Bauträgern, Nutzungen und Konstruktionsweisen werden in den kommenden Monaten gestaffelt fertiggestellt und bezogen: Während sich beim Pfarreiheim die Ausbauarbeiten im Abschluss befinden, werden die Fassaden der Wohnhäuser mit horizontaler Brettschalung eingekleidet und die Walmdächer vollflächig mit PV eingedeckt. Beim Verwaltungsbau werden aktuell die Stirnfassaden und Brüstungen mit KS-Steinen gemauert und anschliessend geschlämmt."
+            - link "Zum Projekt" [ref=e191] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0412-einsiedlerhof/
+              - text: Zum Projekt
+        - img "Update aus Einsiedeln" [ref=e193]
+      - article [ref=e195]:
+        - generic [ref=e196]:
+          - generic [ref=e197]:
+            - time [ref=e198]: 05.11.2025
+            - heading "Podiumsdiskussion im ZAZ Bellerive" [level=1] [ref=e199]
+            - 'heading "«Weiterbauen: Strategien für den Bestand» u.a. mit David Leuthold" [level=2] [ref=e200]'
+          - paragraph [ref=e201]:
+            - text: "Am Mittwoch, 5. November findet im Rahmen der Ausstellung «Auszeichnung für gute Bauten der Stadt Zürich 2021 – 2024» eine Podiumsdiskusssion statt: Netto-Null, Verdichtung, Bestandeserhalt – neue Herausforderungen machen das Bauen in der Stadt komplexer. Ein Gespräch darüber, was es für das gute Bauen mit dem Bestand in Zukunft braucht."
+            - text: "Diskussion mit: Marianne Baumgartner, Camponovo Baumgartner; Katrin Gügler, Direktorin Amt für Städtebau; David Leuthold, pool Architekten; Markus Siemienik, Leiter Anlageobjekte Ost, SBB Immobilien Development"
+            - text: "Moderation: Roland Züger, Chefredaktor werk, bauen + wohnen"
+            - text: Eintritt frei!
+            - link "Link zur Veranstaltung" [ref=e202] [cursor=pointer]:
+              - /url: https://www.zaz-bellerive.ch/ausstellung-gute-bauten/
+              - text: Link zur Veranstaltung
+        - img "Podiumsdiskussion im ZAZ Bellerive" [ref=e204]
+      - article [ref=e206]:
+        - generic [ref=e207]:
+          - generic [ref=e208]:
+            - time [ref=e209]: 04.10.2024
+            - heading "Auszeichnung für Gute Bauten der Stadt Zürich" [level=1] [ref=e210]
+            - heading "Von der Stadt Zürich mit der Auszeichnung für Gute Bauten geehrt" [level=2] [ref=e211]
+          - paragraph
+          - paragraph [ref=e212]: Wir freuen uns über die Auszeichnung für Gute Bauten der Stadt Zürich, mit der unsere Sportbauten im städtischen Kontext gewürdigt wurden. Die Anerkennung unterstreicht die Bedeutung einer qualitätsvollen, nachhaltigen und sorgfältig in den Stadtraum eingebetteten Architektur. Unser Dank gilt der Jury für die Anerkennung sowie allen Beteiligten, die mit grossem Engagement zur Realisierung beigetragen haben.
+          - paragraph [ref=e213]:
+            - text: "Details zu den Auszeichnungen:"
+            - link "Guten Bauten der Stadt Zürich" [ref=e214] [cursor=pointer]:
+              - /url: https://www.stadt-zuerich.ch/de/stadtleben/kultur/kultur-leben/gute-bauten.html
+            - text: "Link zu den Projekten:"
+            - link "Freudenberg-Enge + Uetikon am See" [ref=e215] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0423-provisorische-sportbauten.html
+              - text: Freudenberg-Enge + Uetikon am See
+            - link "Schulen Döltschi + Hans Asper" [ref=e216] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2022/0459-temp-sportbauten.html
+            - link "Kantonsschule Wiedikon, Filiale Hohlstrasse" [ref=e217] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0423-hohlstrasse.html
+          - paragraph
+        - img "Auszeichnung für Gute Bauten der Stadt Zürich" [ref=e219]
+      - article [ref=e221]:
+        - generic [ref=e222]:
+          - generic [ref=e223]:
+            - time [ref=e224]: 03.10.2024
+            - heading "Architekturpreis Kanton Zürich" [level=1] [ref=e225]
+            - heading "Auszeichnung guter Bauten im Kanton Zürich erhalten" [level=2] [ref=e226]
+          - paragraph
+          - paragraph [ref=e227]: Mit Freude nehmen wir den Architekturpreis der Stiftung für die Auszeichnung guter Bauten im Kanton Zürich für unsere provisorischen Sportbauten entgegen. Die Würdigung bestätigt unseren Ansatz, auch temporäre Bauten mit hoher architektonischer Qualität und in konsequenter Holzbauweise zu realisieren. Unser Dank gilt der Jury für die Anerkennung sowie unseren engagierten Planungsteams und Unternehmenden, mit denen wir dieses modulare und wiederverwendbare Baukonzept erfolgreich entwickeln und umsetzen durften.
+          - paragraph [ref=e228]:
+            - text: "Details zu den Auszeichnungen:"
+            - link:
+              - /url: https://architekturpreis.ch/archiv/2025/provisorische-sportbauten-kanton-zuerich/
+            - link "Architekturpreises Kanton Zürich" [ref=e229] [cursor=pointer]:
+              - /url: https://architekturpreis.ch/archiv/2025/provisorische-sportbauten-kanton-zuerich/
+            - text: "Link zu den Projekten:"
+            - link "Freudenberg-Enge + Uetikon am See" [ref=e230] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0423-provisorische-sportbauten.html
+              - text: Freudenberg-Enge + Uetikon am See
+            - link "Schulen Döltschi + Hans Asper" [ref=e231] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2022/0459-temp-sportbauten.html
+            - link "Kantonsschule Wiedikon, Filiale Hohlstrasse" [ref=e232] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0423-hohlstrasse.html
+          - paragraph
+        - img "Architekturpreis Kanton Zürich" [ref=e234]
+      - article [ref=e236]:
+        - generic [ref=e237]:
+          - generic [ref=e238]:
+            - time [ref=e239]: 25.09.2025
+            - heading "Open House 2025" [level=1] [ref=e240]
+            - heading "Auch wir sind im Jubiläumsjahr dabei!" [level=2] [ref=e241]
+          - paragraph [ref=e242]:
+            - text: Am Samstag, den 27. und Sonntag, den 28. September öffnet Open House Zürich zum zehnten Mal sonst verschlossene Türen!
+            - text: "Im diesjährigen Jubiläumsjahr sind gleich zwei Projekte von uns dabei: die Provisorische Kantonsschule Wiedikon, Filiale Hohlstrasse sowie die VBZ Busgarage/ERZ Werkstätten stehen im Rahmen von geführten Besichtigungen für interessierte Besucher offen."
+            - text: Alle Infos dazu findet ihr auf Website von
+            - link "Open House" [ref=e243] [cursor=pointer]:
+              - /url: https://openhouse-zuerich.org/
+            - text: .
+        - img "Open House 2025" [ref=e245]
+      - article [ref=e247]:
+        - generic [ref=e248]:
+          - generic [ref=e249]:
+            - time [ref=e250]: 08.07.2025
+            - heading "1. Preis «Neubau Schulhaus Dorf» in Suhr" [level=1] [ref=e251]
+            - heading "Gewonnener Gesamtleistungswettbewerb mit Schäfer Holzbautechnik" [level=2] [ref=e252]
+          - paragraph [ref=e253]:
+            - text: Wir freuen uns über den 1. Preis für diesen Gesamtleistungswettbewerb!
+            - text: Die Schulanlage in Suhr ist ein über mehrere Jahre gewachsenes Ensemble, dass aufgrund erhöhten Raumbedarfs mit einem Neubau erweitert werden soll. Die geplante Erweiterung liegt parallel zur Tramstrasse und bindet das bestehende Schulhaus „Dorf”, das Primarschulhaus „Vinci” (ebenfalls von pool) sowie das Dorfmuseum räumlich zusammen und beinhaltet neue Klassenräume, einen Kindergarten, Räume der Verwaltung und einen Veranstaltungssaal.
+            - link "Zum Projekt" [ref=e254] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2025/0517-glw-suhr.html
+          - paragraph
+        - img "1. Preis «Neubau Schulhaus Dorf» in Suhr" [ref=e256]
+      - link [ref=e258] [cursor=pointer]:
+        - /url: https://www.poolarch.ch/buero/jobs.html#Jobs
+        - article [ref=e259]:
+          - generic [ref=e260]:
+            - img "Werkstudent:in gesucht!" [ref=e261]
+            - img "Werkstudent:in gesucht!" [ref=e262]
+          - generic [ref=e263]:
+            - heading "Werkstudent:in gesucht!" [level=1] [ref=e264]
+            - heading "Alle Infos zu unseren offenen Positionen." [level=2] [ref=e265]
+      - link [ref=e267] [cursor=pointer]:
+        - /url: https://www.instagram.com/poolarchitekten/
+        - article [ref=e268]:
+          - generic [ref=e269]:
+            - img "Folgt uns auch auf Instagram!" [ref=e270]
+            - img "Folgt uns auch auf Instagram!" [ref=e271]
+          - generic [ref=e272]:
+            - heading "Folgt uns auch auf Instagram!" [level=1] [ref=e273]
+            - heading "#poolarchitekten" [level=2] [ref=e274]
+      - article [ref=e276]:
+        - generic [ref=e277]:
+          - generic [ref=e278]:
+            - time [ref=e279]: 21.05.2025
+            - heading "3. Preis «Neubau Siedlung Sonnenhalde»" [level=1] [ref=e280]
+            - heading "Projektwettbewerb in Zürich mit Berchtold.Lenzin Landschaftsarchitektur" [level=2] [ref=e281]
+          - paragraph
+          - paragraph [ref=e282]:
+            - text: Eine zeitgemässe Interpretation der Gartenstadt
+            - text: Die Geschichte der hangparallelen Siedlung Sonnenhalde wird weitergeschrieben. Die markante Topographie des Hangs sowie das nachbarschaftliche Gegenüber zwischen den Häuserzeilen spielen eine wichtige Rolle. Der räumliche und atmosphärische Bezug zum ökologisch wertvollen Freiraum entlang des Waldes wird durch die offen auslaufenden Räume gestärkt. Vier neue Häuserzeilen formulieren abwechselnd Gassen- und Grünräume aus und verbinden sich auf selbstverständliche Weise mit dem angrenzenden Siedlungsgebiet.
+            - text: Wir freuen uns über den 3. Preis und bedanken uns bei unserem Team Berchtold.Lenzin, Dr. Deuring + Oehninger sowie Versaplan.
+            - link "Zum Projekt" [ref=e283] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2025/0512-sonnenhalde-leimbach.html
+          - paragraph
+        - img "3. Preis «Neubau Siedlung Sonnenhalde»" [ref=e285]
+      - article [ref=e287]:
+        - generic [ref=e288]:
+          - generic [ref=e289]:
+            - time [ref=e290]: 06.05.2025
+            - heading "Grundsteinlegung Campus Biel/Bienne" [level=1] [ref=e291]
+          - paragraph [ref=e292]:
+            - text: In Biel wurde der Grundstein für den neuen Campus der Berner Fachhochschule gelegt. Bis 2028 entsteht zwischen Bahnhof und See ein Bildungs- und Forschungsstandort für rund 2500 Studierende und Mitarbeitende, die dort lernen, lehren und forschen. Der Campus vereint die Departemente Technik und Informatik sowie Architektur, Holz und Bau und zählt aktuell zu den grössten Hochschul-Bauvorhaben der Schweiz.
+            - link "Zum Projekt" [ref=e293] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2015/campus-biel.html
+              - text: Zum Projekt
+            - link "Zur Pressemeldung des Kantons Bern" [ref=e294] [cursor=pointer]:
+              - /url: https://www.campus-biel-bienne.bvd.be.ch/de/start.html?newsID=6447447e-53b9-4f77-8600-fe15cb7d1fcd
+          - paragraph
+        - img "Grundsteinlegung Campus Biel/Bienne" [ref=e296]
+      - article [ref=e298]:
+        - generic [ref=e299]:
+          - generic [ref=e300]:
+            - time [ref=e301]: 10.04.2025
+            - heading "1. Preis «Einbau Schulschwimmanlage Kesselhaus Letten»" [level=1] [ref=e302]
+            - heading "pool baut einen Pool!" [level=2] [ref=e303]
+          - paragraph [ref=e304]:
+            - text: Wir freuen uns über den 1. Preis im Projektwettbewerb «Einbau Schulschwimmanlage Kesselhaus Letten» in Zürich-Wipkingen und natürlich auf die besondere Aufgabe das kulturhistorische Kesselhaus am Letten instandsetzen und durch unseren ersten gebauten «pool» zu ergänzen.
+            - text: Um den Bedarf an Wasserflächen für den obligatorischen Schwimmunterricht im Schulkreis Waidberg zu decken, soll im ehemaligen Kesselhaus des Elektrizitätswerks der Stadt Zürich eine Schulschwimmanlage eingebaut werden. Die Liegenschaft liegt rechtsufrig an der Limmat und ist im Inventar der kunst- und kulturhistorischen Schutzobjekte von kommunaler Bedeutung aufgeführt.
+            - text: Die Gesamtanlage ist ein wichtiger Zeuge der industriellen Vergangenheit des Quartiers. Unser Entwurf für das Kesselhaus erhält die Authentizität im städtischen Gefüge und macht die Geschichte des Bestands mit seinen im Laufe der Jahrzehnte gewonnen Altersspuren erfahrbar. Ziel des Projektvorschlages ist es, Kesselhaus und Annexbau integral zu erhalten und ihre bestehenden räumlichen sowie atmosphärischen Qualitäten durch die geplante Nutzung als Schulschwimmanlage unmittelbar erlebbar zu machen. Der industrielle Charakter des Innenraums soll weitgehend erhalten bleiben, wie auch die Spuren seiner Geschichte. Aussen werden die historisch bedeutenden Gebäude, wo notwendig, sorgfältig instandgesetzt, um ihre Integrität zu bewahren.
+            - link "Zum Projekt" [ref=e305] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2025/0502-schulschwimmanlage-kesselhaus.html&browse=browse
+        - img "1. Preis «Einbau Schulschwimmanlage Kesselhaus Letten»" [ref=e307]
+      - article [ref=e309]:
+        - generic [ref=e310]:
+          - generic [ref=e311]:
+            - time [ref=e312]: 03.04.2025
+            - heading "1. Preis Studienauftrag «Umfeld Grüze, Baufeld 5»" [level=1] [ref=e313]
+            - heading "Transformation der ehemaligen Gelatinefabrik in Winterthur zu einem Wohn-Gewerbe-Quartier" [level=2] [ref=e314]
+          - paragraph [ref=e315]:
+            - text: Das Quartier Grüze ist eines der bedeutendsten Entwicklungsgebiete der Stadt Winterthur und wird sich in den kommenden Jahren zu einem durchmischten städtischen Quartier transformieren. Ein zentraler Bestandteil dieser Transformation bildet die ehemalige Gelatinefabrik.
+            - text: Wir freuen uns über den 1. Preis für diesen Studienauftrag und bedanken uns bei unserem Team Lorenz Eugster Landschaftsarchitektur und Städtebau, Dr. Deuring + Oehninger, Kalt+Halbeisen Ingenieurbüro AG sowie IBV Hüsler.
+            - link "Zum Projekt" [ref=e316] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2025/0507-gelatine-winterthur.html
+              - text: Zum Projekt
+          - paragraph
+        - img "1. Preis Studienauftrag «Umfeld Grüze, Baufeld 5»" [ref=e318]
+      - article [ref=e320]:
+        - generic [ref=e321]:
+          - generic [ref=e322]:
+            - time [ref=e323]: 04.02.2025
+            - heading "1. Preis Studienauftrag «Arealentwicklung Rickenstrasse»" [level=1] [ref=e324]
+            - heading "Gewonnener Wohn- und Gewerbebau in Zürich-Seebach" [level=2] [ref=e325]
+          - paragraph [ref=e326]: Wir freuen uns über den 1. Preis für den Studienauftrag «Arealentwicklung Rickenstrasse» in Zürich-Seebach!
+          - paragraph [ref=e327]:
+            - text: «Mit einem grossen Haus werden die spezifischen Charakteristiken und die unterschiedlichen Qualitäten des Ortes zur Geltung gebracht – eines Ortes an einer städtebaulichen Nahtstelle zwischen den grossmassstäblichen, ehemals industriell geprägten Strukturen Neu-Oerlikons in der Ebene und den kleinmassstäblicheren Wohnbauten am Hang des Buhnhügels in Zürich-Seebach. (...) Mit dem neuen Gebäude wird ein wichtiger und qualitätsvoller Baustein der weiteren städtebaulichen wie auch sozialräumlichen Entwicklung des Quartiers rund um den Bahnhof Seebach gesetzt.» so der Jurybericht.
+            - text: Wir bedanken uns bei unserem Team BOE Studio, ZPF Ingenieure, Grünberg + Partner sowie TGA Solutions für die ausgezeichnete Zusammenarbeit!
+            - link "Zum Projekt" [ref=e328] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2025/0504-ric-seebach.html&browse=browse
+              - text: Zum Projekt
+          - paragraph
+        - img "1. Preis Studienauftrag «Arealentwicklung Rickenstrasse»" [ref=e330]
+      - article [ref=e332]:
+        - generic [ref=e333]:
+          - generic [ref=e334]:
+            - time [ref=e335]: 31.01.2025
+            - heading "Quartierplan Ziegelei-Ost in Allschwil" [level=1] [ref=e336]
+            - heading "Auftakt zum Mitwirkungsverfahren" [level=2] [ref=e337]
+          - paragraph [ref=e338]:
+            - text: Am 30. Januar 2025 informierte die Gemeinde Allschwil gemeinsam mit der Auftraggeberin Bricks AG über den Quartierplan Ziegelei-Ost sowie das zugrunde liegende Richtprojekt und läutete damit das öffentliche Mitwirkungsverfahren ein.
+            - text: Zusammen mit pool als federführende Architekten, dem verantwortlichen Raumplanungsbüro, den Landschaftsarchitekten sowie den Verkehrsplanern wurde sowohl das Projekt als auch das weitere Vorgehen vorgestellt. Weitere Informationen zum Mitwirkungsverfahren können über die Website der Gemeinde Allschwil bezogen werden.
+            - link "Link zur Gemeinde Allschwil" [ref=e339] [cursor=pointer]:
+              - /url: https://www.allschwil.ch/de/aktuelles/meldungen-amtliche-publikationen/Mitwirkungsverfahren-Ziegelei-Ost-31.01.-bis-07.03.2025.php
+              - text: Link zur Gemeinde Allschwil
+            - link "Zum Projekt" [ref=e340] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2022/0474-bricks-allschwil.html
+              - text: Zum Projekt
+        - img "Quartierplan Ziegelei-Ost in Allschwil" [ref=e342]
+      - article [ref=e344]:
+        - generic [ref=e345]:
+          - generic [ref=e346]:
+            - time [ref=e347]: 16.01.2025
+            - heading "Nutzungskonzept Bahnhofsgebiet Biel/Bienne" [level=1] [ref=e348]
+            - heading "Ergebnisse unserer Testplanung zur Weiterbearbeitung empfohlen" [level=2] [ref=e349]
+          - paragraph [ref=e350]:
+            - text: Das Nutzungskonzept zum Bahnhofsgebiet Bahnhof Biel/Bienne wurde Ende Oktober 2024 vom Gemeinderat festgesetzt. Der Beitrag unseres Teams wurde in wesentlichen Teilen als Grundlage für dieses wichtige Planungsinstrument zur Steuerung der zukünftigen Entwicklung des Stadtraumes Bahnhof Biel/Bienne übernommen. Wir freuen uns über diese Rückmeldung zu unserem Konzept und die zeitnahe Umsetzung der ersten Schritte.
+            - link "Zum Projekt" [ref=e351] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2023/0486-bahnhof-biel.html&browse=browse
+              - text: Zum Projekt
+        - img "Nutzungskonzept Bahnhofsgebiet Biel/Bienne" [ref=e353]
+      - article [ref=e355]:
+        - generic [ref=e356]:
+          - generic [ref=e357]:
+            - time [ref=e358]: 02.12.2024
+            - heading "Detail Award 2024" [level=1] [ref=e359]
+            - heading "Sonderpreis «Zirkuläres Bauen» für die Provisorische Sportbauten" [level=2] [ref=e360]
+          - paragraph [ref=e361]:
+            - text: Der Detail Award zählt zu den wichtigsten internationalen Auszeichnungen in der Architektur. Mit 527 Einreichungen aus 40 Ländern erlebte er in diesem Jahr eine Rekordbeteiligung. Neben den drei Hauptpreisen vergab die Jury einen Students‘ Award sowie einen Sonderpreis für Zirkuläres Bauen, den wir mit den Provisorischen Sportbauten gewinnen konnten. Wir freuen uns über diese internationale Auszeichnung!
+            - text: "Jurystatement (Auszug):"
+            - text: «Aufgrund der zunehmenden Rohstoffknappheit ist kreislauffähiges Planen und Bauen ein Gebot der Stunde und eines der zentralen Lernfelder für Planende in den nächsten Jahren und Jahrzehnten. (...) Einen wichtigen Schritt in dieser Entwicklung gehen Pool Architekten in Zürich mit ihren
+            - link "provisorischen Sportbauten" [ref=e362] [cursor=pointer]:
+              - /url: https://www.detail.de/de_de/provisorische-sportbauten
+            - text: . Die temporären Hallen werden aus nachwachsenden Rohstoffen modular gebaut und sind mehrfach abbaubar und an neuen Standorten wieder neu aufbaubar. Durch diese Kombination aus seriellem, aber doch an den Ort anpassbarem Bauen zeigen Pool Architekten gemeinsam mit dem Kanton und der Stadt Zürich beispielhaft wie verantwortungsvolles zukunftsfähiges Bauen gelingen kann. Mit ihrer hohen Gestaltungsqualität und ihren konsequenten kreislauffähigen Lösungen weisen uns diese Projekte einen möglichen Weg in eine kreislauffähige Zukunft.»
+            - text: Über die Website des
+            - link "Detail Magazins" [ref=e363] [cursor=pointer]:
+              - /url: https://www.detail.de/detailaward-2024#winner
+            - text: sowie in der aktuellen Print-Ausgabe sind die ausgezeichneten Projekte und weitere Informationen zum Award zu finden.
+        - img "Detail Award 2024" [ref=e365]
+      - article [ref=e367]:
+        - generic [ref=e368]:
+          - generic [ref=e369]:
+            - time [ref=e370]: 21.10.2024
+            - heading "2. Preis Konversion Sindelfinger Krankenhausareal" [level=1] [ref=e371]
+            - heading "Städtebaulicher Realisierungswettbewerb im Rahmen der IBA’27" [level=2] [ref=e372]
+          - paragraph [ref=e373]:
+            - text: 2017 gestartet, arbeitet die IBA’27 gemeinsam mit Verwaltungen, Investoren, Fachleuten und den Menschen vor Ort an der Umsetzung kluger und mutiger Bauprojekte. Hundert Jahre nach der weltweit beachteten Architekturschau am Stuttgarter Weissenhof möchte die Internationale Bauausstellung zeigen, wie das Zusammenleben, Wohnen und Arbeiten in der Region Stuttgart zukünftig funktionieren kann.
+            - text: 2023 wurde dazu ein städtebaulicher und freiraumplanerischer Realisierungswettbewerb zur Konversion des Sindelfinger Krankenhausareals in zwei Phasen durchgeführt. In der ersten Phase reichten in einem offenen Skizzenauswahlverfahren 36 nationale und internationale Architekturbüros ihre Entwürfe ein, wovon 15 Planungsbüros in die zweite Phase übergingen. pool hat zusammen mit Forward, Zirkular, Westpol und Claudia Nitsche den 2. Preis gewonnen!
+            - text: "Andreas Hofer, Intendant der Internationalen Bauausstellung 2027 StadtRegion Stuttgart (IBA’27) ergänzt die Rückmeldung der Jury: «In allen Beiträgen war deutlich erkennbar: Wir befinden uns mitten in der Bauwende – alle Entwürfe setzten sich intensiv mit dem Erhalt von Bestandsgebäuden, Kreislaufwirtschaft, effizienter Ressourcennutzung sowie neuen Wohnformen in Kombination mit öffentlichen und gewerblichen Nutzungen auseinander. Es gab ein sehr breites Spektrum an Vorschlägen. Die IBA steht für experimentelle Ansätze. Die Entscheidung der Jury für diesen soliden Entwurf tragen wir mit und wünschen allen Beteiligten großen Mut bei der weiteren Umsetzung.»"
+            - emphasis [ref=e374]:
+              - link "Link zur Website IBA 27" [ref=e375] [cursor=pointer]:
+                - /url: https://www.iba27.de/wettbewerb-zum-sindelfinger-krankenhausareal-entschieden/
+            - text: Auf dem Gebiet des Sindelfinger Krankenhausareals soll nach Umzug des Krankenhausbetriebs ein neues lebendiges Stadtquartier geschaffen werden, das Wohnen, Arbeiten, Bildung und Freizeit auf eine innovative Weise miteinander verbindet und einen Beitrag zum sozialen Zusammenhalt der Stadt leistet. Klimaschutz und Nachhaltigkeit sollen bei der Umnutzung und Neubebauung und im künftigen Quartiersleben eine zentrale Rolle spielen.
+            - text: Wir bedanken uns bei unserem Team mit
+            - link "Forward Planung und Forschung" [ref=e376] [cursor=pointer]:
+              - /url: https://forward.berlin/
+            - text: ","
+            - link "Zirkular" [ref=e377] [cursor=pointer]:
+              - /url: https://zirkular.net/de/
+            - text: ","
+            - link "Westpol Landschaftsarchitektur" [ref=e378] [cursor=pointer]:
+              - /url: https://westpol.ch/
+            - text: und Claudia Nitsche!
+            - link "Zum Projekt" [ref=e379] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2024/0498-sindelfingen.html
+        - img "2. Preis Konversion Sindelfinger Krankenhausareal" [ref=e381]
+      - article [ref=e383]:
+        - generic [ref=e384]:
+          - generic [ref=e385]:
+            - time [ref=e386]: 21.09.2024
+            - heading "Open House 2024" [level=1] [ref=e387]
+            - heading "Provisorische Kantonsschule Wiedikon, Filiale Hohlstrasse öffnet am Samstag, 28. September ihre Türen" [level=2] [ref=e388]
+          - paragraph [ref=e389]:
+            - text: Am Samstag, den 28. und Sonntag, den 29. September öffnet Open House Zürich zum neunten Mal sonst verschlossene Türen und zeigt herausragende Architektur.
+            - text: Am Open House-Wochenende sind über 120 Gebäude und Aussenräume zwischen 10 – 18 Uhr zu individuellen Öffnungszeiten für alle zugänglich. Es werden über 400 Führungen mit Architekt:innen, weiteren Expert:innen und engagierten Volunteers angeboten. Wie immer sind die Führungen und freien Besichtigungen für alle Besucher:innen kostenlos.
+            - text: pool und in situ öffnen die Türen zur Provisorischen Kantonsschule Wiedikon, Filiale Hohlstrasse und bieten am Samstag, 28.09. um 11 und 12 Uhr sowie um 14 und 15 Uhr geführte Besichtigungen ohne Voranmeldung an. Alle weiteren Infos sind auf der Website von
+            - link "Open House" [ref=e390] [cursor=pointer]:
+              - /url: https://openhouse-zuerich.org/
+            - text: zu finden.
+        - img "Open House 2024" [ref=e392]
+      - article [ref=e394]:
+        - generic [ref=e395]:
+          - generic [ref=e396]:
+            - time [ref=e397]: 20.09.2024
+            - heading "Prix Lignum National Gold" [level=1] [ref=e398]
+            - heading "Auszeichnung für die Entwicklung Wiederverwendbarer Sportbauten" [level=2] [ref=e399]
+          - paragraph [ref=e400]:
+            - text: Wir freuen uns über den Prix Lignum National 2024, Gold in der Kategorie Holzbau für die Entwicklung Wiederverwendbarer Sportbauten! Herzlichen Dank an die Jury für diese Auszeichnung & an unser grossartiges Planungsteam mit dem wir diesen innovativen Holzbau gemeinsam entwickeln und inzwischen mehrfach umsetzen durften.
+            - text: Details zur Auszeichnung und die weiteren Preisträger sind auf der Seite des
+            - link "Prix Lignum" [ref=e401] [cursor=pointer]:
+              - /url: https://prixlignum.ch/
+            - text: zu finden.
+            - text: "Link zu den Projekten:"
+            - link "Freudenberg-Enge + Uetikon am See" [ref=e402] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0423-provisorische-sportbauten.html
+              - text: Freudenberg-Enge + Uetikon am See
+            - link "Schulen Döltschi + Hans Asper" [ref=e403] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2022/0459-temp-sportbauten.html
+            - link "Kantonsschule Wiedikon, Filiale Hohlstrasse zusammen mit in situ" [ref=e404] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2020/0423-hohlstrasse.html
+        - img "Prix Lignum National Gold" [ref=e406]
+      - article [ref=e408]:
+        - generic [ref=e409]:
+          - generic [ref=e410]:
+            - time [ref=e411]: 05.09.2024
+            - heading "Architekturpreis Region Winterthur AW 24" [level=1] [ref=e412]
+            - heading "Anerkennung für die «Arealentwicklung Hobelwerk»" [level=2] [ref=e413]
+          - paragraph [ref=e414]:
+            - text: Am vergangenen Samstag, 31. August 2024, wurde der Architekturpreis Region Winterthur AW 24 vergeben. Die «Arealentwicklung Hobelwerk» wurde mit einer Anerkennung ausgezeichnet.
+            - text: "Der Verein Architekturpreis Region Winterthur hat sich zum Ziel gesetzt, alle vier Jahre für Winterthur und die Region beispielhafte Leistungen im Bereich Architektur, Ingenieurwesen und Landschaftsarchitektur auszuzeichnen. In diesem Jahr wurde der Preis zum fünften Mal vergeben. Insgesamt 58 Werke hat die Jury beurteilt, 16 besichtigt. Im Vergleich zur letzten Ausgabe des Preises hat der Anteil an Umbauten, Umnutzungen, Sanierungen und Erweiterungen zugenommen: von 25 auf 40 Prozent."
+            - text: Auf den Jurypreis folgt der Publikumspreis – für die fünf prämierten Projekte kann bis zum 20. September 2024 unter folgendem
+            - link "Link" [ref=e415] [cursor=pointer]:
+              - /url: https://www.landbote.ch/architekturpreis-in-winterthur-und-region-und-die-gewinner-heissen-220930086471
+            - text: abgestimmt werden.
+            - link "Zum Projekt Hobelwerk" [ref=e416] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2014/hobelwerk/#
+              - text: Zum Projekt Hobelwerk
+        - img "Architekturpreis Region Winterthur AW 24" [ref=e418]
+      - article [ref=e420]:
+        - generic [ref=e421]:
+          - generic [ref=e422]:
+            - time [ref=e423]: 30.08.2024
+            - heading "Ausstellung im ZAZ Bellerive" [level=1] [ref=e424]
+            - heading "Wettbewerbe Architektur und Landschaft vom 6.9. bis 8.12.2024" [level=2] [ref=e425]
+          - paragraph
+          - paragraph [ref=e426]:
+            - text: Unsere Lebensräume befinden sich in stetigem Wandel. Wettbewerbe für Architektur und Landschaft sind dabei eines der wichtigsten Instrumente, die bauliche Entwicklung zu planen und voranzutreiben. Allein das Amt für Hochbauten Stadt Zürich und das Hochbauamt Kanton Zürich loben jedes Jahr etwa fünfzehn Wettbewerbe aus, dutzende weitere werden anderweitig veranstaltet. Doch von der Bekanntgabe des Gewinnerprojekts bis zu dessen Ausführung vergehen oft Jahre. So bleibt es schwer, Übersicht zu behalten, wie und wo sich unsere urbane Landschaft weiterentwickelt – für Architekt:innen wie auch für die Bevölkerung.
+            - text: "Die Ausstellung zeigt daher eine Sammlung von erstplatzierten Projekten der letzten zwei Jahre – aus der Stadt Zürich und dem gesamten Kanton. Durch die 104 gesammelten Wettbewerbe entsteht eine Gegenüberstellung unterschiedlichster Bauten, Ansätze und Nutzungen. Die Schau regt zur Diskussion an: Über Stadtentwicklung und architektonische Haltungen, über Fragen der Nachhaltigkeit und des Weiterbauens – vor allem aber auch über die Wettbewerbspraxis, ihre Voraussetzungen und ihre Ergebnisse."
+            - text: Die Ausstellung zeigt auch Beiträge von pool Architekten.
+            - link "Link zum ZAZ Bellerive" [ref=e427] [cursor=pointer]:
+              - /url: https://www.zaz-bellerive.ch/programm/
+              - text: Link zum ZAZ Bellerive
+          - link:
+            - /url: https://www.poolarch.ch/loop/
+          - paragraph
+        - img "Ausstellung im ZAZ Bellerive" [ref=e429]
+      - article [ref=e431]:
+        - generic [ref=e432]:
+          - generic [ref=e433]:
+            - time [ref=e434]: 29.08.2024
+            - heading "Ausstellungseröffnung im Loop" [level=1] [ref=e435]
+            - 'heading "«Crossbreeds: Imaginary Still Lifes by Philipp Schaerer» läuft noch bis zum 4. Oktober" [level=2] [ref=e436]'
+          - paragraph [ref=e437]:
+            - text: "Ein wunderbarer Abend! Am Donnerstag wurde die neue Ausstellung im Loop eröffnet: noch bis zum 4. Oktober stellt der Künstler Philipp Schaerer seine Bildserie «Crossbreeds» bei uns aus. Der Loop öffnet immer Donnerstags und Freitags von 14 bis 18 Uhr seine Türen. Kommt vorbei!"
+            - link "Zur Ausstellung" [ref=e438] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/loop/
+        - img "Ausstellungseröffnung im Loop" [ref=e440]
+      - article [ref=e442]:
+        - generic [ref=e443]:
+          - generic [ref=e444]:
+            - time [ref=e445]: 28.08.2024
+            - heading "Re-Use Pavillon für Schulareal" [level=1] [ref=e446]
+            - heading "Aussenraum-Pavillon aus bestehendem Pausendach konstruiert" [level=2] [ref=e447]
+          - paragraph [ref=e448]:
+            - text: "Zu Beginn des Schuljahres wurde der Re-Use-Pavillon auf dem Schulareal Hans Asper/Im Lee in Betrieb genommen. Wir haben ihn am Mittwoch besichtigt. Das Projekt wurde von Schäfer Holzbau, Makiol Widerkehr, Grünenfelder Gartenbau und pool realisiert. Besonders: Unterstützt wurde der Aufbau von unseren Praktikant:innen Moritz, Sarina, Iben, Joan, Justus, Doreen und Fabio! Vielen Dank für euren Einsatz!"
+            - text: Die Schule Hans Asper/Im Lee hat nach einer Provisorischen Sporthalle weiteren Bedarf für einen kleinen Pavillon angemeldet. pool gab den Anstoss einen rund 40 m² grossen Pavillon aus dem bestehenden Pausendach der Schule Saatlen zu konstruieren. Entwurf und Umsetzung wurden vom pool-Ressort Innovation & Forschung begleitet.
+            - text: Zentrale Fragen waren «Wie kann die bestehende Pausendachstruktur an die neuen geometrischen Gegebenheiten des neuen Standorts angepasst werden? Wie können möglichst viele der vorhandenen Bauelemente genutzt werden, um Abfall und die Notwendigkeit neuer Materialien zu minimieren?» Es standen 16 Doppelstützen, 4 Sitzbänke, 16 Konsolen, 10 Pfetten, 50 Sparren und 40 m² Pflastersteine zur Verfügung. Diese Elemente bilden die Basis des neuen Pavillons. Projektierung und Entwurf erfolgte von März bis Juni 2024, die Umsetzung während der Sommerferien von Mitte Juli bis Mitte August.
+            - link:
+              - /url: https://www.poolarch.ch/projekte/2024/0499-pausendach-hans-asper.html&refPage=Werkverzeichnis
+            - link "Zum Projekt" [ref=e449] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2024/0499-pausendach-hans-asper.html&refPage=Werkverzeichnis
+            - emphasis [ref=e450]: "Foto: Ralph Feiner"
+        - img "Re-Use Pavillon für Schulareal" [ref=e452]
+      - article [ref=e454]:
+        - generic [ref=e455]:
+          - generic [ref=e456]:
+            - time [ref=e457]: 27.08.2024
+            - heading "1. Preis «Erneuerung Stammsiedlung BBZ»" [level=1] [ref=e458]
+            - heading "Gewonnener Studienauftrag mit S2L Landschaftsarchitektur" [level=2] [ref=e459]
+          - paragraph [ref=e460]:
+            - text: Wir freuen uns über den 1. Preis für den Studienauftrag «Erneuerung Stammsiedlung BBZ» in Zürich und bedanken uns bei unserem Team für die ausgezeichnete Zusammenarbeit!
+            - text: "Die Stammsiedlung der Baugenossenschaft Brunnenhof Zürich (BBZ) wird seit rund 20 Jahren auf der Basis eines Masterplanes in Etappen erneuert. Etwa die Hälfte der grossen Siedlung ist inzwischen mit grossmassstäblichen Neubauten ersetzt. Aufgrund der Erfahrung aus diesem Vorgehen sowie genereller, neuer Schwerpunkte beim Bauen überdachte die Genossenschaft BBZ die eingeschlagene Richtung: Mit dem Studienauftrag zur Erneuerung der Stammsiedlung war ein nachhaltiges Vorgehen zur Erneuerung der Siedlung bezüglich Bestand, Verdichtung, sozialem Gefüge etc. gesucht."
+            - text: Unser Beitrag setzt auf etappiertes Weiterbauen an der bestehenden Siedlungsstruktur mit Erhalt eines grossen Teils der Häuser und möglichst aller Bäume und grünen Freiräume. Entlang der Quartierverbindungen werden einzelne Häuser mit wesentlich grösseren, urbaneren Neubauten ersetzt. Dadurch wird die gesamte Siedlung auf das angestrebte Mass verdichtet. Ein Grossteil der bestehenden Häuser wird somit lediglich pinselsaniert oder im Grundriss leicht angepasst – die tiefen Mieten bleiben bestehen und somit auch die soziale Durchmischung der Mieterschaft. Um die vielen grossen Gehölze zu erhalten wird auf nicht überbaute Untergeschosse fast vollständig verzichtet.
+            - link "Link zum Projekt «Erneuerung Stammsiedlung BBZ»" [ref=e461] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2024/0496-bbz.html&browse=browse
+              - text: Link zum Projekt «Erneuerung Stammsiedlung BBZ»
+            - link "(Nicht) alles wird neu – Link zur BBZ" [ref=e462] [cursor=pointer]:
+              - /url: https://www.bgbrunnenhof.ch/siedlungen/brunnenpark/weitere-bauetappen/
+              - text: (Nicht) alles wird neu – Link zur BBZ
+        - img "1. Preis «Erneuerung Stammsiedlung BBZ»" [ref=e464]
+      - article [ref=e466]:
+        - generic [ref=e467]:
+          - generic [ref=e468]:
+            - time [ref=e469]: 05.07.2024
+            - heading "1. Preis «Instandsetzung Zeughäuser»" [level=1] [ref=e470]
+            - heading "Gewonnenes Planerwahlverfahren für die Zeughäuser in Zürich" [level=2] [ref=e471]
+          - paragraph [ref=e472]:
+            - text: Wir freuen uns über den Zuschlag für die Instandsetzung der Zeughäuser auf dem Kasernenareal in Zürich. Die 1846–1876 erbaute Kasernenanlage gehört zu den bedeutendsten Bauwerken des Historismus in der Schweiz. Das Areal soll gemäss Masterplan «Zukunft Kasernenareal Zürich» etappenweise neuen Nutzungen zugeführt werden. Wir bedanken uns bei unserem Generalplanungsteam für den grossen Einsatz und freuen uns auf die kommende Aufgabe!
+            - text: Weitere Informationen zu diesem Projekt erhalten Sie über die Website der
+            - link "Stadt Zürich" [ref=e473] [cursor=pointer]:
+              - /url: https://www.stadt-zuerich.ch/hbd/de/index/hochbau/planerwahl/abgeschlossene-planerwahlen/zeughaeuser-kasernenareal.html
+            - text: sowie des
+            - link "Kasernenareals" [ref=e474] [cursor=pointer]:
+              - /url: https://kasernenareal-zuerich.ch/
+            - text: .
+            - link "Zum Projekt" [ref=e475] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2024/0503-zeughaus.html
+              - text: Zum Projekt
+        - img "1. Preis «Instandsetzung Zeughäuser»" [ref=e477]
+      - article [ref=e479]:
+        - generic [ref=e480]:
+          - generic [ref=e481]:
+            - time [ref=e482]: 08.07.2024
+            - heading "19. Architekt:innen-Fussballturnier" [level=1] [ref=e483]
+            - heading "Vielen Dank für euren grossen Einsatz, auf dem Platz & rund herum!" [level=2] [ref=e484]
+          - paragraph [ref=e485]:
+            - text: Am Sonntag fand die bereits 19. Ausgabe des Architekt:innen-Fussballturniers statt. Trotz anfänglich eher herbstlichen Temperaturen fanden sich unsere engagierten Spieler:innen und Fans auf dem Sportplatz in Wollishofen ein.
+            - text: Leider war das Fussball-Glück dieses Wochenende nicht auf unserer Seite und so hat es weder fürs Viertelfinale noch den T-Shirt-Preis gereicht – aber wir hatten sowohl auf dem Platz als auch am Rand des Spielfelds wie immer sehr viel Spass!
+            - text: Danke für die gute Organisation des Architekturforums Zürich & bis zum nächsten Jahr...
+        - img "19. Architekt:innen-Fussballturnier" [ref=e487]
+      - article [ref=e489]:
+        - generic [ref=e490]:
+          - generic [ref=e491]:
+            - time [ref=e492]: 01.06.2024
+            - heading "„Begin Again. Fail Better“" [level=1] [ref=e493]
+            - heading "preliminary drawings in architecture (and art)" [level=2] [ref=e494]
+          - paragraph
+          - paragraph [ref=e495]:
+            - text: Neue Ausstellung im Kunstmuseum Olten! Seit Anfang Monat läuft die Ausstellung „Begin Again. Fail Better“ preliminary drawings in architecture (and art). Das Medium der Zeichnung, welches doch so wichtig ist, um Gedanken zu entwickeln und Ideen zu sammeln, wird hier in den verschiedensten Formen gezeigt. Unter anderem sind auch Zeichnungen von pool vom Stapferhaus mit dabei. Schaut vorbei!
+            - text: Link zur
+            - link "Ausstellung" [ref=e496] [cursor=pointer]:
+              - /url: https://kunstmuseumolten.ch/programm/ausstellungen/begin-again-fail-better
+            - text: Link zum
+            - link "Stapferhaus" [ref=e497] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2015/0330-stapferhaus-lenzburg/&refPage=Werkverzeichnis
+            - link:
+              - /url: https://www.poolarch.ch/projekte/2015/0330-stapferhaus-lenzburg/&refPage=Werkverzeichnis
+            - text: Öffnungszeiten
+            - text: Dienstag–Freitag, 12 bis 17 Uhr
+            - text: Samstag + Sonntag, 10 bis 17 Uhr
+            - text: Noch bis am 25.08.2024
+        - img "„Begin Again. Fail Better“" [ref=e499]
+      - article [ref=e501]:
+        - generic [ref=e502]:
+          - generic [ref=e503]:
+            - time [ref=e504]: 14.05.2024
+            - heading "Nutzungskonzept Bahnhofgebiet Biel" [level=1] [ref=e505]
+            - heading "Ergebnisse der Testplanung in Biel ausgestellt" [level=2] [ref=e506]
+          - paragraph [ref=e507]:
+            - text: Die Ansprüche an das Bieler Bahnhofgebiet sind im Wandel. Um sicherzustellen, dass das Bahnhofgebiet auch in Zukunft ein attraktives Zentrum und eine funktionierende multimodale Mobilitätsdrehscheibe für die gesamte Region ist, will die Stadt Biel nun gemeinsam mit der Bevölkerung und den Betroffenen ein Nutzungskonzept erarbeiten. Das Konzept wird in mehreren Phasen mittels Testplanung und partizipativen Verfahrens entwickelt.
+            - text: Drei interdisziplinär zusammengesetzte Teams erarbeiteten im Rahmen der Testplanung unterschiedliche Entwürfe wie das Bahnhofgebiet weiterzuentwickeln und zu organisieren ist. Ziel der Testplanung war die fundierte Analyse und darauf aufbauend das Durchspielen unterschiedlicher Lösungsansätze (Nutzungsszenarien) für ein Nutzungskonzept, das gleichwohl die städtebaulichen, sozial- und freiräumlichen sowie verkehrlichen Elemente für die Weiterentwicklung des Gebiets enthält.
+            - text: Die Schlussabgaben werden zusammen mit den Erkenntnissen für das Nutzungskonzept öffentlich ausgestellt.
+            - text: Ausstellung vom 13. bis 21. Juni 2024
+            - text: "Ort: Nebia (Foyer), Thomas-Wyttenbach-Strasse 4, 2502 Biel"
+            - text: "Öffnungszeiten:"
+            - text: Montag–Donnerstag, 16.30 bis 18.30 Uhr
+            - text: Freitag, 12 bis 14 Uhr
+            - text: Samstag, 15. Juni von 10 bis 12 Uhr
+        - img "Nutzungskonzept Bahnhofgebiet Biel" [ref=e509]
+      - article [ref=e511]:
+        - generic [ref=e512]:
+          - generic [ref=e513]:
+            - time [ref=e514]: 14.05.2024
+            - heading "Provisorische Sportbauten Campus Irchel" [level=1] [ref=e515]
+          - paragraph [ref=e516]: Wir erstellen einen weiteren Provisorischen Sportbau für den Kanton Zürich.. Der Rohbau auf dem Campus Irchel ist inzwischen fertig, das Gerüst wird bereits demontiert. Nun folgt der Schlussspurt um das Provisorium pünktlich bis zum Schulstart im August fertigzustellen.
+        - img "Provisorische Sportbauten Campus Irchel" [ref=e518]
+      - article [ref=e520]:
+        - generic [ref=e521]:
+          - generic [ref=e522]:
+            - time [ref=e523]: 13.05.2024
+            - heading "2. Preis Projektwettbewerb Engimatt" [level=1] [ref=e524]
+            - heading "Kompakter, leichter Holzbau als zeitgemässer Wohnungsbau" [level=2] [ref=e525]
+          - paragraph [ref=e526]:
+            - text: Für den Projektwettbewerb „Engimatt” waren fünf Teams eingeladen, den bestehenden Genius Loci des Areals in Zürich-Enge weiter zu entwickeln und das bestehende Hotel Engimatt durch einen zeitgemässen Wohnungsbau zu ersetzen.
+            - text: Wir haben einen kompakten, leichten Holzbau vorgeschlagen, der auf dem bestehenden Untergeschoss fusst und den üppigen Baumbestand erhält. Herzstück unseres Entwurfs ist eine grosse, einladende Lobby, die wie in einem Grandhotel, spontane Begegnungen der Bewohner:innen ermöglicht.
+            - link "Zum Projekt" [ref=e527] [cursor=pointer]:
+              - /url: https://www.poolarch.ch/projekte/2023/0478-engimatt.html
+              - text: Zum Projekt
+        - img "2. Preis Projektwettbewerb Engimatt" [ref=e529]
+  - generic [ref=e530]:
+    - generic [ref=e531]:
+      - heading "Kontakt:" [level=2] [ref=e532]
+      - text: pool Architekten
+      - text: Bremgartnerstrasse 7
+      - text: 8003 Zürich
+      - text: T +41 44 200 70 70
+      - link "pool@poolarch.ch" [ref=e533] [cursor=pointer]:
+        - /url: mailto:pool@poolarch.ch
+      - link "Instagram" [ref=e534] [cursor=pointer]:
+        - /url: https://www.instagram.com/poolarchitekten/
+    - heading "News" [level=2] [ref=e536]:
+      - link "News" [ref=e537] [cursor=pointer]:
+        - /url: index/
+    - generic [ref=e538]:
+      - heading "Projekte" [level=2] [ref=e539]:
+        - link "Projekte" [ref=e540] [cursor=pointer]:
+          - /url: projekte/
+      - list [ref=e541]:
+        - listitem [ref=e542]:
+          - link "Karte" [ref=e543] [cursor=pointer]:
+            - /url: projekte/karte.html
+        - listitem [ref=e544]:
+          - link "Projektstand" [ref=e545] [cursor=pointer]:
+            - /url: projekte/projektstand.html
+          - list [ref=e546]:
+            - listitem [ref=e547]:
+              - link "Ausgeführt" [ref=e548] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Ausgeführt
+            - listitem [ref=e549]:
+              - link "In Bearbeitung" [ref=e550] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=In Bearbeitung
+            - listitem [ref=e551]:
+              - link "1. Preis" [ref=e552] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=1. Preis
+            - listitem [ref=e553]:
+              - link "Wettbewerbe" [ref=e554] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Wettbewerbe
+        - listitem [ref=e555]:
+          - link "Werkverzeichnis" [ref=e556] [cursor=pointer]:
+            - /url: projekte/werkverzeichnis.html
+        - listitem [ref=e557]:
+          - link "Nutzung" [ref=e558] [cursor=pointer]:
+            - /url: projekte/nutzung.html
+          - list [ref=e559]:
+            - listitem [ref=e560]:
+              - link "Städtebau" [ref=e561] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Städtebau
+            - listitem [ref=e562]:
+              - link "Wohnen" [ref=e563] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Wohnen
+            - listitem [ref=e564]:
+              - link "Dienstleistung" [ref=e565] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Dienstleistung
+            - listitem [ref=e566]:
+              - link "Mixed" [ref=e567] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Mixed
+            - listitem [ref=e568]:
+              - link "Schulen" [ref=e569] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Schulen
+            - listitem [ref=e570]:
+              - link "Öffentliche Bauten" [ref=e571] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Öffentliche Bauten
+        - listitem:
+          - link:
+            - /url: projekte/2020.html
+        - listitem:
+          - link:
+            - /url: projekte/2021.html
+        - listitem:
+          - link:
+            - /url: projekte/2022.html
+        - listitem:
+          - link:
+            - /url: projekte/2023.html
+        - listitem:
+          - link:
+            - /url: projekte/2024.html
+        - listitem:
+          - link:
+            - /url: projekte/2025.html
+    - generic [ref=e572]:
+      - heading "Büro" [level=2] [ref=e573]:
+        - link "Büro" [ref=e574] [cursor=pointer]:
+          - /url: buero/
+      - list [ref=e575]:
+        - listitem [ref=e576]:
+          - link "Portrait" [ref=e577] [cursor=pointer]:
+            - /url: buero/portrait/
+        - listitem [ref=e578]:
+          - link "Team" [ref=e579] [cursor=pointer]:
+            - /url: buero/team/
+        - listitem [ref=e580]:
+          - link "Jobs" [ref=e581] [cursor=pointer]:
+            - /url: buero/jobs.html
+        - listitem [ref=e582]:
+          - link "Kontakt" [ref=e583] [cursor=pointer]:
+            - /url: buero/kontakt.html
+    - generic [ref=e584]:
+      - heading "Annex" [level=2] [ref=e585]:
+        - link "Annex" [ref=e586] [cursor=pointer]:
+          - /url: annex/
+      - list [ref=e587]:
+        - listitem [ref=e588]:
+          - link "Ausstellungen" [ref=e589] [cursor=pointer]:
+            - /url: annex/ausstellungen.html
+        - listitem [ref=e590]:
+          - link "Bücher" [ref=e591] [cursor=pointer]:
+            - /url: annex/buecher.html
+        - listitem [ref=e592]:
+          - link "Galerie" [ref=e593] [cursor=pointer]:
+            - /url: annex/galerie/
+        - listitem [ref=e594]:
+          - link "Publikationen" [ref=e595] [cursor=pointer]:
+            - /url: annex/publikationen/
+        - listitem [ref=e596]:
+          - link "Auszeichnungen" [ref=e597] [cursor=pointer]:
+            - /url: annex/auszeichnungen.html
+    - generic [ref=e598]:
+      - heading "Impressum" [level=2] [ref=e599]:
+        - link "Impressum" [ref=e600] [cursor=pointer]:
+          - /url: impressum.html
+      - list [ref=e601]:
+        - listitem [ref=e602]:
+          - link "Datenschutzinformation" [ref=e603] [cursor=pointer]:
+            - /url: impressum/datenschutzinformationen.html

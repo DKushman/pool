@@ -1,0 +1,268 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "pool logo" [ref=e6] [cursor=pointer]:
+      - /url: https://www.poolarch.ch/
+      - img "pool logo" [ref=e7]
+    - list [ref=e9]:
+      - listitem [ref=e10]:
+        - link "Suche" [ref=e11] [cursor=pointer]:
+          - /url: suche.html
+      - listitem [ref=e12]:
+        - link "Kontakt" [ref=e13] [cursor=pointer]:
+          - /url: buero/kontakt.html
+      - listitem [ref=e14]:
+        - link [ref=e15] [cursor=pointer]:
+          - /url: https://www.instagram.com/poolarchitekten
+  - generic [ref=e16]:
+    - list [ref=e19]:
+      - listitem [ref=e20]:
+        - link "Projekte" [ref=e21] [cursor=pointer]:
+          - /url: projekte/#Projekte
+      - listitem [ref=e22]:
+        - link "Büro" [ref=e23] [cursor=pointer]:
+          - /url: buero/portrait/#Büro
+      - listitem [ref=e24]:
+        - link "Loop" [ref=e25] [cursor=pointer]:
+          - /url: loop/#Loop
+      - listitem [ref=e26]:
+        - link "Annex" [ref=e27] [cursor=pointer]:
+          - /url: annex/ausstellungen.html#Annex
+    - list [ref=e30]:
+      - listitem [ref=e31]:
+        - link "Nutzung" [ref=e32] [cursor=pointer]:
+          - /url: projekte/nutzung.html
+      - listitem [ref=e33]:
+        - link "Projektstand" [ref=e34] [cursor=pointer]:
+          - /url: projekte/projektstand.html
+      - listitem [ref=e35]:
+        - link "Karte" [ref=e36] [cursor=pointer]:
+          - /url: projekte/karte.html
+      - listitem [ref=e37]:
+        - link "Werkverzeichnis" [ref=e38] [cursor=pointer]:
+          - /url: projekte/werkverzeichnis.html
+      - listitem [ref=e39]:
+        - link:
+          - /url: projekte/2025.html
+      - listitem [ref=e40]:
+        - link:
+          - /url: projekte/2024.html
+      - listitem [ref=e41]:
+        - link:
+          - /url: projekte/2023.html
+      - listitem [ref=e42]:
+        - link:
+          - /url: projekte/2022.html
+      - listitem [ref=e43]:
+        - link:
+          - /url: projekte/2021.html
+      - listitem [ref=e44]:
+        - link:
+          - /url: projekte/2020.html
+    - heading "Temporäres Hotel Lauchernalp, Lötschental" [level=1] [ref=e49]
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - paragraph [ref=e53]:
+          - text: Temporäres Hotel Lauchernalp
+          - text: Direktauftrag 2025
+          - text: "Ausführung: August bis Dezember 2025"
+          - text: Bergbahnstrasse 2
+          - text: 3918 Wiler
+        - paragraph [ref=e54]
+        - generic [ref=e55]:
+          - paragraph [ref=e56]:
+            - text: "Ein Bergsturz im Frühjahr 2025 veränderte das Lötschental grundlegend. Neben Wohn- und Infrastrukturbauten traf es auch weite Teile des Gastgewerbes – rund zwei Drittel der Hotelbetten gingen verloren. Bereits im Sommer fiel der Entscheid für einen temporären Ersatzbau. So entstand bis Ende 2025 gegenüber der Bergstation Lauchernalp auf rund 2’000 m ü. M. innerhalb von nur drei Monaten ein dreigeschossiges Hotel in Holzelementbauweise, das noch im selben Jahr den Betrieb aufnahm. Grundlegend für die kurze Bauzeit war ein hoher Vorfertigungsgrad: Decken- und Wandelemente sowie vollständig ausgebaute Nasszellenmodule wurden im Werk vorgefertigt und auf der Baustelle montiert."
+            - text: Der Zugang zum Haus erfolgt über eine vorgelagerte Sonnenterrasse, die die Erschliessung organisiert und direkt in den Ski- und Bikeraum führt. Von dort gelangt man in eine kleine Lounge mit integrierter Rezeption, die fliessend in den Aufenthaltsbereich übergeht. Das Hotel umfasst insgesamt 19 Zimmer für bis zu 64 Gäste, überwiegend in den beiden Obergeschossen angeordnet und talwärts orientiert. Jede Einheit verfügt über eine eigene Nasszelle sowie fest eingebaute Möbel. Klappbetten ermöglichen unterschiedliche Belegungen innerhalb der kompakten Grundrissstruktur. Die Balkone erweitern die Zimmer um einen geschützten Aussenraum mit Blick ins Tal und prägen als durchgehende Ebene zugleich die Südostfassade. Sie verleihen dem Volumen Tiefe, übernehmen den Sonnenschutz und vermitteln zwischen Innenraum und Landschaft.
+            - text: Materialität und Farbigkeit sind regional verankert. Traditionelle Lötschentaler Wolldecken aus dem Lötschentaler Museum bildeten den Ausgangspunkt für das Farbkonzept des Bodens. Ihre Muster, Formen und kräftigen Grundfarben wurden aufgenommen und weiterentwickelt. Aus dieser Auseinandersetzung entstand auch eine eigens für das Hotel entworfene Wolldecke, die die charakteristischen Motive in eine zeitgenössische Gestaltung überführt. Die Decke ergänzt den konstruktiven Holzbau um eine weiche Ebene und fügt dem Raum als natürliches Material eine warme Textur hinzu. Ihre kräftigen Grundfarben wirken zeitlos und frisch zugleich. So bleibt der regionale Bezug auch im Detail ablesbar.
+          - paragraph [ref=e57]:
+            - strong [ref=e58]: Bauherrscha
+            - text: ft
+            - text: Lauchernalp Lodge
+            - strong [ref=e59]: Gesamtleitung / Totalunternehmung
+            - link:
+              - /url: https://www.schaefer-holzbautechnik.ch/referenzen/detail/projekt/hotel-momentum-die-lauchernalp-lodge
+            - link "Schäfer Holzbautechnik" [ref=e60] [cursor=pointer]:
+              - /url: https://www.schaefer-holzbautechnik.ch/referenzen/detail/projekt/hotel-momentum-die-lauchernalp-lodge
+            - strong [ref=e61]: Architektu
+            - text: r
+            - text: pool Architekten
+            - strong [ref=e62]: Bauingenieure / Brandschutz
+            - text: Zeuggin Ingenieure und Gestalter
+            - strong [ref=e63]: Gebäudeingenieur HLKS
+            - text: Kämpfer
+            - strong [ref=e64]: Elektroplanung
+            - text: TGA Solutions
+            - strong [ref=e65]: Bauphysik
+            - text: Grolimund + Partner
+            - strong [ref=e66]: Fotos
+            - text: Ralph Feiner
+      - generic [ref=e67]:
+        - link [ref=e69] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-bildgallery/das-temporaere-hotel.html
+        - link [ref=e71] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-bildgallery/ansicht.html
+        - link [ref=e73] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-bildgallery/vorgehaengte-balkone.html
+        - link [ref=e75] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-bildgallery/hotelzimmer.html
+        - link [ref=e77] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-bildgallery/lounge-und-rezeption.html
+        - link [ref=e79] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-bildgallery/balkon.html
+      - generic [ref=e80]:
+        - link "Schwarzplan" [ref=e82] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-plangallery/schwarzplan.html
+          - img "Schwarzplan" [ref=e83]
+        - link "Lageplan" [ref=e85] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-plangallery/lageplan.html
+          - img "Lageplan" [ref=e86]
+        - link "Situation mit Erdgeschoss" [ref=e88] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-plangallery/situation-mit-erdgeschoss.html
+          - img "Situation mit Erdgeschoss" [ref=e89]
+        - link "Obergeschoss" [ref=e91] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-plangallery/obergeschoss.html
+          - img "Obergeschoss" [ref=e92]
+        - link "Schnitt" [ref=e94] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-plangallery/schnitt.html
+          - img "Schnitt" [ref=e95]
+        - link "Ansicht" [ref=e97] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-plangallery/ansicht.html
+          - img "Ansicht" [ref=e98]
+        - link "Illustration" [ref=e100] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-plangallery/illustration.html
+          - img "Illustration" [ref=e101]
+        - link "Traditionelle Wolldecken aus dem Lötschental" [ref=e103] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-plangallery/traditionelle-wolldecken-aus-dem-loetschental.html
+          - img "Traditionelle Wolldecken aus dem Lötschental" [ref=e104]
+        - link "Produktion" [ref=e106] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-plangallery/produktion.html
+          - img "Produktion" [ref=e107]
+        - link "Baustelle" [ref=e109] [cursor=pointer]:
+          - /url: projekte/2025/0529-temporäres-hotel-lauchernalp/0529-plangallery/baustelle.html
+          - img "Baustelle" [ref=e110]
+    - text: "true"
+  - generic [ref=e111]:
+    - generic [ref=e112]:
+      - heading "Kontakt:" [level=2] [ref=e113]
+      - text: pool Architekten
+      - text: Bremgartnerstrasse 7
+      - text: 8003 Zürich
+      - text: T +41 44 200 70 70
+      - link "pool@poolarch.ch" [ref=e114] [cursor=pointer]:
+        - /url: mailto:pool@poolarch.ch
+      - link "Instagram" [ref=e115] [cursor=pointer]:
+        - /url: https://www.instagram.com/poolarchitekten/
+    - heading "News" [level=2] [ref=e117]:
+      - link "News" [ref=e118] [cursor=pointer]:
+        - /url: index/
+    - generic [ref=e119]:
+      - heading "Projekte" [level=2] [ref=e120]:
+        - link "Projekte" [ref=e121] [cursor=pointer]:
+          - /url: projekte/
+      - list [ref=e122]:
+        - listitem [ref=e123]:
+          - link "Karte" [ref=e124] [cursor=pointer]:
+            - /url: projekte/karte.html
+        - listitem [ref=e125]:
+          - link "Projektstand" [ref=e126] [cursor=pointer]:
+            - /url: projekte/projektstand.html
+          - list [ref=e127]:
+            - listitem [ref=e128]:
+              - link "Ausgeführt" [ref=e129] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Ausgeführt
+            - listitem [ref=e130]:
+              - link "In Bearbeitung" [ref=e131] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=In Bearbeitung
+            - listitem [ref=e132]:
+              - link "1. Preis" [ref=e133] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=1. Preis
+            - listitem [ref=e134]:
+              - link "Wettbewerbe" [ref=e135] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Wettbewerbe
+        - listitem [ref=e136]:
+          - link "Werkverzeichnis" [ref=e137] [cursor=pointer]:
+            - /url: projekte/werkverzeichnis.html
+        - listitem [ref=e138]:
+          - link "Nutzung" [ref=e139] [cursor=pointer]:
+            - /url: projekte/nutzung.html
+          - list [ref=e140]:
+            - listitem [ref=e141]:
+              - link "Städtebau" [ref=e142] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Städtebau
+            - listitem [ref=e143]:
+              - link "Wohnen" [ref=e144] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Wohnen
+            - listitem [ref=e145]:
+              - link "Dienstleistung" [ref=e146] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Dienstleistung
+            - listitem [ref=e147]:
+              - link "Mixed" [ref=e148] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Mixed
+            - listitem [ref=e149]:
+              - link "Schulen" [ref=e150] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Schulen
+            - listitem [ref=e151]:
+              - link "Öffentliche Bauten" [ref=e152] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Öffentliche Bauten
+        - listitem:
+          - link:
+            - /url: projekte/2020.html
+        - listitem:
+          - link:
+            - /url: projekte/2021.html
+        - listitem:
+          - link:
+            - /url: projekte/2022.html
+        - listitem:
+          - link:
+            - /url: projekte/2023.html
+        - listitem:
+          - link:
+            - /url: projekte/2024.html
+        - listitem:
+          - link:
+            - /url: projekte/2025.html
+    - generic [ref=e153]:
+      - heading "Büro" [level=2] [ref=e154]:
+        - link "Büro" [ref=e155] [cursor=pointer]:
+          - /url: buero/
+      - list [ref=e156]:
+        - listitem [ref=e157]:
+          - link "Portrait" [ref=e158] [cursor=pointer]:
+            - /url: buero/portrait/
+        - listitem [ref=e159]:
+          - link "Team" [ref=e160] [cursor=pointer]:
+            - /url: buero/team/
+        - listitem [ref=e161]:
+          - link "Jobs" [ref=e162] [cursor=pointer]:
+            - /url: buero/jobs.html
+        - listitem [ref=e163]:
+          - link "Kontakt" [ref=e164] [cursor=pointer]:
+            - /url: buero/kontakt.html
+    - generic [ref=e165]:
+      - heading "Annex" [level=2] [ref=e166]:
+        - link "Annex" [ref=e167] [cursor=pointer]:
+          - /url: annex/
+      - list [ref=e168]:
+        - listitem [ref=e169]:
+          - link "Ausstellungen" [ref=e170] [cursor=pointer]:
+            - /url: annex/ausstellungen.html
+        - listitem [ref=e171]:
+          - link "Bücher" [ref=e172] [cursor=pointer]:
+            - /url: annex/buecher.html
+        - listitem [ref=e173]:
+          - link "Galerie" [ref=e174] [cursor=pointer]:
+            - /url: annex/galerie/
+        - listitem [ref=e175]:
+          - link "Publikationen" [ref=e176] [cursor=pointer]:
+            - /url: annex/publikationen/
+        - listitem [ref=e177]:
+          - link "Auszeichnungen" [ref=e178] [cursor=pointer]:
+            - /url: annex/auszeichnungen.html
+    - generic [ref=e179]:
+      - heading "Impressum" [level=2] [ref=e180]:
+        - link "Impressum" [ref=e181] [cursor=pointer]:
+          - /url: impressum.html
+      - list [ref=e182]:
+        - listitem [ref=e183]:
+          - link "Datenschutzinformation" [ref=e184] [cursor=pointer]:
+            - /url: impressum/datenschutzinformationen.html

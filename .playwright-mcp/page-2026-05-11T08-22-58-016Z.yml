@@ -1,0 +1,256 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "pool logo" [ref=e6] [cursor=pointer]:
+      - /url: https://www.poolarch.ch/
+      - img "pool logo" [ref=e7]
+    - list [ref=e9]:
+      - listitem [ref=e10]:
+        - link "Suche" [ref=e11] [cursor=pointer]:
+          - /url: suche.html
+      - listitem [ref=e12]:
+        - link "Kontakt" [ref=e13] [cursor=pointer]:
+          - /url: buero/kontakt.html
+      - listitem [ref=e14]:
+        - link [ref=e15] [cursor=pointer]:
+          - /url: https://www.instagram.com/poolarchitekten
+  - generic [ref=e16]:
+    - list [ref=e19]:
+      - listitem [ref=e20]:
+        - link "Projekte" [ref=e21] [cursor=pointer]:
+          - /url: projekte/#Projekte
+      - listitem [ref=e22]:
+        - link "Büro" [ref=e23] [cursor=pointer]:
+          - /url: buero/portrait/#Büro
+      - listitem [ref=e24]:
+        - link "Loop" [ref=e25] [cursor=pointer]:
+          - /url: loop/#Loop
+      - listitem [ref=e26]:
+        - link "Annex" [ref=e27] [cursor=pointer]:
+          - /url: annex/ausstellungen.html#Annex
+    - list [ref=e30]:
+      - listitem [ref=e31]:
+        - link "Nutzung" [ref=e32] [cursor=pointer]:
+          - /url: projekte/nutzung.html
+      - listitem [ref=e33]:
+        - link "Projektstand" [ref=e34] [cursor=pointer]:
+          - /url: projekte/projektstand.html
+      - listitem [ref=e35]:
+        - link "Karte" [ref=e36] [cursor=pointer]:
+          - /url: projekte/karte.html
+      - listitem [ref=e37]:
+        - link "Werkverzeichnis" [ref=e38] [cursor=pointer]:
+          - /url: projekte/werkverzeichnis.html
+      - listitem [ref=e39]:
+        - link:
+          - /url: projekte/2025.html
+      - listitem [ref=e40]:
+        - link:
+          - /url: projekte/2024.html
+      - listitem [ref=e41]:
+        - link:
+          - /url: projekte/2023.html
+      - listitem [ref=e42]:
+        - link:
+          - /url: projekte/2022.html
+      - listitem [ref=e43]:
+        - link:
+          - /url: projekte/2021.html
+      - listitem [ref=e44]:
+        - link:
+          - /url: projekte/2020.html
+    - heading "Erneuerung Wohnsiedlung Badenerstrasse, Zürich" [level=1] [ref=e49]
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - paragraph [ref=e53]:
+          - text: Stadthaus an der Badenerstrasse mit Gewerbe und Wohnungen – mit Potenzial zur Weiterentwicklung
+          - text: Projektwettbewerb 2025, 3. Preis
+        - paragraph [ref=e54]
+        - generic [ref=e55]:
+          - paragraph [ref=e56]:
+            - text: Urbanität durch qualitätvolle Dichte – Entlang der Badenerstrasse entsteht ein Stadthaus als Baustein einer sich verdichtenden Stadtlandschaft. Das Projekt markiert den Übergang zwischen bestehender Bebauung und zukünftiger Massstäblichkeit und versteht sich als präzise Weiterentwicklung im gewachsenen Kontext. Es reagiert auf steigende bauliche und soziale Dichte und stärkt den Strassenraum als urbanen Ort von Aufenthalt, Begegnung und Bewegung.
+            - text: Das Erdgeschoss öffnet sich mit flexibel nutzbaren Gewerbeeinheiten und klar adressierten Eingängen zur Stadt. Erker und Rücksprünge strukturieren das Volumen und differenzieren die Fassade. Der bestehende Fussabdruck bleibt erhalten; die Architektur gewinnt dabei Eigenständigkeit und Qualität. Volumetrie und Fassadengliederung vermitteln zwischen den Nachbarbauten, eine klare Horizontlinie sichert Kontinuität im Stadtraum. Die Freiräume reagieren auf die erhöhte Dichte mit differenzierten Qualitäten. Zur Strasse entsteht eine klar gefasste Vorzone als Übergang zum öffentlichen Raum. Grosskronige Bäume verleihen Massstab und Tiefe. Im rückwärtigen Bereich entwickelt sich eine ruhige, waldartige Freiraumstruktur mit standortgerechter Bepflanzung, die ein angenehmes Mikroklima schafft. Terrassen, Höfe und Dachflächen ergänzen das Angebot an gemeinschaftlich nutzbaren Grünräumen. Das Gebäude bietet flexible, langfristig nutzbare Grundrisse für unterschiedliche Lebensmodelle. Die Wohnungen reagieren differenziert auf Stadt- und Gartenseite und schaffen ein ausgewogenes Verhältnis zwischen Offenheit und Rückzug. Gemeinschaftliche Bereiche – vom Eingang über die Treppenhäuser bis zu den Dachflächen – fördern Begegnung und Nachbarschaft.
+            - text: Konstruktiv folgt das Haus einem klaren, robusten Prinzip. Ein effizientes Tragwerk ermöglicht wirtschaftliche Spannweiten, modulare Grundrisse und eine hohe Nutzungsvielfalt. Die Struktur ist auf Dauerhaftigkeit und Anpassungsfähigkeit ausgelegt und bildet die Grundlage für langfristige Mietverhältnisse und eine nachhaltige Bewirtschaftung. Kompakte Bauweise, gute Orientierung und eine leistungsfähige Gebäudehülle sichern einen hohen energetischen Standard bei minimalem technischem Aufwand. Der bewusste, zurückhaltende Einsatz langlebiger Materialien reduziert den Unterhaltsaufwand und schont Ressourcen über den gesamten Lebenszyklus. So entsteht ein dauerhaftes, identitätsstiftendes Stadthaus mit konstruktiver Klarheit und zurückhaltender Präsenz – ökologisch verantwortungsvoll und sozial verbindend.
+          - paragraph [ref=e57]:
+            - strong [ref=e58]: Architektur
+            - text: pool Architekten
+            - strong [ref=e59]: Landschaftsarchitektur
+            - text: BÖE studio
+            - strong [ref=e60]: Bauingenieurewesen
+            - text: Dr. Deuring+Oehninger AG
+            - strong [ref=e61]: Haustechnik
+            - text: HTR AG Engineering und Consulting für Gebäudetechnik
+            - strong [ref=e62]: Brandschutz
+            - text: Makiol Wiederkehr AG
+            - strong [ref=e63]: Visualisierung
+            - text: studio blomen
+      - generic [ref=e64]:
+        - link [ref=e66] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-bildgallery/visualisierung-wohnsiedlung-badenerstrasse.html
+        - link [ref=e68] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-bildgallery/eingangshalle.html
+        - link [ref=e70] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-bildgallery/skizze-garten.html
+        - link [ref=e72] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-bildgallery/skizze-erker.html
+        - link [ref=e74] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-bildgallery/visualisierung-wohnung.html
+        - link [ref=e76] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-bildgallery/visualisierung-mit-aufstockung.html
+      - generic [ref=e77]:
+        - link "Situation" [ref=e79] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-plangallery/situation.html
+          - img "Situation" [ref=e80]
+        - link "Erdgeschoss mit Umgebung" [ref=e82] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-plangallery/erdgeschoss-mit-umgebung.html
+          - img "Erdgeschoss mit Umgebung" [ref=e83]
+        - link "Ansicht" [ref=e85] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-plangallery/ansicht.html
+          - img "Ansicht" [ref=e86]
+        - link "Querschnitt" [ref=e88] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-plangallery/querschnitt.html
+          - img "Querschnitt" [ref=e89]
+        - link "Regelgeschoss" [ref=e91] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-plangallery/regelgeschoss.html
+          - img "Regelgeschoss" [ref=e92]
+        - link "Wohnungen" [ref=e94] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-plangallery/wohnungen.html
+          - img "Wohnungen" [ref=e95]
+        - link "Skizze Aufstockung" [ref=e97] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-plangallery/skizze-aufstockung.html
+          - img "Skizze Aufstockung" [ref=e98]
+        - link "Schnitt Aufstockung" [ref=e100] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-plangallery/schnitt-aufstockung.html
+          - img "Schnitt Aufstockung" [ref=e101]
+        - link "Modellfoto" [ref=e103] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-plangallery/modellfoto.html
+          - img "Modellfoto" [ref=e104]
+        - link "Modellfoto mit Aufstockungsmöglichkeit" [ref=e106] [cursor=pointer]:
+          - /url: projekte/2025/0526-erneuerung-wohnsiedlung-badenerstrasse/0526-plangallery/modellfoto-mit-aufstockungsmoeglichkeit.html
+          - img "Modellfoto mit Aufstockungsmöglichkeit" [ref=e107]
+    - text: "true"
+  - generic [ref=e108]:
+    - generic [ref=e109]:
+      - heading "Kontakt:" [level=2] [ref=e110]
+      - text: pool Architekten
+      - text: Bremgartnerstrasse 7
+      - text: 8003 Zürich
+      - text: T +41 44 200 70 70
+      - link "pool@poolarch.ch" [ref=e111] [cursor=pointer]:
+        - /url: mailto:pool@poolarch.ch
+      - link "Instagram" [ref=e112] [cursor=pointer]:
+        - /url: https://www.instagram.com/poolarchitekten/
+    - heading "News" [level=2] [ref=e114]:
+      - link "News" [ref=e115] [cursor=pointer]:
+        - /url: index/
+    - generic [ref=e116]:
+      - heading "Projekte" [level=2] [ref=e117]:
+        - link "Projekte" [ref=e118] [cursor=pointer]:
+          - /url: projekte/
+      - list [ref=e119]:
+        - listitem [ref=e120]:
+          - link "Karte" [ref=e121] [cursor=pointer]:
+            - /url: projekte/karte.html
+        - listitem [ref=e122]:
+          - link "Projektstand" [ref=e123] [cursor=pointer]:
+            - /url: projekte/projektstand.html
+          - list [ref=e124]:
+            - listitem [ref=e125]:
+              - link "Ausgeführt" [ref=e126] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Ausgeführt
+            - listitem [ref=e127]:
+              - link "In Bearbeitung" [ref=e128] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=In Bearbeitung
+            - listitem [ref=e129]:
+              - link "1. Preis" [ref=e130] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=1. Preis
+            - listitem [ref=e131]:
+              - link "Wettbewerbe" [ref=e132] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Wettbewerbe
+        - listitem [ref=e133]:
+          - link "Werkverzeichnis" [ref=e134] [cursor=pointer]:
+            - /url: projekte/werkverzeichnis.html
+        - listitem [ref=e135]:
+          - link "Nutzung" [ref=e136] [cursor=pointer]:
+            - /url: projekte/nutzung.html
+          - list [ref=e137]:
+            - listitem [ref=e138]:
+              - link "Städtebau" [ref=e139] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Städtebau
+            - listitem [ref=e140]:
+              - link "Wohnen" [ref=e141] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Wohnen
+            - listitem [ref=e142]:
+              - link "Dienstleistung" [ref=e143] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Dienstleistung
+            - listitem [ref=e144]:
+              - link "Mixed" [ref=e145] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Mixed
+            - listitem [ref=e146]:
+              - link "Schulen" [ref=e147] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Schulen
+            - listitem [ref=e148]:
+              - link "Öffentliche Bauten" [ref=e149] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Öffentliche Bauten
+        - listitem:
+          - link:
+            - /url: projekte/2020.html
+        - listitem:
+          - link:
+            - /url: projekte/2021.html
+        - listitem:
+          - link:
+            - /url: projekte/2022.html
+        - listitem:
+          - link:
+            - /url: projekte/2023.html
+        - listitem:
+          - link:
+            - /url: projekte/2024.html
+        - listitem:
+          - link:
+            - /url: projekte/2025.html
+    - generic [ref=e150]:
+      - heading "Büro" [level=2] [ref=e151]:
+        - link "Büro" [ref=e152] [cursor=pointer]:
+          - /url: buero/
+      - list [ref=e153]:
+        - listitem [ref=e154]:
+          - link "Portrait" [ref=e155] [cursor=pointer]:
+            - /url: buero/portrait/
+        - listitem [ref=e156]:
+          - link "Team" [ref=e157] [cursor=pointer]:
+            - /url: buero/team/
+        - listitem [ref=e158]:
+          - link "Jobs" [ref=e159] [cursor=pointer]:
+            - /url: buero/jobs.html
+        - listitem [ref=e160]:
+          - link "Kontakt" [ref=e161] [cursor=pointer]:
+            - /url: buero/kontakt.html
+    - generic [ref=e162]:
+      - heading "Annex" [level=2] [ref=e163]:
+        - link "Annex" [ref=e164] [cursor=pointer]:
+          - /url: annex/
+      - list [ref=e165]:
+        - listitem [ref=e166]:
+          - link "Ausstellungen" [ref=e167] [cursor=pointer]:
+            - /url: annex/ausstellungen.html
+        - listitem [ref=e168]:
+          - link "Bücher" [ref=e169] [cursor=pointer]:
+            - /url: annex/buecher.html
+        - listitem [ref=e170]:
+          - link "Galerie" [ref=e171] [cursor=pointer]:
+            - /url: annex/galerie/
+        - listitem [ref=e172]:
+          - link "Publikationen" [ref=e173] [cursor=pointer]:
+            - /url: annex/publikationen/
+        - listitem [ref=e174]:
+          - link "Auszeichnungen" [ref=e175] [cursor=pointer]:
+            - /url: annex/auszeichnungen.html
+    - generic [ref=e176]:
+      - heading "Impressum" [level=2] [ref=e177]:
+        - link "Impressum" [ref=e178] [cursor=pointer]:
+          - /url: impressum.html
+      - list [ref=e179]:
+        - listitem [ref=e180]:
+          - link "Datenschutzinformation" [ref=e181] [cursor=pointer]:
+            - /url: impressum/datenschutzinformationen.html

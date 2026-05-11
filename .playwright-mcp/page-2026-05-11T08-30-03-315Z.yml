@@ -1,0 +1,1144 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "pool logo" [ref=e6] [cursor=pointer]:
+      - /url: https://www.poolarch.ch/
+      - img "pool logo" [ref=e7]
+    - list [ref=e9]:
+      - listitem [ref=e10]:
+        - link "Suche" [ref=e11] [cursor=pointer]:
+          - /url: suche.html
+      - listitem [ref=e12]:
+        - link "Kontakt" [ref=e13] [cursor=pointer]:
+          - /url: buero/kontakt.html
+      - listitem [ref=e14]:
+        - link [ref=e15] [cursor=pointer]:
+          - /url: https://www.instagram.com/poolarchitekten
+  - generic [ref=e16]:
+    - list [ref=e19]:
+      - listitem [ref=e20]:
+        - link "Projekte" [ref=e21] [cursor=pointer]:
+          - /url: projekte/#Projekte
+      - listitem [ref=e22]:
+        - link "Büro" [ref=e23] [cursor=pointer]:
+          - /url: buero/portrait/#Büro
+      - listitem [ref=e24]:
+        - link "Loop" [ref=e25] [cursor=pointer]:
+          - /url: loop/#Loop
+      - listitem [ref=e26]:
+        - link "Annex" [ref=e27] [cursor=pointer]:
+          - /url: annex/ausstellungen.html#Annex
+    - list [ref=e30]:
+      - list:
+        - listitem [ref=e31]:
+          - link "Portrait" [ref=e32] [cursor=pointer]:
+            - /url: buero/portrait/#Portrait
+        - listitem [ref=e33]:
+          - link "Team" [ref=e34] [cursor=pointer]:
+            - /url: buero/team/#Team
+        - listitem [ref=e35]:
+          - link "Jobs" [ref=e36] [cursor=pointer]:
+            - /url: buero/jobs.html#Jobs
+        - listitem [ref=e37]:
+          - link "Kontakt" [ref=e38] [cursor=pointer]:
+            - /url: buero/kontakt.html#Kontakt
+    - generic [ref=e39]:
+      - generic [ref=e41]:
+        - heading "A" [level=1] [ref=e42]
+        - paragraph:
+          - link "Aya Abdulqader" [ref=e43] [cursor=pointer]:
+            - /url: mailto:a.abdulqader@poolarch.ch
+          - link "+41 44 200 70 67" [ref=e44] [cursor=pointer]:
+            - /url: mailto:a.abdulqader@poolarch.ch
+        - paragraph:
+          - link "Penny Alevizou" [ref=e45] [cursor=pointer]:
+            - /url: mailto:p.alevizou@poolarch.ch
+          - link "+41 44 200 79 17" [ref=e46] [cursor=pointer]:
+            - /url: mailto:p.alevizou@poolarch.ch
+        - paragraph:
+          - link "Joris Allemann" [ref=e47] [cursor=pointer]:
+            - /url: mailto:j.allemann@poolarch.ch
+          - link "+41 44 200 70 98" [ref=e48] [cursor=pointer]:
+            - /url: mailto:j.allemann@poolarch.ch
+        - heading "B" [level=1] [ref=e49]
+        - paragraph:
+          - link "Dieter Bachmann" [ref=e50] [cursor=pointer]:
+            - /url: mailto:d.bachmann@poolarch.ch
+          - link "+41 44 200 70 73" [ref=e51] [cursor=pointer]:
+            - /url: mailto:d.bachmann@poolarch.ch
+        - paragraph:
+          - link "Olga Ballesteros" [ref=e52] [cursor=pointer]:
+            - /url: mailto:o.ballesteros@poolarch.ch
+          - link "+41 44 200 79 13" [ref=e53] [cursor=pointer]:
+            - /url: mailto:o.ballesteros@poolarch.ch
+        - paragraph:
+          - link "Sharumy Belz" [ref=e54] [cursor=pointer]:
+            - /url: mailto:s.belz@poolarch.ch
+          - link "+41 44 200 70 93" [ref=e55] [cursor=pointer]:
+            - /url: mailto:s.belz@poolarch.ch
+        - paragraph:
+          - link "Andrea Berger" [ref=e56] [cursor=pointer]:
+            - /url: mailto:a.berger@poolarch.ch
+          - link "+41 44 200 70 83" [ref=e57] [cursor=pointer]:
+            - /url: mailto:a.berger@poolarch.ch
+        - paragraph:
+          - link "Floris Besserer" [ref=e58] [cursor=pointer]:
+            - /url: mailto:f.besserer@poolarch.ch
+          - link "+41 44 200 70 71" [ref=e59] [cursor=pointer]:
+            - /url: mailto:f.besserer@poolarch.ch
+        - paragraph:
+          - link "Riet Bezzola" [ref=e60] [cursor=pointer]:
+            - /url: mailto:r.bezzola@poolarch.ch
+          - link "+41 44 200 70 66" [ref=e61] [cursor=pointer]:
+            - /url: mailto:r.bezzola@poolarch.ch
+        - paragraph:
+          - link "Christoph Bonke" [ref=e62] [cursor=pointer]:
+            - /url: mailto:c.bonke@poolarch.ch
+          - link "+41 44 200 70 63" [ref=e63] [cursor=pointer]:
+            - /url: mailto:c.bonke@poolarch.ch
+        - paragraph:
+          - link "Margherita Borroni" [ref=e64] [cursor=pointer]:
+            - /url: mailto:m.borroni@poolarch.ch
+          - link "+41 44 200 76 31" [ref=e65] [cursor=pointer]:
+            - /url: mailto:m.borroni@poolarch.ch
+        - paragraph:
+          - link "Elias Bey" [ref=e66] [cursor=pointer]:
+            - /url: mailto:e.bey@poolarch.ch
+          - link "+41 44 200 76 56" [ref=e67] [cursor=pointer]:
+            - /url: mailto:e.bey@poolarch.ch
+        - heading "C" [level=1] [ref=e68]
+        - paragraph:
+          - link "Geraldine Clausen" [ref=e69] [cursor=pointer]:
+            - /url: mailto:g.clausen@poolarch.ch
+          - link "+41 44 200 76 30‬" [ref=e70] [cursor=pointer]:
+            - /url: mailto:g.clausen@poolarch.ch
+        - heading "D" [level=1] [ref=e71]
+        - paragraph:
+          - link "Ileana Dan" [ref=e72] [cursor=pointer]:
+            - /url: mailto:i.dan@poolarch.ch
+          - link "+41 44 200 79 02" [ref=e73] [cursor=pointer]:
+            - /url: mailto:i.dan@poolarch.ch
+        - paragraph:
+          - link "David Kunz" [ref=e74] [cursor=pointer]:
+            - /url: mailto:d.kunz@poolarch.ch
+          - link "+41 44 200 70 70" [ref=e75] [cursor=pointer]:
+            - /url: mailto:d.kunz@poolarch.ch
+        - paragraph:
+          - link "Paola De Michiel" [ref=e76] [cursor=pointer]:
+            - /url: mailto:p.demichiel@poolarch.ch
+          - link "+41 44 200 79 24" [ref=e77] [cursor=pointer]:
+            - /url: mailto:p.demichiel@poolarch.ch
+        - heading "E" [level=1] [ref=e78]
+        - paragraph:
+          - link "Paul Eichholtz" [ref=e79] [cursor=pointer]:
+            - /url: mailto:p.eichholtz@poolarch.ch
+          - link "+41 44 200 76 59" [ref=e80] [cursor=pointer]:
+            - /url: mailto:p.eichholtz@poolarch.ch
+        - paragraph:
+          - link "Linda Eisenbart" [ref=e81] [cursor=pointer]:
+            - /url: mailto:l.eisenbart@poolarch.ch
+          - link "+41 44 200 79 08" [ref=e82] [cursor=pointer]:
+            - /url: mailto:l.eisenbart@poolarch.ch
+        - paragraph:
+          - link "Raphael Eichenmann" [ref=e83] [cursor=pointer]:
+            - /url: mailto:r.eichenmann@poolarch.ch
+          - link "+41 44 200 79 12" [ref=e84] [cursor=pointer]:
+            - /url: mailto:r.eichenmann@poolarch.ch
+        - heading "F" [level=1] [ref=e85]
+        - paragraph:
+          - link "Susanna Farkas" [ref=e86] [cursor=pointer]:
+            - /url: mailto:s.farkas@poolarch.ch
+          - link "+41 44 200 76 48" [ref=e87] [cursor=pointer]:
+            - /url: mailto:s.farkas@poolarch.ch
+        - paragraph:
+          - link "Lluis Fernadez Vila" [ref=e88] [cursor=pointer]:
+            - /url: mailto:l.fernandezvila@poolarch.ch
+          - link "+41 44 200 79 25" [ref=e89] [cursor=pointer]:
+            - /url: mailto:l.fernandezvila@poolarch.ch
+        - paragraph:
+          - link "Quentin Ferry" [ref=e90] [cursor=pointer]:
+            - /url: mailto:q.ferry@poolarch.ch
+          - link "+41 44 200 70 94" [ref=e91] [cursor=pointer]:
+            - /url: mailto:q.ferry@poolarch.ch
+        - paragraph:
+          - link "Raphael Frei" [ref=e92] [cursor=pointer]:
+            - /url: mailto:r.frei@poolarch.ch
+          - link "+41 44 200 70 74" [ref=e93] [cursor=pointer]:
+            - /url: mailto:r.frei@poolarch.ch
+        - paragraph:
+          - link "Thomas Friberg" [ref=e94] [cursor=pointer]:
+            - /url: mailto:t.friberg@poolarch.ch
+          - link "+41 44 200 70 84" [ref=e95] [cursor=pointer]:
+            - /url: mailto:t.friberg@poolarch.ch
+        - heading "G" [level=1] [ref=e96]
+        - paragraph:
+          - link "Bettina Gerhold" [ref=e97] [cursor=pointer]:
+            - /url: mailto:b.gerhold@poolarch.ch
+          - link "+41 44 200 76 54" [ref=e98] [cursor=pointer]:
+            - /url: mailto:b.gerhold@poolarch.ch
+        - paragraph:
+          - link "Graziella Gini" [ref=e99] [cursor=pointer]:
+            - /url: mailto:g.gini@poolarch.ch
+          - link "+41 44 200 79 18" [ref=e100] [cursor=pointer]:
+            - /url: mailto:g.gini@poolarch.ch
+        - paragraph:
+          - link "Hans Gut" [ref=e101] [cursor=pointer]:
+            - /url: mailto:h.gut@poolarch.ch
+          - link "+41 44 200 76 37" [ref=e102] [cursor=pointer]:
+            - /url: mailto:h.gut@poolarch.ch
+        - paragraph:
+          - link "Martin Gutekunst" [ref=e103] [cursor=pointer]:
+            - /url: mailto:m.gutekunst@poolarch.ch
+          - link "+41 44 200 70 82" [ref=e104] [cursor=pointer]:
+            - /url: mailto:m.gutekunst@poolarch.ch
+        - paragraph:
+          - link "Paola Gysi" [ref=e105] [cursor=pointer]:
+            - /url: mailto:p.gysi@poolarch.ch
+          - link "+41 44 200 76 49" [ref=e106] [cursor=pointer]:
+            - /url: mailto:p.gysi@poolarch.ch
+        - heading "H" [level=1] [ref=e107]
+        - paragraph:
+          - link "Patrick Hagmann" [ref=e108] [cursor=pointer]:
+            - /url: mailto:p.hagmann@poolarch.ch
+          - link "+41 44 200 70 81" [ref=e109] [cursor=pointer]:
+            - /url: mailto:p.hagmann@poolarch.ch
+        - paragraph:
+          - link "Mathias Heinz" [ref=e110] [cursor=pointer]:
+            - /url: mailto:m.heinz@poolarch.ch
+          - link "+41 44 200 70 78" [ref=e111] [cursor=pointer]:
+            - /url: mailto:m.heinz@poolarch.ch
+        - paragraph:
+          - link "Philipp Hirtler" [ref=e112] [cursor=pointer]:
+            - /url: mailto:p.hirtler@poolarch.ch
+          - link "+41 44 200 70 75" [ref=e113] [cursor=pointer]:
+            - /url: mailto:p.hirtler@poolarch.ch
+        - paragraph:
+          - link "Esther Hodel" [ref=e114] [cursor=pointer]:
+            - /url: mailto:e.hodel@poolarch.ch
+          - link "+41 44 200 79 01" [ref=e115] [cursor=pointer]:
+            - /url: mailto:e.hodel@poolarch.ch
+        - paragraph:
+          - link "Leonie Hohmann" [ref=e116] [cursor=pointer]:
+            - /url: mailto:l.hohmann@poolarch.ch
+          - link "+41 44 200 79 04" [ref=e117] [cursor=pointer]:
+            - /url: mailto:l.hohmann@poolarch.ch
+        - paragraph:
+          - link "Sabrina Hobi" [ref=e118] [cursor=pointer]:
+            - /url: mailto:s.hobi@poolarch.ch
+          - link "+41 44 200 70 80" [ref=e119] [cursor=pointer]:
+            - /url: mailto:s.hobi@poolarch.ch
+        - paragraph:
+          - link "Benz Hubler" [ref=e120] [cursor=pointer]:
+            - /url: mailto:b.hubler@poolarch.ch
+          - link "+41 44 200 76 41" [ref=e121] [cursor=pointer]:
+            - /url: mailto:b.hubler@poolarch.ch
+        - heading "J" [level=1] [ref=e122]
+        - paragraph:
+          - link "Marcel Jäggi" [ref=e123] [cursor=pointer]:
+            - /url: mailto:m.jaeggi@poolarch.ch
+          - link "+41 44 200 76 36" [ref=e124] [cursor=pointer]:
+            - /url: mailto:m.jaeggi@poolarch.ch
+        - paragraph:
+          - link "Brian Jordan" [ref=e125] [cursor=pointer]:
+            - /url: mailto:b.jordan@poolarch.ch
+          - link "+41 44 200 79 11" [ref=e126] [cursor=pointer]:
+            - /url: mailto:b.jordan@poolarch.ch
+        - paragraph:
+          - link "Louise Jeannerat" [ref=e127] [cursor=pointer]:
+            - /url: mailto:l.jeannerat@poolarch.ch
+          - link "‭+41 44 200 76 58‬" [ref=e128] [cursor=pointer]:
+            - /url: mailto:l.jeannerat@poolarch.ch
+        - heading "K" [level=1] [ref=e129]
+        - paragraph:
+          - link "Karolina Katsabi" [ref=e130] [cursor=pointer]:
+            - /url: mailto:k.katsabi@poolarch.ch
+          - link "+41 44 200 70 70" [ref=e131] [cursor=pointer]:
+            - /url: mailto:k.katsabi@poolarch.ch
+        - paragraph:
+          - link "Bettina Komminoth" [ref=e132] [cursor=pointer]:
+            - /url: mailto:b.komminoth@poolarch.ch
+          - link "+41 44 200 70 97" [ref=e133] [cursor=pointer]:
+            - /url: mailto:b.komminoth@poolarch.ch
+        - paragraph:
+          - link "Markéta Korbeliusová" [ref=e134] [cursor=pointer]:
+            - /url: mailto:m.korbeliusova@poolarch.ch
+          - link "+41 44 200 79 00" [ref=e135] [cursor=pointer]:
+            - /url: mailto:m.korbeliusova@poolarch.ch
+        - paragraph:
+          - link "Stasia Kremer" [ref=e136] [cursor=pointer]:
+            - /url: mailto:s.kremer@poolarch.ch
+          - link "+41 44 200 70 85" [ref=e137] [cursor=pointer]:
+            - /url: mailto:s.kremer@poolarch.ch
+        - heading "L" [level=1] [ref=e138]
+        - paragraph:
+          - link "David Leuthold" [ref=e139] [cursor=pointer]:
+            - /url: mailto:d.leuthold@poolarch.ch
+          - link "+41 44 200 70 77" [ref=e140] [cursor=pointer]:
+            - /url: mailto:d.leuthold@poolarch.ch
+        - paragraph:
+          - link "Joanna Lewanska" [ref=e141] [cursor=pointer]:
+            - /url: mailto:j.lewanska@poolarch.ch
+          - link "+41 44 200 79 29" [ref=e142] [cursor=pointer]:
+            - /url: mailto:j.lewanska@poolarch.ch
+        - paragraph:
+          - link "Yael Liebetrau" [ref=e143] [cursor=pointer]:
+            - /url: mailto:y.liebetrau@poolarch.ch
+          - link "+41 44 200 76 53" [ref=e144] [cursor=pointer]:
+            - /url: mailto:y.liebetrau@poolarch.ch
+        - paragraph:
+          - link "Simone Liner" [ref=e145] [cursor=pointer]:
+            - /url: mailto:s.liner@poolarch.ch
+          - link "+41 44 200 79 03" [ref=e146] [cursor=pointer]:
+            - /url: mailto:s.liner@poolarch.ch
+        - heading "M" [level=1] [ref=e147]
+        - paragraph:
+          - link "Francesco Mannarino" [ref=e148] [cursor=pointer]:
+            - /url: mailto:f.mannarino@poolarch.ch
+          - link "+41 44 200 79 14" [ref=e149] [cursor=pointer]:
+            - /url: mailto:f.mannarino@poolarch.ch
+        - paragraph:
+          - link "Maja Markovic" [ref=e150] [cursor=pointer]:
+            - /url: mailto:m.markovic@poolarch.ch
+          - link "+41 44 200 70 95" [ref=e151] [cursor=pointer]:
+            - /url: mailto:m.markovic@poolarch.ch
+        - paragraph:
+          - link "Samuel Martin" [ref=e152] [cursor=pointer]:
+            - /url: mailto:s.martin@poolarch.ch
+          - link "+41 44 200 76 40" [ref=e153] [cursor=pointer]:
+            - /url: mailto:s.martin@poolarch.ch
+        - paragraph:
+          - link "Nico Mäder" [ref=e154] [cursor=pointer]:
+            - /url: mailto:n.maeder@poolarch.ch
+          - link "+41 44 200 76 47" [ref=e155] [cursor=pointer]:
+            - /url: mailto:n.maeder@poolarch.ch
+        - paragraph:
+          - link "Angela Meier" [ref=e156] [cursor=pointer]:
+            - /url: mailto:a.meier@poolarch.ch
+          - link "+41 44 200 76 51" [ref=e157] [cursor=pointer]:
+            - /url: mailto:a.meier@poolarch.ch
+        - paragraph:
+          - link "Andrin Messerli" [ref=e158] [cursor=pointer]:
+            - /url: mailto:a.messerli@poolarch.ch
+          - link "+41 44 200 76 52" [ref=e159] [cursor=pointer]:
+            - /url: mailto:a.messerli@poolarch.ch
+        - paragraph:
+          - link "Camillo Mingaia" [ref=e160] [cursor=pointer]:
+            - /url: mailto:c.mingaia@poolarch.ch
+          - link "+41 44 200 76 42" [ref=e161] [cursor=pointer]:
+            - /url: mailto:c.mingaia@poolarch.ch
+        - paragraph:
+          - link "Gordana Monstein" [ref=e162] [cursor=pointer]:
+            - /url: mailto:g.monstein@poolarch.ch
+          - link "+41 44 200 70 88" [ref=e163] [cursor=pointer]:
+            - /url: mailto:g.monstein@poolarch.ch
+        - paragraph:
+          - link "Nora Moser" [ref=e164] [cursor=pointer]:
+            - /url: mailto:n.moser@poolarch.ch
+          - link "+41 44 200 70 70" [ref=e165] [cursor=pointer]:
+            - /url: mailto:n.moser@poolarch.ch
+        - paragraph:
+          - link "Marta Muheim" [ref=e166] [cursor=pointer]:
+            - /url: mailto:m.muheim@poolarch.ch
+          - link "+41 44 200 70 70" [ref=e167] [cursor=pointer]:
+            - /url: mailto:m.muheim@poolarch.ch
+        - heading "N" [level=1] [ref=e168]
+        - paragraph:
+          - link "Hiep Nguyen" [ref=e169] [cursor=pointer]:
+            - /url: mailto:h.nguyen@poolarch.ch
+          - link "+41 44 200 79 27" [ref=e170] [cursor=pointer]:
+            - /url: mailto:h.nguyen@poolarch.ch
+        - heading "O" [level=1] [ref=e171]
+        - paragraph:
+          - link "Bernhard Ogrisek" [ref=e172] [cursor=pointer]:
+            - /url: mailto:b.ogrisek@poolarch.ch
+          - link "+41 44 200 76 46" [ref=e173] [cursor=pointer]:
+            - /url: mailto:b.ogrisek@poolarch.ch
+        - heading "P" [level=1] [ref=e174]
+        - paragraph:
+          - link "Ferdinand Pappenheim" [ref=e175] [cursor=pointer]:
+            - /url: mailto:f.pappenheim@poolarch.ch
+          - link "+41 44 200 70 99" [ref=e176] [cursor=pointer]:
+            - /url: mailto:f.pappenheim@poolarch.ch
+        - paragraph:
+          - link "Sophie Piticco" [ref=e177] [cursor=pointer]:
+            - /url: mailto:s.piticco@poolarch.ch
+          - link "+41 44 200 76 38" [ref=e178] [cursor=pointer]:
+            - /url: mailto:s.piticco@poolarch.ch
+        - paragraph:
+          - link "Johannes Pfeifle" [ref=e179] [cursor=pointer]:
+            - /url: mailto:j.pfeifle@poolarch.ch
+          - link "+41 44 200 70 76" [ref=e180] [cursor=pointer]:
+            - /url: mailto:j.pfeifle@poolarch.ch
+        - paragraph:
+          - link "Serena Peier" [ref=e181] [cursor=pointer]:
+            - /url: mailto:s.peier@poolarch.ch
+          - link "+41 44 200 70 70" [ref=e182] [cursor=pointer]:
+            - /url: mailto:s.peier@poolarch.ch
+        - heading "Q" [level=1] [ref=e183]
+        - paragraph:
+          - link "Patrick Queisser" [ref=e184] [cursor=pointer]:
+            - /url: mailto:p.queisser@poolarch.ch
+          - link "+41 44 200 70 92" [ref=e185] [cursor=pointer]:
+            - /url: mailto:p.queisser@poolarch.ch
+        - heading "R" [level=1] [ref=e186]
+        - paragraph:
+          - link "Héctor Rivera Bajo" [ref=e187] [cursor=pointer]:
+            - /url: mailto:h.riverabajo@poolarch.ch
+          - link "+41 44 200 70 87" [ref=e188] [cursor=pointer]:
+            - /url: mailto:h.riverabajo@poolarch.ch
+        - paragraph:
+          - link "Alessandro Roda Balzarini" [ref=e189] [cursor=pointer]:
+            - /url: mailto:a.rodabalzarini@poolarch.ch
+          - link "+41 44 200 79 29" [ref=e190] [cursor=pointer]:
+            - /url: mailto:a.rodabalzarini@poolarch.ch
+        - heading "S" [level=1] [ref=e191]
+        - paragraph:
+          - link "Hana Sano" [ref=e192] [cursor=pointer]:
+            - /url: mailto:h.sano@poolarch.ch
+          - link "+41 44 200 70 70" [ref=e193] [cursor=pointer]:
+            - /url: mailto:h.sano@poolarch.ch
+        - paragraph:
+          - link "Marie-Theres Sauer" [ref=e194] [cursor=pointer]:
+            - /url: mailto:m.sauer@poolarch.ch
+          - link "+41 44 200 79 15" [ref=e195] [cursor=pointer]:
+            - /url: mailto:m.sauer@poolarch.ch
+        - paragraph:
+          - link "Christina Scheifele" [ref=e196] [cursor=pointer]:
+            - /url: mailto:c.scheifele@poolarch.ch
+          - link "+41 44 200 76 55" [ref=e197] [cursor=pointer]:
+            - /url: mailto:c.scheifele@poolarch.ch
+        - paragraph:
+          - link "Mario Serratore" [ref=e198] [cursor=pointer]:
+            - /url: mailto:m.serratore@poolarch.ch
+          - link "+41 44 200 70 60" [ref=e199] [cursor=pointer]:
+            - /url: mailto:m.serratore@poolarch.ch
+        - paragraph:
+          - link "André Schmid" [ref=e200] [cursor=pointer]:
+            - /url: mailto:a.schmid@poolarch.ch
+          - link "+41 44 200 70 91" [ref=e201] [cursor=pointer]:
+            - /url: mailto:a.schmid@poolarch.ch
+        - paragraph:
+          - link "Katja Schöb" [ref=e202] [cursor=pointer]:
+            - /url: mailto:k.schoeb@poolarch.ch
+          - link "+41 44 200 76 43" [ref=e203] [cursor=pointer]:
+            - /url: mailto:k.schoeb@poolarch.ch
+        - paragraph:
+          - link "Andreas Sonderegger" [ref=e204] [cursor=pointer]:
+            - /url: mailto:a.sonderegger@poolarch.ch
+          - link "+41 44 200 70 72" [ref=e205] [cursor=pointer]:
+            - /url: mailto:a.sonderegger@poolarch.ch
+        - paragraph:
+          - link "Stefan Soom" [ref=e206] [cursor=pointer]:
+            - /url: mailto:s.soom@poolarch.ch
+          - link "+41 44 200 70 69" [ref=e207] [cursor=pointer]:
+            - /url: mailto:s.soom@poolarch.ch
+        - paragraph:
+          - link "Israt Sreoshi" [ref=e208] [cursor=pointer]:
+            - /url: mailto:i.sreoshi@poolarch.ch
+          - link "+41 44 200 79 10" [ref=e209] [cursor=pointer]:
+            - /url: mailto:i.sreoshi@poolarch.ch
+        - paragraph:
+          - link "Donatien Stallmach" [ref=e210] [cursor=pointer]:
+            - /url: mailto:d.stallmach@poolarch.ch
+          - link "+41 44 200 76 37" [ref=e211] [cursor=pointer]:
+            - /url: mailto:d.stallmach@poolarch.ch
+        - paragraph:
+          - link "Christoph Stahel" [ref=e212] [cursor=pointer]:
+            - /url: mailto:c.stahel@poolarch.ch
+          - link "+41 44 200 70 65" [ref=e213] [cursor=pointer]:
+            - /url: mailto:c.stahel@poolarch.ch
+        - paragraph:
+          - link "Ioanna Stavrou" [ref=e214] [cursor=pointer]:
+            - /url: mailto:i.stavrou@poolarch.ch
+          - link "+41 44 200 76 32" [ref=e215] [cursor=pointer]:
+            - /url: mailto:i.stavrou@poolarch.ch
+        - paragraph:
+          - link "Matthias Stocker" [ref=e216] [cursor=pointer]:
+            - /url: mailto:m.stocker@poolarch.ch
+          - link "+41 44 200 70 79" [ref=e217] [cursor=pointer]:
+            - /url: mailto:m.stocker@poolarch.ch
+        - paragraph:
+          - link "Anastasia Skorik" [ref=e218] [cursor=pointer]:
+            - /url: mailto:a.skorik@poolarch.ch
+          - link "+41 44 200 79 22" [ref=e219] [cursor=pointer]:
+            - /url: mailto:a.skorik@poolarch.ch
+        - paragraph:
+          - link "Tanja Sussmann" [ref=e220] [cursor=pointer]:
+            - /url: mailto:t.sussmann@poolarch.ch
+          - link "+41 44 200 76 57" [ref=e221] [cursor=pointer]:
+            - /url: mailto:t.sussmann@poolarch.ch
+        - paragraph:
+          - link "Michelle Stutz" [ref=e222] [cursor=pointer]:
+            - /url: mailto:m.stutz@poolarch.ch
+          - link "+41 44 200 79 05" [ref=e223] [cursor=pointer]:
+            - /url: mailto:m.stutz@poolarch.ch
+        - heading "T" [level=1] [ref=e224]
+        - paragraph:
+          - link "Martin Trefon" [ref=e225] [cursor=pointer]:
+            - /url: mailto:m.trefon@poolarch.ch
+          - link "+41 44 200 70 86" [ref=e226] [cursor=pointer]:
+            - /url: mailto:m.trefon@poolarch.ch
+        - paragraph:
+          - link "Micaela Tedone" [ref=e227] [cursor=pointer]:
+            - /url: mailto:m.tedone@poolarch.ch
+          - link "+41 44 200 79 21" [ref=e228] [cursor=pointer]:
+            - /url: mailto:m.tedone@poolarch.ch
+        - paragraph:
+          - link "Patricia Tintoré Vilar" [ref=e229] [cursor=pointer]:
+            - /url: mailto:p.tintore@poolarch.ch
+          - link "+41 44 200 79 19" [ref=e230] [cursor=pointer]:
+            - /url: mailto:p.tintore@poolarch.ch
+        - paragraph:
+          - link "Giulia Tönz" [ref=e231] [cursor=pointer]:
+            - /url: mailto:g.toenz@poolarch.ch
+          - link "+41 44 200 70 89" [ref=e232] [cursor=pointer]:
+            - /url: mailto:g.toenz@poolarch.ch
+        - heading "V" [level=1] [ref=e233]
+        - paragraph:
+          - link "Michael Vorbröcker" [ref=e234] [cursor=pointer]:
+            - /url: mailto:m.vorbroecker@poolarch.ch
+          - link "+41 44 200 79 09" [ref=e235] [cursor=pointer]:
+            - /url: mailto:m.vorbroecker@poolarch.ch
+        - heading "W" [level=1] [ref=e236]
+        - paragraph:
+          - link "Peter Wassmer" [ref=e237] [cursor=pointer]:
+            - /url: mailto:p.wassmer@poolarch.ch
+          - link "+41 44 200 70 96" [ref=e238] [cursor=pointer]:
+            - /url: mailto:p.wassmer@poolarch.ch
+        - paragraph:
+          - link "Jonas Wehrle" [ref=e239] [cursor=pointer]:
+            - /url: mailto:j.wehrle@poolarch.ch
+          - link "+41 44 200 70 61" [ref=e240] [cursor=pointer]:
+            - /url: mailto:j.wehrle@poolarch.ch
+        - paragraph:
+          - link "Linda Wehrli" [ref=e241] [cursor=pointer]:
+            - /url: mailto:l.wehrli@poolarch.ch
+          - link "+41 44 200 70 64" [ref=e242] [cursor=pointer]:
+            - /url: mailto:l.wehrli@poolarch.ch
+        - paragraph:
+          - link "Gabriela Wellenberg" [ref=e243] [cursor=pointer]:
+            - /url: mailto:g.wellenberg@poolarch.ch
+          - link "+41 44 200 76 50" [ref=e244] [cursor=pointer]:
+            - /url: mailto:g.wellenberg@poolarch.ch
+        - paragraph:
+          - link "Yannick Wettstein" [ref=e245] [cursor=pointer]:
+            - /url: mailto:y.wettstein@poolarch.ch
+          - link "+41 44 200 70 70" [ref=e246] [cursor=pointer]:
+            - /url: mailto:y.wettstein@poolarch.ch
+        - paragraph:
+          - link "Anna Willim" [ref=e247] [cursor=pointer]:
+            - /url: mailto:a.willim@poolarch.ch
+          - link "+41 44 200 79 28" [ref=e248] [cursor=pointer]:
+            - /url: mailto:a.willim@poolarch.ch
+        - paragraph:
+          - link "Teo Wolf" [ref=e249] [cursor=pointer]:
+            - /url: mailto:t.wolf@poolarch.ch
+          - link "+41 44 200 79 06" [ref=e250] [cursor=pointer]:
+            - /url: mailto:t.wolf@poolarch.ch
+        - heading "Z" [level=1] [ref=e251]
+        - paragraph [ref=e252]:
+          - link "Johannes Zenk" [ref=e253] [cursor=pointer]:
+            - /url: mailto:j.zenk@poolarch.ch
+          - link "+41 44 200 76 35" [ref=e254] [cursor=pointer]:
+            - /url: mailto:j.zenk@poolarch.ch
+      - generic [ref=e259]:
+        - article [ref=e260]:
+          - figure [ref=e261]:
+            - link "Aya Abdulqader" [ref=e262] [cursor=pointer]:
+              - /url: mailto:a.abdulqader@poolarch.ch
+              - img "Aya Abdulqader" [ref=e263]
+        - article [ref=e264]:
+          - figure [ref=e265]:
+            - link "Penny Alevizou" [ref=e266] [cursor=pointer]:
+              - /url: mailto:p.alevizou@poolarch.ch
+              - img "Penny Alevizou" [ref=e267]
+        - article [ref=e268]:
+          - figure [ref=e269]:
+            - link "Joris Allemann" [ref=e270] [cursor=pointer]:
+              - /url: mailto:j.allemann@poolarch.ch
+              - img "Joris Allemann" [ref=e271]
+        - article [ref=e272]:
+          - figure [ref=e273]:
+            - link "Dieter Bachmann" [ref=e274] [cursor=pointer]:
+              - /url: mailto:d.bachmann@poolarch.ch
+              - img "Dieter Bachmann" [ref=e275]
+        - article [ref=e276]:
+          - figure [ref=e277]:
+            - link "Olga Ballesteros" [ref=e278] [cursor=pointer]:
+              - /url: mailto:o.ballesteros@poolarch.ch
+              - img "Olga Ballesteros" [ref=e279]
+        - article [ref=e280]:
+          - figure [ref=e281]:
+            - link "Sharumy Belz" [ref=e282] [cursor=pointer]:
+              - /url: mailto:s.belz@poolarch.ch
+              - img "Sharumy Belz" [ref=e283]
+        - article [ref=e284]:
+          - figure [ref=e285]:
+            - link "Andrea Berger" [ref=e286] [cursor=pointer]:
+              - /url: mailto:a.berger@poolarch.ch
+              - img "Andrea Berger" [ref=e287]
+        - article [ref=e288]:
+          - figure [ref=e289]:
+            - link "Floris Besserer" [ref=e290] [cursor=pointer]:
+              - /url: mailto:f.besserer@poolarch.ch
+              - img "Floris Besserer" [ref=e291]
+        - article [ref=e292]:
+          - figure [ref=e293]:
+            - link "Riet Bezzola" [ref=e294] [cursor=pointer]:
+              - /url: mailto:r.bezzola@poolarch.ch
+              - img "Riet Bezzola" [ref=e295]
+        - article [ref=e296]:
+          - figure [ref=e297]:
+            - link "Christoph Bonke" [ref=e298] [cursor=pointer]:
+              - /url: mailto:c.bonke@poolarch.ch
+              - img "Christoph Bonke" [ref=e299]
+        - article [ref=e300]:
+          - figure [ref=e301]:
+            - link "Margherita Borroni" [ref=e302] [cursor=pointer]:
+              - /url: mailto:m.borroni@poolarch.ch
+              - img "Margherita Borroni" [ref=e303]
+        - article [ref=e304]:
+          - figure [ref=e305]:
+            - link "Elias Bey" [ref=e306] [cursor=pointer]:
+              - /url: mailto:e.bey@poolarch.ch
+              - img "Elias Bey" [ref=e307]
+        - article [ref=e308]:
+          - figure [ref=e309]:
+            - link "Geraldine Clausen" [ref=e310] [cursor=pointer]:
+              - /url: mailto:g.clausen@poolarch.ch
+              - img "Geraldine Clausen" [ref=e311]
+        - article [ref=e312]:
+          - figure [ref=e313]:
+            - link "Ileana Dan" [ref=e314] [cursor=pointer]:
+              - /url: mailto:i.dan@poolarch.ch
+              - img "Ileana Dan" [ref=e315]
+        - article [ref=e316]:
+          - figure [ref=e317]:
+            - link "David Kunz" [ref=e318] [cursor=pointer]:
+              - /url: mailto:d.kunz@poolarch.ch
+              - img "David Kunz" [ref=e319]
+        - article [ref=e320]:
+          - figure [ref=e321]:
+            - link "Paola De Michiel" [ref=e322] [cursor=pointer]:
+              - /url: mailto:p.demichiel@poolarch.ch
+              - img "Paola De Michiel" [ref=e323]
+        - article [ref=e324]:
+          - figure [ref=e325]:
+            - link "Paul Eichholtz" [ref=e326] [cursor=pointer]:
+              - /url: mailto:p.eichholtz@poolarch.ch
+              - img "Paul Eichholtz" [ref=e327]
+        - article [ref=e328]:
+          - figure [ref=e329]:
+            - link "Linda Eisenbart" [ref=e330] [cursor=pointer]:
+              - /url: mailto:l.eisenbart@poolarch.ch
+              - img "Linda Eisenbart" [ref=e331]
+        - article [ref=e332]:
+          - figure [ref=e333]:
+            - link "Raphael Eichenmann" [ref=e334] [cursor=pointer]:
+              - /url: mailto:r.eichenmann@poolarch.ch
+              - img "Raphael Eichenmann" [ref=e335]
+        - article [ref=e336]:
+          - figure [ref=e337]:
+            - link "Susanna Farkas" [ref=e338] [cursor=pointer]:
+              - /url: mailto:s.farkas@poolarch.ch
+              - img "Susanna Farkas" [ref=e339]
+        - article [ref=e340]:
+          - figure [ref=e341]:
+            - link "Lluis Fernadez Vila" [ref=e342] [cursor=pointer]:
+              - /url: mailto:l.fernandezvila@poolarch.ch
+              - img "Lluis Fernadez Vila" [ref=e343]
+        - article [ref=e344]:
+          - figure [ref=e345]:
+            - link "Quentin Ferry" [ref=e346] [cursor=pointer]:
+              - /url: mailto:q.ferry@poolarch.ch
+              - img "Quentin Ferry" [ref=e347]
+        - article [ref=e348]:
+          - figure [ref=e349]:
+            - link "Raphael Frei" [ref=e350] [cursor=pointer]:
+              - /url: mailto:r.frei@poolarch.ch
+              - img "Raphael Frei" [ref=e351]
+        - article [ref=e352]:
+          - figure [ref=e353]:
+            - link "Thomas Friberg" [ref=e354] [cursor=pointer]:
+              - /url: mailto:t.friberg@poolarch.ch
+              - img "Thomas Friberg" [ref=e355]
+        - article [ref=e356]:
+          - figure [ref=e357]:
+            - link "Bettina Gerhold" [ref=e358] [cursor=pointer]:
+              - /url: mailto:b.gerhold@poolarch.ch
+              - img "Bettina Gerhold" [ref=e359]
+        - article [ref=e360]:
+          - figure [ref=e361]:
+            - link "Graziella Gini" [ref=e362] [cursor=pointer]:
+              - /url: mailto:g.gini@poolarch.ch
+              - img "Graziella Gini" [ref=e363]
+        - article [ref=e364]:
+          - figure [ref=e365]:
+            - link "Hans Gut" [ref=e366] [cursor=pointer]:
+              - /url: mailto:h.gut@poolarch.ch
+              - img "Hans Gut" [ref=e367]
+        - article [ref=e368]:
+          - figure [ref=e369]:
+            - link "Martin Gutekunst" [ref=e370] [cursor=pointer]:
+              - /url: mailto:m.gutekunst@poolarch.ch
+              - img "Martin Gutekunst" [ref=e371]
+        - article [ref=e372]:
+          - figure [ref=e373]:
+            - link "Paola Gysi" [ref=e374] [cursor=pointer]:
+              - /url: mailto:p.gysi@poolarch.ch
+              - img "Paola Gysi" [ref=e375]
+        - article [ref=e376]:
+          - figure [ref=e377]:
+            - link "Patrick Hagmann" [ref=e378] [cursor=pointer]:
+              - /url: mailto:p.hagmann@poolarch.ch
+              - img "Patrick Hagmann" [ref=e379]
+        - article [ref=e380]:
+          - figure [ref=e381]:
+            - link "Mathias Heinz" [ref=e382] [cursor=pointer]:
+              - /url: mailto:m.heinz@poolarch.ch
+              - img "Mathias Heinz" [ref=e383]
+        - article [ref=e384]:
+          - figure [ref=e385]:
+            - link "Philipp Hirtler" [ref=e386] [cursor=pointer]:
+              - /url: mailto:p.hirtler@poolarch.ch
+              - img "Philipp Hirtler" [ref=e387]
+        - article [ref=e388]:
+          - figure [ref=e389]:
+            - link "Esther Hodel" [ref=e390] [cursor=pointer]:
+              - /url: mailto:e.hodel@poolarch.ch
+              - img "Esther Hodel" [ref=e391]
+        - article [ref=e392]:
+          - figure [ref=e393]:
+            - link "Leonie Hohmann" [ref=e394] [cursor=pointer]:
+              - /url: mailto:l.hohmann@poolarch.ch
+              - img "Leonie Hohmann" [ref=e395]
+        - article [ref=e396]:
+          - figure [ref=e397]:
+            - link "Sabrina Hobi" [ref=e398] [cursor=pointer]:
+              - /url: mailto:s.hobi@poolarch.ch
+              - img "Sabrina Hobi" [ref=e399]
+        - article [ref=e400]:
+          - figure [ref=e401]:
+            - link "Benz Hubler" [ref=e402] [cursor=pointer]:
+              - /url: mailto:b.hubler@poolarch.ch
+              - img "Benz Hubler" [ref=e403]
+        - article [ref=e404]:
+          - figure [ref=e405]:
+            - link "Marcel Jäggi" [ref=e406] [cursor=pointer]:
+              - /url: mailto:m.jaeggi@poolarch.ch
+              - img "Marcel Jäggi" [ref=e407]
+        - article [ref=e408]:
+          - figure [ref=e409]:
+            - link "Brian Jordan" [ref=e410] [cursor=pointer]:
+              - /url: mailto:b.jordan@poolarch.ch
+              - img "Brian Jordan" [ref=e411]
+        - article [ref=e412]:
+          - figure [ref=e413]:
+            - link "Louise Jeannerat" [ref=e414] [cursor=pointer]:
+              - /url: mailto:l.jeannerat@poolarch.ch
+              - img "Louise Jeannerat" [ref=e415]
+        - article [ref=e416]:
+          - figure [ref=e417]:
+            - link "Karolina Katsabi" [ref=e418] [cursor=pointer]:
+              - /url: mailto:k.katsabi@poolarch.ch
+              - img "Karolina Katsabi" [ref=e419]
+        - article [ref=e420]:
+          - figure [ref=e421]:
+            - link "Bettina Komminoth" [ref=e422] [cursor=pointer]:
+              - /url: mailto:b.komminoth@poolarch.ch
+              - img "Bettina Komminoth" [ref=e423]
+        - article [ref=e424]:
+          - figure [ref=e425]:
+            - link "Markéta Korbeliusová" [ref=e426] [cursor=pointer]:
+              - /url: mailto:m.korbeliusova@poolarch.ch
+              - img "Markéta Korbeliusová" [ref=e427]
+        - article [ref=e428]:
+          - figure [ref=e429]:
+            - link "Stasia Kremer" [ref=e430] [cursor=pointer]:
+              - /url: mailto:s.kremer@poolarch.ch
+              - img "Stasia Kremer" [ref=e431]
+        - article [ref=e432]:
+          - figure [ref=e433]:
+            - link "David Leuthold" [ref=e434] [cursor=pointer]:
+              - /url: mailto:d.leuthold@poolarch.ch
+              - img "David Leuthold" [ref=e435]
+        - article [ref=e436]:
+          - figure [ref=e437]:
+            - link "Joanna Lewanska" [ref=e438] [cursor=pointer]:
+              - /url: mailto:j.lewanska@poolarch.ch
+              - img "Joanna Lewanska" [ref=e439]
+        - article [ref=e440]:
+          - figure [ref=e441]:
+            - link "Yael Liebetrau" [ref=e442] [cursor=pointer]:
+              - /url: mailto:y.liebetrau@poolarch.ch
+              - img "Yael Liebetrau" [ref=e443]
+        - article [ref=e444]:
+          - figure [ref=e445]:
+            - link "Simone Liner" [ref=e446] [cursor=pointer]:
+              - /url: mailto:s.liner@poolarch.ch
+              - img "Simone Liner" [ref=e447]
+        - article [ref=e448]:
+          - figure [ref=e449]:
+            - link "Francesco Mannarino" [ref=e450] [cursor=pointer]:
+              - /url: mailto:f.mannarino@poolarch.ch
+              - img "Francesco Mannarino" [ref=e451]
+        - article [ref=e452]:
+          - figure [ref=e453]:
+            - link "Maja Markovic" [ref=e454] [cursor=pointer]:
+              - /url: mailto:m.markovic@poolarch.ch
+              - img "Maja Markovic" [ref=e455]
+        - article [ref=e456]:
+          - figure [ref=e457]:
+            - link "Samuel Martin" [ref=e458] [cursor=pointer]:
+              - /url: mailto:s.martin@poolarch.ch
+              - img "Samuel Martin" [ref=e459]
+        - article [ref=e460]:
+          - figure [ref=e461]:
+            - link "Nico Mäder" [ref=e462] [cursor=pointer]:
+              - /url: mailto:n.maeder@poolarch.ch
+              - img "Nico Mäder" [ref=e463]
+        - article [ref=e464]:
+          - figure [ref=e465]:
+            - link "Angela Meier" [ref=e466] [cursor=pointer]:
+              - /url: mailto:a.meier@poolarch.ch
+              - img "Angela Meier" [ref=e467]
+        - article [ref=e468]:
+          - figure [ref=e469]:
+            - link "Andrin Messerli" [ref=e470] [cursor=pointer]:
+              - /url: mailto:a.messerli@poolarch.ch
+              - img "Andrin Messerli" [ref=e471]
+        - article [ref=e472]:
+          - figure [ref=e473]:
+            - link "Camillo Mingaia" [ref=e474] [cursor=pointer]:
+              - /url: mailto:c.mingaia@poolarch.ch
+              - img "Camillo Mingaia" [ref=e475]
+        - article [ref=e476]:
+          - figure [ref=e477]:
+            - link "Gordana Monstein" [ref=e478] [cursor=pointer]:
+              - /url: mailto:g.monstein@poolarch.ch
+              - img "Gordana Monstein" [ref=e479]
+        - article [ref=e480]:
+          - figure [ref=e481]:
+            - link "Nora Moser" [ref=e482] [cursor=pointer]:
+              - /url: mailto:n.moser@poolarch.ch
+              - img "Nora Moser" [ref=e483]
+        - article [ref=e484]:
+          - figure [ref=e485]:
+            - link "Marta Muheim" [ref=e486] [cursor=pointer]:
+              - /url: mailto:m.muheim@poolarch.ch
+              - img "Marta Muheim" [ref=e487]
+        - article [ref=e488]:
+          - figure [ref=e489]:
+            - link "Hiep Nguyen" [ref=e490] [cursor=pointer]:
+              - /url: mailto:h.nguyen@poolarch.ch
+              - img "Hiep Nguyen" [ref=e491]
+        - article [ref=e492]:
+          - figure [ref=e493]:
+            - link "Bernhard Ogrisek" [ref=e494] [cursor=pointer]:
+              - /url: mailto:b.ogrisek@poolarch.ch
+              - img "Bernhard Ogrisek" [ref=e495]
+        - article [ref=e496]:
+          - figure [ref=e497]:
+            - link "Ferdinand Pappenheim" [ref=e498] [cursor=pointer]:
+              - /url: mailto:f.pappenheim@poolarch.ch
+              - img "Ferdinand Pappenheim" [ref=e499]
+        - article [ref=e500]:
+          - figure [ref=e501]:
+            - link "Sophie Piticco" [ref=e502] [cursor=pointer]:
+              - /url: mailto:s.piticco@poolarch.ch
+              - img "Sophie Piticco" [ref=e503]
+        - article [ref=e504]:
+          - figure [ref=e505]:
+            - link "Johannes Pfeifle" [ref=e506] [cursor=pointer]:
+              - /url: mailto:j.pfeifle@poolarch.ch
+              - img "Johannes Pfeifle" [ref=e507]
+        - article [ref=e508]:
+          - figure [ref=e509]:
+            - link "Serena Peier" [ref=e510] [cursor=pointer]:
+              - /url: mailto:s.peier@poolarch.ch
+              - img "Serena Peier" [ref=e511]
+        - article [ref=e512]:
+          - figure [ref=e513]:
+            - link "Patrick Queisser" [ref=e514] [cursor=pointer]:
+              - /url: mailto:p.queisser@poolarch.ch
+              - img "Patrick Queisser" [ref=e515]
+        - article [ref=e516]:
+          - figure [ref=e517]:
+            - link "Héctor Rivera Bajo" [ref=e518] [cursor=pointer]:
+              - /url: mailto:h.riverabajo@poolarch.ch
+              - img "Héctor Rivera Bajo" [ref=e519]
+        - article [ref=e520]:
+          - figure [ref=e521]:
+            - link "Alessandro Roda Balzarini" [ref=e522] [cursor=pointer]:
+              - /url: mailto:a.rodabalzarini@poolarch.ch
+              - img "Alessandro Roda Balzarini" [ref=e523]
+        - article [ref=e524]:
+          - figure [ref=e525]:
+            - link "Hana Sano" [ref=e526] [cursor=pointer]:
+              - /url: mailto:h.sano@poolarch.ch
+              - img "Hana Sano" [ref=e527]
+        - article [ref=e528]:
+          - figure [ref=e529]:
+            - link "Marie-Theres Sauer" [ref=e530] [cursor=pointer]:
+              - /url: mailto:m.sauer@poolarch.ch
+              - img "Marie-Theres Sauer" [ref=e531]
+        - article [ref=e532]:
+          - figure [ref=e533]:
+            - link "Christina Scheifele" [ref=e534] [cursor=pointer]:
+              - /url: mailto:c.scheifele@poolarch.ch
+              - img "Christina Scheifele" [ref=e535]
+        - article [ref=e536]:
+          - figure [ref=e537]:
+            - link "Mario Serratore" [ref=e538] [cursor=pointer]:
+              - /url: mailto:m.serratore@poolarch.ch
+              - img "Mario Serratore" [ref=e539]
+        - article [ref=e540]:
+          - figure [ref=e541]:
+            - link "André Schmid" [ref=e542] [cursor=pointer]:
+              - /url: mailto:a.schmid@poolarch.ch
+              - img "André Schmid" [ref=e543]
+        - article [ref=e544]:
+          - figure [ref=e545]:
+            - link "Katja Schöb" [ref=e546] [cursor=pointer]:
+              - /url: mailto:k.schoeb@poolarch.ch
+              - img "Katja Schöb" [ref=e547]
+        - article [ref=e548]:
+          - figure [ref=e549]:
+            - link "Andreas Sonderegger" [ref=e550] [cursor=pointer]:
+              - /url: mailto:a.sonderegger@poolarch.ch
+              - img "Andreas Sonderegger" [ref=e551]
+        - article [ref=e552]:
+          - figure [ref=e553]:
+            - link "Stefan Soom" [ref=e554] [cursor=pointer]:
+              - /url: mailto:s.soom@poolarch.ch
+              - img "Stefan Soom" [ref=e555]
+        - article [ref=e556]:
+          - figure [ref=e557]:
+            - link "Israt Sreoshi" [ref=e558] [cursor=pointer]:
+              - /url: mailto:i.sreoshi@poolarch.ch
+              - img "Israt Sreoshi" [ref=e559]
+        - article [ref=e560]:
+          - figure [ref=e561]:
+            - link "Donatien Stallmach" [ref=e562] [cursor=pointer]:
+              - /url: mailto:d.stallmach@poolarch.ch
+              - img "Donatien Stallmach" [ref=e563]
+        - article [ref=e564]:
+          - figure [ref=e565]:
+            - link "Christoph Stahel" [ref=e566] [cursor=pointer]:
+              - /url: mailto:c.stahel@poolarch.ch
+              - img "Christoph Stahel" [ref=e567]
+        - article [ref=e568]:
+          - figure [ref=e569]:
+            - link "Ioanna Stavrou" [ref=e570] [cursor=pointer]:
+              - /url: mailto:i.stavrou@poolarch.ch
+              - img "Ioanna Stavrou" [ref=e571]
+        - article [ref=e572]:
+          - figure [ref=e573]:
+            - link "Matthias Stocker" [ref=e574] [cursor=pointer]:
+              - /url: mailto:m.stocker@poolarch.ch
+              - img "Matthias Stocker" [ref=e575]
+        - article [ref=e576]:
+          - figure [ref=e577]:
+            - link "Anastasia Skorik" [ref=e578] [cursor=pointer]:
+              - /url: mailto:a.skorik@poolarch.ch
+              - img "Anastasia Skorik" [ref=e579]
+        - article [ref=e580]:
+          - figure [ref=e581]:
+            - link "Tanja Sussmann" [ref=e582] [cursor=pointer]:
+              - /url: mailto:t.sussmann@poolarch.ch
+              - img "Tanja Sussmann" [ref=e583]
+        - article [ref=e584]:
+          - figure [ref=e585]:
+            - link "Michelle Stutz" [ref=e586] [cursor=pointer]:
+              - /url: mailto:m.stutz@poolarch.ch
+              - img "Michelle Stutz" [ref=e587]
+        - article [ref=e588]:
+          - figure [ref=e589]:
+            - link "Martin Trefon" [ref=e590] [cursor=pointer]:
+              - /url: mailto:m.trefon@poolarch.ch
+              - img "Martin Trefon" [ref=e591]
+        - article [ref=e592]:
+          - figure [ref=e593]:
+            - link "Micaela Tedone" [ref=e594] [cursor=pointer]:
+              - /url: mailto:m.tedone@poolarch.ch
+              - img "Micaela Tedone" [ref=e595]
+        - article [ref=e596]:
+          - figure [ref=e597]:
+            - link "Patricia Tintoré Vilar" [ref=e598] [cursor=pointer]:
+              - /url: mailto:p.tintore@poolarch.ch
+              - img "Patricia Tintoré Vilar" [ref=e599]
+        - article [ref=e600]:
+          - figure [ref=e601]:
+            - link "Giulia Tönz" [ref=e602] [cursor=pointer]:
+              - /url: mailto:g.toenz@poolarch.ch
+              - img "Giulia Tönz" [ref=e603]
+        - article [ref=e604]:
+          - figure [ref=e605]:
+            - link "Michael Vorbröcker" [ref=e606] [cursor=pointer]:
+              - /url: mailto:m.vorbroecker@poolarch.ch
+              - img "Michael Vorbröcker" [ref=e607]
+        - article [ref=e608]:
+          - figure [ref=e609]:
+            - link "Peter Wassmer" [ref=e610] [cursor=pointer]:
+              - /url: mailto:p.wassmer@poolarch.ch
+              - img "Peter Wassmer" [ref=e611]
+        - article [ref=e612]:
+          - figure [ref=e613]:
+            - link "Jonas Wehrle" [ref=e614] [cursor=pointer]:
+              - /url: mailto:j.wehrle@poolarch.ch
+              - img "Jonas Wehrle" [ref=e615]
+        - article [ref=e616]:
+          - figure [ref=e617]:
+            - link "Linda Wehrli" [ref=e618] [cursor=pointer]:
+              - /url: mailto:l.wehrli@poolarch.ch
+              - img "Linda Wehrli" [ref=e619]
+        - article [ref=e620]:
+          - figure [ref=e621]:
+            - link "Gabriela Wellenberg" [ref=e622] [cursor=pointer]:
+              - /url: mailto:g.wellenberg@poolarch.ch
+              - img "Gabriela Wellenberg" [ref=e623]
+        - article [ref=e624]:
+          - figure [ref=e625]:
+            - link "Yannick Wettstein" [ref=e626] [cursor=pointer]:
+              - /url: mailto:y.wettstein@poolarch.ch
+              - img "Yannick Wettstein" [ref=e627]
+        - article [ref=e628]:
+          - figure [ref=e629]:
+            - link "Anna Willim" [ref=e630] [cursor=pointer]:
+              - /url: mailto:a.willim@poolarch.ch
+              - img "Anna Willim" [ref=e631]
+        - article [ref=e632]:
+          - figure [ref=e633]:
+            - link "Teo Wolf" [ref=e634] [cursor=pointer]:
+              - /url: mailto:t.wolf@poolarch.ch
+              - img "Teo Wolf" [ref=e635]
+        - article [ref=e636]:
+          - figure [ref=e637]:
+            - link "Johannes Zenk" [ref=e638] [cursor=pointer]:
+              - /url: mailto:j.zenk@poolarch.ch
+              - img "Johannes Zenk" [ref=e639]
+  - generic [ref=e640]:
+    - generic [ref=e641]:
+      - heading "Kontakt:" [level=2] [ref=e642]
+      - text: pool Architekten
+      - text: Bremgartnerstrasse 7
+      - text: 8003 Zürich
+      - text: T +41 44 200 70 70
+      - link "pool@poolarch.ch" [ref=e643] [cursor=pointer]:
+        - /url: mailto:pool@poolarch.ch
+      - link "Instagram" [ref=e644] [cursor=pointer]:
+        - /url: https://www.instagram.com/poolarchitekten/
+    - heading "News" [level=2] [ref=e646]:
+      - link "News" [ref=e647] [cursor=pointer]:
+        - /url: index/
+    - generic [ref=e648]:
+      - heading "Projekte" [level=2] [ref=e649]:
+        - link "Projekte" [ref=e650] [cursor=pointer]:
+          - /url: projekte/
+      - list [ref=e651]:
+        - listitem [ref=e652]:
+          - link "Karte" [ref=e653] [cursor=pointer]:
+            - /url: projekte/karte.html
+        - listitem [ref=e654]:
+          - link "Projektstand" [ref=e655] [cursor=pointer]:
+            - /url: projekte/projektstand.html
+          - list [ref=e656]:
+            - listitem [ref=e657]:
+              - link "Ausgeführt" [ref=e658] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Ausgeführt
+            - listitem [ref=e659]:
+              - link "In Bearbeitung" [ref=e660] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=In Bearbeitung
+            - listitem [ref=e661]:
+              - link "1. Preis" [ref=e662] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=1. Preis
+            - listitem [ref=e663]:
+              - link "Wettbewerbe" [ref=e664] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Wettbewerbe
+        - listitem [ref=e665]:
+          - link "Werkverzeichnis" [ref=e666] [cursor=pointer]:
+            - /url: projekte/werkverzeichnis.html
+        - listitem [ref=e667]:
+          - link "Nutzung" [ref=e668] [cursor=pointer]:
+            - /url: projekte/nutzung.html
+          - list [ref=e669]:
+            - listitem [ref=e670]:
+              - link "Städtebau" [ref=e671] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Städtebau
+            - listitem [ref=e672]:
+              - link "Wohnen" [ref=e673] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Wohnen
+            - listitem [ref=e674]:
+              - link "Dienstleistung" [ref=e675] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Dienstleistung
+            - listitem [ref=e676]:
+              - link "Mixed" [ref=e677] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Mixed
+            - listitem [ref=e678]:
+              - link "Schulen" [ref=e679] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Schulen
+            - listitem [ref=e680]:
+              - link "Öffentliche Bauten" [ref=e681] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Öffentliche Bauten
+        - listitem:
+          - link:
+            - /url: projekte/2020.html
+        - listitem:
+          - link:
+            - /url: projekte/2021.html
+        - listitem:
+          - link:
+            - /url: projekte/2022.html
+        - listitem:
+          - link:
+            - /url: projekte/2023.html
+        - listitem:
+          - link:
+            - /url: projekte/2024.html
+        - listitem:
+          - link:
+            - /url: projekte/2025.html
+    - generic [ref=e682]:
+      - heading "Büro" [level=2] [ref=e683]:
+        - link "Büro" [ref=e684] [cursor=pointer]:
+          - /url: buero/
+      - list [ref=e685]:
+        - listitem [ref=e686]:
+          - link "Portrait" [ref=e687] [cursor=pointer]:
+            - /url: buero/portrait/
+        - listitem [ref=e688]:
+          - link "Team" [ref=e689] [cursor=pointer]:
+            - /url: buero/team/
+        - listitem [ref=e690]:
+          - link "Jobs" [ref=e691] [cursor=pointer]:
+            - /url: buero/jobs.html
+        - listitem [ref=e692]:
+          - link "Kontakt" [ref=e693] [cursor=pointer]:
+            - /url: buero/kontakt.html
+    - generic [ref=e694]:
+      - heading "Annex" [level=2] [ref=e695]:
+        - link "Annex" [ref=e696] [cursor=pointer]:
+          - /url: annex/
+      - list [ref=e697]:
+        - listitem [ref=e698]:
+          - link "Ausstellungen" [ref=e699] [cursor=pointer]:
+            - /url: annex/ausstellungen.html
+        - listitem [ref=e700]:
+          - link "Bücher" [ref=e701] [cursor=pointer]:
+            - /url: annex/buecher.html
+        - listitem [ref=e702]:
+          - link "Galerie" [ref=e703] [cursor=pointer]:
+            - /url: annex/galerie/
+        - listitem [ref=e704]:
+          - link "Publikationen" [ref=e705] [cursor=pointer]:
+            - /url: annex/publikationen/
+        - listitem [ref=e706]:
+          - link "Auszeichnungen" [ref=e707] [cursor=pointer]:
+            - /url: annex/auszeichnungen.html
+    - generic [ref=e708]:
+      - heading "Impressum" [level=2] [ref=e709]:
+        - link "Impressum" [ref=e710] [cursor=pointer]:
+          - /url: impressum.html
+      - list [ref=e711]:
+        - listitem [ref=e712]:
+          - link "Datenschutzinformation" [ref=e713] [cursor=pointer]:
+            - /url: impressum/datenschutzinformationen.html

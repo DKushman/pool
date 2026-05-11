@@ -229,7 +229,7 @@ export function IntroPreloader({
               opacity: 0,
             }}
           >
-            Daum Architekten
+            pool
           </h1>
         </div>
       </div>

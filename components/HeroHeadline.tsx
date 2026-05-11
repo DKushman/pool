@@ -75,7 +75,7 @@ export function HeroHeadline({
       id={id}
       className="block max-w-[100vw] font-sans font-black uppercase leading-[0.9] tracking-tighter text-black [font-size:clamp(1.75rem,8vw,9.5rem)]"
     >
-      Daum Architekten
+      pool
     </span>
   );
 }

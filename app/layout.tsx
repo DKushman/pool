@@ -11,24 +11,24 @@ const geistSans = Geist({
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.daumarchitekten.com"),
   title: {
-    default: "Daum Architekten Berlin",
-    template: "%s — Daum Architekten Berlin",
+    default: "pool Zürich",
+    template: "%s — pool Zürich",
   },
   description:
-    "Daum Architekten PartG mbB in Berlin. Architektur und Planung mit klarem gestalterischem Anspruch.",
-  applicationName: "Daum Architekten",
+    "pool in Zürich. Architektur und Planung mit klarem gestalterischem Anspruch.",
+  applicationName: "pool",
   keywords: [
-    "Daum Architekten",
-    "Daum Architekten Berlin",
-    "Architektur Berlin",
-    "Architekten Berlin",
+    "pool",
+    "pool Zürich",
+    "Architektur Zürich",
+    "Architekten Zürich",
     "Bauplanung",
     "Generalplanung",
     "Architekturbuero Berlin",
   ],
-  authors: [{ name: "Daum Architekten PartG mbB" }],
-  creator: "Daum Architekten PartG mbB",
-  publisher: "Daum Architekten PartG mbB",
+  authors: [{ name: "pool" }],
+  creator: "pool",
+  publisher: "pool",
   category: "architecture",
   alternates: {
     canonical: "/",
@@ -42,16 +42,16 @@ export const metadata: Metadata = {
     locale: "de_DE",
     alternateLocale: ["en_US"],
     url: "/",
-    siteName: "Daum Architekten",
-    title: "Daum Architekten Berlin",
+    siteName: "pool",
+    title: "pool Zürich",
     description:
-      "Daum Architekten PartG mbB in Berlin. Architektur und Planung mit klarem gestalterischem Anspruch.",
+      "pool in Zürich. Architektur und Planung mit klarem gestalterischem Anspruch.",
   },
   twitter: {
-    card: "summary_large_image",
-    title: "Daum Architekten Berlin",
+    card: "summary_large_image",  
+    title: "pool Zürich",
     description:
-      "Daum Architekten PartG mbB in Berlin. Architektur und Planung mit klarem gestalterischem Anspruch.",
+      "pool in Zürich. Architektur und Planung mit klarem gestalterischem Anspruch.",
   },
   robots: {
     index: true,

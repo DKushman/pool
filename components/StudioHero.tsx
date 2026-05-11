@@ -10,7 +10,7 @@ const HERO_STAGGER_S = 0.1;
 
 const headline = "ARCHITEKTEN UND GENERALPLANER";
 const HERO_BG_IMAGE =
-  "https://static.wixstatic.com/media/a32e4f_96807dd63da34c1588a0a0a89fe66065~mv2.jpg/v1/fill/w_1080,h_1080,al_c,q_85,enc_avif,quality_auto/a32e4f_96807dd63da34c1588a0a0a89fe66065~mv2.jpg";
+  "https://www.poolarch.ch/assets/projekte/0529%20Lauchernalp/0529_Provisorisches%20Hotel%20Lauchernalp_Baustelle_6002_1180.png";
 
 function LogoMark() {
   return (
@@ -130,7 +130,7 @@ export default function StudioHero() {
           <div className="nav-reveal flex items-center gap-3">
             <LogoMark />
             <span className="font-sans text-sm font-medium tracking-wide text-white">
-              Daum Architekten
+              pool
             </span>
           </div>
 
@@ -183,10 +183,10 @@ export default function StudioHero() {
         </div>
 
         <div className="mt-auto grid flex-1 grid-cols-1 gap-10 pt-16 sm:grid-cols-12 sm:items-end sm:gap-6 sm:pt-24">
-          <p className="hero-reveal font-sans text-[11px] font-medium uppercase leading-relaxed tracking-[0.25em] text-white/80 sm:col-span-3">
-            Architektur
+          <p className="hero-reveal hero-eyebrow font-sans text-[11px] font-medium uppercase leading-relaxed tracking-[0.25em] text-white/80 sm:col-span-3">
+            pool Architekten
             <br />
-            Generalplanung
+            Zürich
           </p>
 
           <div className="hero-reveal sm:col-span-5 sm:col-start-5">

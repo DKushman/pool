@@ -13,70 +13,43 @@ type TeamMember = {
   imageSrc: string;
 };
 
-/** Teammitglieder inkl. Portraits von daumarchitekten.com/team. */
+/** Erste fünf Partner:innen inkl. Portraits von poolarch.ch/buero/portrait (#Büro). */
 const TEAM_MEMBERS: TeamMember[] = [
   {
-    id: "britta-daum",
-    name: "Britta Daum",
-    role: "Dipl.-Ing. Architektin · Gründungspartner",
+    id: "dieter-bachmann",
+    name: "Dieter Bachmann",
+    role: "Partner:in",
     imageSrc:
-      "https://static.wixstatic.com/media/a32e4f_cf23570599c24315a76e31cdb9ad672b~mv2.jpg/v1/fill/w_342,h_342,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Britta-IMG_0305.jpg",
-  },
-
-
-
-  {
-    id: "daniel-jaramillo",
-    name: "Daniel Jaramillo",
-    role: "M.A. Architecture · Projektarchitekt Ecuador",
-    imageSrc:
-      "https://static.wixstatic.com/media/a32e4f_bd56cd525da94884937681a21d9da329~mv2.jpg/v1/fill/w_342,h_342,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/_DSF7282_edited.jpg",
+      "https://www.poolarch.ch/assets/images/profil/WEB_DSC_4275_dib.jpg",
   },
   {
-    id: "sidrit-nushi",
-    name: "Sidrit Nushi",
-    role: "M. Sc. Architektur · Projektarchitekt",
+    id: "floris-besserer",
+    name: "Floris Besserer",
+    role: "Partner:in",
     imageSrc:
-      "https://static.wixstatic.com/media/a32e4f_ef8b72f71c394167af6a32921cb2e394~mv2.jpg/v1/fill/w_342,h_342,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Sidrit.jpg",
+      "https://www.poolarch.ch/assets/images/profil/WEB_DSC_8003_flo.jpg",
   },
   {
-    id: "reela-nentwich",
-    name: "Reela Nentwich",
-    role: "M.Sc. Architektur · Projektarchitektin Deutschland",
+    id: "raphael-frei",
+    name: "Raphael Frei",
+    role: "Partner:in",
     imageSrc:
-      "https://static.wixstatic.com/media/a32e4f_7a4b7798e65a4cb288449bda341dbf35~mv2.jpg/v1/fill/w_342,h_342,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/reela-bigger-3.jpg",
-  },
-
-  {
-    id: "mehmet-celal-bayram",
-    name: "Mehmet Celal Bayram",
-    role: "B.Sc. Architektur · Werkstudent",
-    imageSrc:
-      "https://static.wixstatic.com/media/a32e4f_3a270d9539304198aba0c00f32dcb1f5~mv2.jpg/v1/fill/w_342,h_342,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/mehmet.jpg",
+      "https://www.poolarch.ch/assets/images/profil/WEB_DSC_4806_rap.jpg",
   },
   {
-    id: "ngan-kim",
-    name: "Ngan Kim",
-    role: "B.A. Architektur · Praktikantin",
+    id: "thomas-friberg",
+    name: "Thomas Friberg",
+    role: "Partner:in",
     imageSrc:
-      "https://static.wixstatic.com/media/a32e4f_b2ac417f9b244c1ea222143f306e9d29~mv2.jpg/v1/fill/w_342,h_342,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/kim.jpg",
-  },
-
-  {
-    id: "c-b",
-    name: "C. B.",
-    role: "Dipl.- Design Innenarchitektur · Projektarchitektin",
-    imageSrc:
-      "https://static.wixstatic.com/media/a32e4f_585d0fdc92064e009117868d7f0bfeb1~mv2.jpg/v1/fill/w_342,h_342,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/christin_team.jpg",
+      "https://www.poolarch.ch/assets/images/profil/WEB_DSC_6991_fri.jpg",
   },
   {
-    id: "justus-krause",
-    name: "Justus Krause",
-    role: "M.A. Architektur · Außendarstellung & Dokumentation",
+    id: "mathias-heinz",
+    name: "Mathias Heinz",
+    role: "Partner:in",
     imageSrc:
-      "https://static.wixstatic.com/media/a32e4f_21486e5c3ffe4d049108c272db19af88~mv2.jpg/v1/fill/w_342,h_342,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/justus_team.jpg",
+      "https://www.poolarch.ch/assets/images/profil/WEB_DSC_5489_mhz.jpg",
   },
-
 ];
 
 export function TeamSection() {
@@ -207,7 +180,7 @@ export function TeamSection() {
       <div className="relative mt-[clamp(1.1rem,2.8vw,2.2rem)]">
         <a
           id="team-section-see-all"
-          href="https://www.daumarchitekten.com/team"
+          href="https://www.poolarch.ch/buero/team/"
           target="_blank"
           rel="noopener noreferrer"
           className="absolute left-[clamp(1.4rem,5.2vw,3.2rem)] top-0 z-10 inline-block pb-1 font-sans text-xs font-normal text-black no-underline transition-opacity after:pointer-events-none after:absolute after:inset-x-0 after:bottom-0 after:h-px after:origin-left after:scale-x-0 after:bg-black after:transition-transform after:duration-300 after:ease-out motion-reduce:after:transition-none hover:opacity-70 hover:after:scale-x-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black focus-visible:after:scale-x-100"

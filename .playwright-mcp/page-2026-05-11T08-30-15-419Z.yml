@@ -1,0 +1,247 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "pool logo" [ref=e6] [cursor=pointer]:
+        - /url: https://www.poolarch.ch/
+        - img "pool logo" [ref=e7]
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "Suche" [ref=e11] [cursor=pointer]:
+            - /url: suche.html
+        - listitem [ref=e12]:
+          - link "Kontakt" [ref=e13] [cursor=pointer]:
+            - /url: buero/kontakt.html
+        - listitem [ref=e14]:
+          - link [ref=e15] [cursor=pointer]:
+            - /url: https://www.instagram.com/poolarchitekten
+    - generic [ref=e16]:
+      - list [ref=e19]:
+        - listitem [ref=e20]:
+          - link "Projekte" [ref=e21] [cursor=pointer]:
+            - /url: projekte/#Projekte
+        - listitem [ref=e22]:
+          - link "Büro" [ref=e23] [cursor=pointer]:
+            - /url: buero/portrait/#Büro
+        - listitem [ref=e24]:
+          - link "Loop" [ref=e25] [cursor=pointer]:
+            - /url: loop/#Loop
+        - listitem [ref=e26]:
+          - link "Annex" [ref=e27] [cursor=pointer]:
+            - /url: annex/ausstellungen.html#Annex
+      - list [ref=e30]:
+        - list:
+          - listitem [ref=e31]:
+            - link "Portrait" [ref=e32] [cursor=pointer]:
+              - /url: buero/portrait/#Portrait
+          - listitem [ref=e33]:
+            - link "Team" [ref=e34] [cursor=pointer]:
+              - /url: buero/team/#Team
+          - listitem [ref=e35]:
+            - link "Jobs" [ref=e36] [cursor=pointer]:
+              - /url: buero/jobs.html#Jobs
+          - listitem [ref=e37]:
+            - link "Kontakt" [ref=e38] [cursor=pointer]:
+              - /url: buero/kontakt.html#Kontakt
+      - generic [ref=e39]:
+        - generic [ref=e41]:
+          - heading "Partner:innen" [level=1] [ref=e42]
+          - list [ref=e43]:
+            - listitem [ref=e44]:
+              - link "Dieter Bachmann" [ref=e45] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e46]:
+              - link "Floris Besserer" [ref=e47] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e48]:
+              - link "Raphael Frei" [ref=e49] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e50]:
+              - link "Thomas Friberg" [ref=e51] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e52]:
+              - link "Mathias Heinz" [ref=e53] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e54]:
+              - link "Philipp Hirtler" [ref=e55] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e56]:
+              - link "Marcel Jäggi" [ref=e57] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e58]:
+              - link "David Leuthold" [ref=e59] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e60]:
+              - link "Maja Markovic" [ref=e61] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e62]:
+              - link "Andreas Sonderegger" [ref=e63] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e64]:
+              - link "Matthias Stocker" [ref=e65] [cursor=pointer]:
+                - /url: ""
+          - heading "Associates" [level=1] [ref=e66]
+          - list [ref=e67]:
+            - listitem [ref=e68]:
+              - link "Patricia Tintoré Vilar" [ref=e69] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e70]:
+              - link "Linda Eisenbart" [ref=e71] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e72]:
+              - link "Martin Gutekunst" [ref=e73] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e74]:
+              - link "Bettina Komminoth" [ref=e75] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e76]:
+              - link "Ferdinand Pappenheim" [ref=e77] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e78]:
+              - link "Sophie Piticco" [ref=e79] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e80]:
+              - link "André Schmid" [ref=e81] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e82]:
+              - link "Martin Trefon" [ref=e83] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e84]:
+              - link "Peter Wassmer" [ref=e85] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e86]:
+              - link "Johannes Zenk" [ref=e87] [cursor=pointer]:
+                - /url: ""
+        - generic [ref=e89]:
+          - img "portrait" [ref=e90]
+          - paragraph [ref=e91]
+          - paragraph [ref=e93]:
+            - text: pool hat sich 1998 aus einer Diskussionsplattform gegründet. Wir pflegen bis heute eine Kultur des Dialogs und der Debatte, aktuell geleitet von 11 Partner:innen und 9 Associates. 2024 sind wir ein interdisziplinäres Team aus rund 100 Architekt:innen und Stadtplaner:innen. Unsere Projekte beinhalten die Themen Wohnen, Bildung, Kultur, Sport und Infrastruktur, Nachhaltigkeit und Bauen im Bestand sowie Städtebauliche Planungen.
+            - text: Wir setzen uns massstabsübergreifend mit den drängenden Fragen der Klimaveränderung, Ressourcenknappheit und Verdichtung auseinander. Dabei wird auch unsere Büro- und Arbeitsform als «work in progress» verstanden, um sich dem ständig verändernden Berufsbild mit einer zeitgemässen Haltung und Organisationsform zu entsprechen.
+            - text: Ausserdem gehört zu pool auch ein breites kulturelles und gesellschaftliches Engagement, sei es in beratenden Gremien, Fachverbänden oder Architekturforen sowie als Einsitz in den Beurteilungsgremien von Architekturwettbewerben. Von 2010 bis 2012 hatte pool eine gemeinsame Gastprofessur an der ETH Zürich, weitere Engagements führten an die TU Berlin, TU Wien, BFH Bern oder die Universität Liechtenstein, an die ZHAW und die HSLU.
+            - text: Ausserdem waren wir Mitbegründer der Architekturgruppe Krokodil, die mit verschiedenen Publikationen und Ausstellungen die Diskussion zur urbanen Entwicklung der Schweiz anregte, vor allem mit dem Manifest zur Entwicklung der Glatttalstadt. 2014 erhielten wir vom Bundesamt für Kultur den Grand Prix Kunst/Prix Meret Oppenheim.
+  - generic [ref=e94]:
+    - generic [ref=e95]:
+      - heading "Kontakt:" [level=2] [ref=e96]
+      - text: pool Architekten
+      - text: Bremgartnerstrasse 7
+      - text: 8003 Zürich
+      - text: T +41 44 200 70 70
+      - link "pool@poolarch.ch" [ref=e97] [cursor=pointer]:
+        - /url: mailto:pool@poolarch.ch
+      - link "Instagram" [ref=e98] [cursor=pointer]:
+        - /url: https://www.instagram.com/poolarchitekten/
+    - heading "News" [level=2] [ref=e100]:
+      - link "News" [ref=e101] [cursor=pointer]:
+        - /url: index/
+    - generic [ref=e102]:
+      - heading "Projekte" [level=2] [ref=e103]:
+        - link "Projekte" [ref=e104] [cursor=pointer]:
+          - /url: projekte/
+      - list [ref=e105]:
+        - listitem [ref=e106]:
+          - link "Karte" [ref=e107] [cursor=pointer]:
+            - /url: projekte/karte.html
+        - listitem [ref=e108]:
+          - link "Projektstand" [ref=e109] [cursor=pointer]:
+            - /url: projekte/projektstand.html
+          - list [ref=e110]:
+            - listitem [ref=e111]:
+              - link "Ausgeführt" [ref=e112] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Ausgeführt
+            - listitem [ref=e113]:
+              - link "In Bearbeitung" [ref=e114] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=In Bearbeitung
+            - listitem [ref=e115]:
+              - link "1. Preis" [ref=e116] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=1. Preis
+            - listitem [ref=e117]:
+              - link "Wettbewerbe" [ref=e118] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Wettbewerbe
+        - listitem [ref=e119]:
+          - link "Werkverzeichnis" [ref=e120] [cursor=pointer]:
+            - /url: projekte/werkverzeichnis.html
+        - listitem [ref=e121]:
+          - link "Nutzung" [ref=e122] [cursor=pointer]:
+            - /url: projekte/nutzung.html
+          - list [ref=e123]:
+            - listitem [ref=e124]:
+              - link "Städtebau" [ref=e125] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Städtebau
+            - listitem [ref=e126]:
+              - link "Wohnen" [ref=e127] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Wohnen
+            - listitem [ref=e128]:
+              - link "Dienstleistung" [ref=e129] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Dienstleistung
+            - listitem [ref=e130]:
+              - link "Mixed" [ref=e131] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Mixed
+            - listitem [ref=e132]:
+              - link "Schulen" [ref=e133] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Schulen
+            - listitem [ref=e134]:
+              - link "Öffentliche Bauten" [ref=e135] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Öffentliche Bauten
+        - listitem:
+          - link:
+            - /url: projekte/2020.html
+        - listitem:
+          - link:
+            - /url: projekte/2021.html
+        - listitem:
+          - link:
+            - /url: projekte/2022.html
+        - listitem:
+          - link:
+            - /url: projekte/2023.html
+        - listitem:
+          - link:
+            - /url: projekte/2024.html
+        - listitem:
+          - link:
+            - /url: projekte/2025.html
+    - generic [ref=e136]:
+      - heading "Büro" [level=2] [ref=e137]:
+        - link "Büro" [ref=e138] [cursor=pointer]:
+          - /url: buero/
+      - list [ref=e139]:
+        - listitem [ref=e140]:
+          - link "Portrait" [ref=e141] [cursor=pointer]:
+            - /url: buero/portrait/
+        - listitem [ref=e142]:
+          - link "Team" [ref=e143] [cursor=pointer]:
+            - /url: buero/team/
+        - listitem [ref=e144]:
+          - link "Jobs" [ref=e145] [cursor=pointer]:
+            - /url: buero/jobs.html
+        - listitem [ref=e146]:
+          - link "Kontakt" [ref=e147] [cursor=pointer]:
+            - /url: buero/kontakt.html
+    - generic [ref=e148]:
+      - heading "Annex" [level=2] [ref=e149]:
+        - link "Annex" [ref=e150] [cursor=pointer]:
+          - /url: annex/
+      - list [ref=e151]:
+        - listitem [ref=e152]:
+          - link "Ausstellungen" [ref=e153] [cursor=pointer]:
+            - /url: annex/ausstellungen.html
+        - listitem [ref=e154]:
+          - link "Bücher" [ref=e155] [cursor=pointer]:
+            - /url: annex/buecher.html
+        - listitem [ref=e156]:
+          - link "Galerie" [ref=e157] [cursor=pointer]:
+            - /url: annex/galerie/
+        - listitem [ref=e158]:
+          - link "Publikationen" [ref=e159] [cursor=pointer]:
+            - /url: annex/publikationen/
+        - listitem [ref=e160]:
+          - link "Auszeichnungen" [ref=e161] [cursor=pointer]:
+            - /url: annex/auszeichnungen.html
+    - generic [ref=e162]:
+      - heading "Impressum" [level=2] [ref=e163]:
+        - link "Impressum" [ref=e164] [cursor=pointer]:
+          - /url: impressum.html
+      - list [ref=e165]:
+        - listitem [ref=e166]:
+          - link "Datenschutzinformation" [ref=e167] [cursor=pointer]:
+            - /url: impressum/datenschutzinformationen.html

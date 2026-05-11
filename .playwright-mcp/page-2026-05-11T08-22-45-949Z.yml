@@ -1,0 +1,244 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "pool logo" [ref=e6] [cursor=pointer]:
+      - /url: https://www.poolarch.ch/
+      - img "pool logo" [ref=e7]
+    - list [ref=e9]:
+      - listitem [ref=e10]:
+        - link "Suche" [ref=e11] [cursor=pointer]:
+          - /url: suche.html
+      - listitem [ref=e12]:
+        - link "Kontakt" [ref=e13] [cursor=pointer]:
+          - /url: buero/kontakt.html
+      - listitem [ref=e14]:
+        - link [ref=e15] [cursor=pointer]:
+          - /url: https://www.instagram.com/poolarchitekten
+  - generic [ref=e16]:
+    - list [ref=e19]:
+      - listitem [ref=e20]:
+        - link "Projekte" [ref=e21] [cursor=pointer]:
+          - /url: projekte/#Projekte
+      - listitem [ref=e22]:
+        - link "Büro" [ref=e23] [cursor=pointer]:
+          - /url: buero/portrait/#Büro
+      - listitem [ref=e24]:
+        - link "Loop" [ref=e25] [cursor=pointer]:
+          - /url: loop/#Loop
+      - listitem [ref=e26]:
+        - link "Annex" [ref=e27] [cursor=pointer]:
+          - /url: annex/ausstellungen.html#Annex
+    - list [ref=e30]:
+      - listitem [ref=e31]:
+        - link "Nutzung" [ref=e32] [cursor=pointer]:
+          - /url: projekte/nutzung.html
+      - listitem [ref=e33]:
+        - link "Projektstand" [ref=e34] [cursor=pointer]:
+          - /url: projekte/projektstand.html
+      - listitem [ref=e35]:
+        - link "Karte" [ref=e36] [cursor=pointer]:
+          - /url: projekte/karte.html
+      - listitem [ref=e37]:
+        - link "Werkverzeichnis" [ref=e38] [cursor=pointer]:
+          - /url: projekte/werkverzeichnis.html
+      - listitem [ref=e39]:
+        - link:
+          - /url: projekte/2025.html
+      - listitem [ref=e40]:
+        - link:
+          - /url: projekte/2024.html
+      - listitem [ref=e41]:
+        - link:
+          - /url: projekte/2023.html
+      - listitem [ref=e42]:
+        - link:
+          - /url: projekte/2022.html
+      - listitem [ref=e43]:
+        - link:
+          - /url: projekte/2021.html
+      - listitem [ref=e44]:
+        - link:
+          - /url: projekte/2020.html
+    - heading "Bahnhofareal und Jugendherberge, Pontresina" [level=1] [ref=e49]
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - paragraph [ref=e53]:
+          - text: Projektwettbewerb, 2. Preis
+          - text: Neubau Jugendherberge mit 48 Zimmer und 160 Betten; Reorganisation Aufnahmegebäude Bahnhof Pontresina; Wohn- und Gewerbebauten
+        - generic [ref=e54]:
+          - paragraph [ref=e55]
+          - paragraph [ref=e56]: Das Bahnhofsareal Nord in Pontresina soll mit einem Ersatzneubau der Jugendherberge und neuen Wohn- und Gewerbebauten reorganisiert und neu gestaltet werden. Als Teil des UNESCO-Weltkulturerbes Rhätische Bahn kommt dem Gebiet mit und um die historischen Bahnhofbauten eine wichtige baukulturelle Bedeutung zu. Unter Berücksichtigung denkmalpflegerischer Aspekte wird die Geschichte des Bahnhofsensembles weitergeschrieben. Die Jugendherberge befindet sich versetzt auf der gegenüberliegenden Seite zum Aufnahmegebäude hin und stärkt die Linearität des Städtebaus. Die Neubauten der RhB führen diese räumliche Struktur weiter.
+          - paragraph [ref=e57]: Durch die Staffelung von gut proportionierten Gebäudestrukturen wird eine Folge von platzartigen Bereichen geschaffen, welche mit Belagsgestaltung und Baumreihen ergänzt wird. Mit der Reorganisation des Aufnahmegebäudes, sowie der Infrastruktur wird die Koexistenz von verschiedenen Verkehrsteilnehmenden gewährleistet und der Bahnhof Pontresina als wichtige Drehscheibe des öffentlichen Verkehrs, wie auch für Freizeit- und Naherholungsaktivitäten aktiviert. Die Grundstruktur des Aufnahmegebäudes wird auf den ursprünglichen Bestand zurückgesetzt und sanft saniert. Die Jugendherberge wird von zwei Seiten her erschlossen und bietet Platz für 160 Betten, eine Boulderhalle und ein Sportzentrum. Zwischen Ankunftsgebäude und Herberge spannt sich ein neuer Raum auf. Dieser Platz wird mitunter als Aussengastronomie der Herberge genutzt. Zudem befindet sich hier auch ein Info-Pavillon und ein Alpengarten. Die Terrasse entlang der bereits bestehenden Hangkante bietet Aussicht auf das gegenüberliegende Dorf mit Bergpanorama. Die Erweiterungsbauten an der Via da la Staziun basieren auf einer einfachen Grundstruktur und sind dadurch einer flexiblen Nutzung zuzuschreiben.
+          - paragraph [ref=e58]: Bei den Hybridbauten werden alle erdberührenden Bauteile, sowie die aussteifenden Kerne aus Stahlbeton erstellt. Die restlichen Bauteile sind als Holzelementkonstruktion angedacht. Dies ermöglicht einen hohen Vorfertigungsgrad und führt zu einer ökonomischeren und schnelleren Erstellung. Diese Methodik lässt es zu, die Bauten von regionalen Unternehmungen erstellen zu lassen.
+          - paragraph [ref=e59]
+          - paragraph [ref=e60]:
+            - strong [ref=e61]: Auftraggeber:innen
+            - text: RhB Immobilien AG + Schweizerische Stiftung für Sozialtourismus
+            - strong [ref=e62]: Landschaftsarchitektur
+            - text: Studio Vulkan Landschaftsarchitektur
+            - strong [ref=e63]: Verkehrsplanung
+            - text: B+S
+            - strong [ref=e64]: Bauingenieurwesen
+            - text: Ferrari Gartmann
+            - strong [ref=e65]: Brandschutz
+            - text: Makiol Wiederkehr
+            - strong [ref=e66]: Sonstige
+            - text: 3D Sportanlagen
+            - strong [ref=e67]: Visualisierung
+            - text: Studio Blomen
+      - generic [ref=e68]:
+        - link [ref=e70] [cursor=pointer]:
+          - /url: projekte/2024/0500-pontresina/0500-pontresina-bilder/skizze-landschaft.html&refPage=Werkverzeichnis
+        - link [ref=e72] [cursor=pointer]:
+          - /url: projekte/2024/0500-pontresina/0500-pontresina-bilder/perspektive-aussen.html&refPage=Werkverzeichnis
+        - link [ref=e74] [cursor=pointer]:
+          - /url: projekte/2024/0500-pontresina/0500-pontresina-bilder/skizze-platz-mit-pavillon.html&refPage=Werkverzeichnis
+        - link [ref=e76] [cursor=pointer]:
+          - /url: projekte/2024/0500-pontresina/0500-pontresina-bilder/konstruktionsschnitt.html&refPage=Werkverzeichnis
+        - link [ref=e78] [cursor=pointer]:
+          - /url: projekte/2024/0500-pontresina/0500-pontresina-bilder/skizze-boulderhalle.html&refPage=Werkverzeichnis
+      - generic [ref=e79]:
+        - link "Situation" [ref=e81] [cursor=pointer]:
+          - /url: projekte/2024/0500-pontresina/0503-pontresina-plaene/situation.html&refPage=Werkverzeichnis
+          - img "Situation" [ref=e82]
+        - link "Grundriss Erdgeschoss mit Umgebung" [ref=e84] [cursor=pointer]:
+          - /url: projekte/2024/0500-pontresina/0503-pontresina-plaene/grundriss-eg-mit-umgebung.html&refPage=Werkverzeichnis
+          - img "Grundriss Erdgeschoss mit Umgebung" [ref=e85]
+        - link "Perspektive Innenraum" [ref=e87] [cursor=pointer]:
+          - /url: projekte/2024/0500-pontresina/0503-pontresina-plaene/perspektive-innenraum.html&refPage=Werkverzeichnis
+          - img "Perspektive Innenraum" [ref=e88]
+        - link "Umbaupläne Historisches Bahnhofsgebäude" [ref=e90] [cursor=pointer]:
+          - /url: projekte/2024/0500-pontresina/0503-pontresina-plaene/umbaupläne-historisches-bahnhofsgebäude.html&refPage=Werkverzeichnis
+          - img "Umbaupläne Historisches Bahnhofsgebäude" [ref=e91]
+        - link "Querschnitt Bahntrasse" [ref=e93] [cursor=pointer]:
+          - /url: projekte/2024/0500-pontresina/0503-pontresina-plaene/querschnitt-bahntrasse.html&refPage=Werkverzeichnis
+          - img "Querschnitt Bahntrasse" [ref=e94]
+        - link "Längsschnitt" [ref=e96] [cursor=pointer]:
+          - /url: projekte/2024/0500-pontresina/0503-pontresina-plaene/laengsschnitt.html&refPage=Werkverzeichnis
+          - img "Längsschnitt" [ref=e97]
+    - text: "true"
+  - generic [ref=e98]:
+    - generic [ref=e99]:
+      - heading "Kontakt:" [level=2] [ref=e100]
+      - text: pool Architekten
+      - text: Bremgartnerstrasse 7
+      - text: 8003 Zürich
+      - text: T +41 44 200 70 70
+      - link "pool@poolarch.ch" [ref=e101] [cursor=pointer]:
+        - /url: mailto:pool@poolarch.ch
+      - link "Instagram" [ref=e102] [cursor=pointer]:
+        - /url: https://www.instagram.com/poolarchitekten/
+    - heading "News" [level=2] [ref=e104]:
+      - link "News" [ref=e105] [cursor=pointer]:
+        - /url: index/
+    - generic [ref=e106]:
+      - heading "Projekte" [level=2] [ref=e107]:
+        - link "Projekte" [ref=e108] [cursor=pointer]:
+          - /url: projekte/
+      - list [ref=e109]:
+        - listitem [ref=e110]:
+          - link "Karte" [ref=e111] [cursor=pointer]:
+            - /url: projekte/karte.html
+        - listitem [ref=e112]:
+          - link "Projektstand" [ref=e113] [cursor=pointer]:
+            - /url: projekte/projektstand.html
+          - list [ref=e114]:
+            - listitem [ref=e115]:
+              - link "Ausgeführt" [ref=e116] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Ausgeführt
+            - listitem [ref=e117]:
+              - link "In Bearbeitung" [ref=e118] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=In Bearbeitung
+            - listitem [ref=e119]:
+              - link "1. Preis" [ref=e120] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=1. Preis
+            - listitem [ref=e121]:
+              - link "Wettbewerbe" [ref=e122] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Wettbewerbe
+        - listitem [ref=e123]:
+          - link "Werkverzeichnis" [ref=e124] [cursor=pointer]:
+            - /url: projekte/werkverzeichnis.html
+        - listitem [ref=e125]:
+          - link "Nutzung" [ref=e126] [cursor=pointer]:
+            - /url: projekte/nutzung.html
+          - list [ref=e127]:
+            - listitem [ref=e128]:
+              - link "Städtebau" [ref=e129] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Städtebau
+            - listitem [ref=e130]:
+              - link "Wohnen" [ref=e131] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Wohnen
+            - listitem [ref=e132]:
+              - link "Dienstleistung" [ref=e133] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Dienstleistung
+            - listitem [ref=e134]:
+              - link "Mixed" [ref=e135] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Mixed
+            - listitem [ref=e136]:
+              - link "Schulen" [ref=e137] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Schulen
+            - listitem [ref=e138]:
+              - link "Öffentliche Bauten" [ref=e139] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Öffentliche Bauten
+        - listitem:
+          - link:
+            - /url: projekte/2020.html
+        - listitem:
+          - link:
+            - /url: projekte/2021.html
+        - listitem:
+          - link:
+            - /url: projekte/2022.html
+        - listitem:
+          - link:
+            - /url: projekte/2023.html
+        - listitem:
+          - link:
+            - /url: projekte/2024.html
+        - listitem:
+          - link:
+            - /url: projekte/2025.html
+    - generic [ref=e140]:
+      - heading "Büro" [level=2] [ref=e141]:
+        - link "Büro" [ref=e142] [cursor=pointer]:
+          - /url: buero/
+      - list [ref=e143]:
+        - listitem [ref=e144]:
+          - link "Portrait" [ref=e145] [cursor=pointer]:
+            - /url: buero/portrait/
+        - listitem [ref=e146]:
+          - link "Team" [ref=e147] [cursor=pointer]:
+            - /url: buero/team/
+        - listitem [ref=e148]:
+          - link "Jobs" [ref=e149] [cursor=pointer]:
+            - /url: buero/jobs.html
+        - listitem [ref=e150]:
+          - link "Kontakt" [ref=e151] [cursor=pointer]:
+            - /url: buero/kontakt.html
+    - generic [ref=e152]:
+      - heading "Annex" [level=2] [ref=e153]:
+        - link "Annex" [ref=e154] [cursor=pointer]:
+          - /url: annex/
+      - list [ref=e155]:
+        - listitem [ref=e156]:
+          - link "Ausstellungen" [ref=e157] [cursor=pointer]:
+            - /url: annex/ausstellungen.html
+        - listitem [ref=e158]:
+          - link "Bücher" [ref=e159] [cursor=pointer]:
+            - /url: annex/buecher.html
+        - listitem [ref=e160]:
+          - link "Galerie" [ref=e161] [cursor=pointer]:
+            - /url: annex/galerie/
+        - listitem [ref=e162]:
+          - link "Publikationen" [ref=e163] [cursor=pointer]:
+            - /url: annex/publikationen/
+        - listitem [ref=e164]:
+          - link "Auszeichnungen" [ref=e165] [cursor=pointer]:
+            - /url: annex/auszeichnungen.html
+    - generic [ref=e166]:
+      - heading "Impressum" [level=2] [ref=e167]:
+        - link "Impressum" [ref=e168] [cursor=pointer]:
+          - /url: impressum.html
+      - list [ref=e169]:
+        - listitem [ref=e170]:
+          - link "Datenschutzinformation" [ref=e171] [cursor=pointer]:
+            - /url: impressum/datenschutzinformationen.html

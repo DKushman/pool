@@ -1,0 +1,240 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "pool logo" [ref=e6] [cursor=pointer]:
+      - /url: https://www.poolarch.ch/
+      - img "pool logo" [ref=e7]
+    - list [ref=e9]:
+      - listitem [ref=e10]:
+        - link "Suche" [ref=e11] [cursor=pointer]:
+          - /url: suche.html
+      - listitem [ref=e12]:
+        - link "Kontakt" [ref=e13] [cursor=pointer]:
+          - /url: buero/kontakt.html
+      - listitem [ref=e14]:
+        - link [ref=e15] [cursor=pointer]:
+          - /url: https://www.instagram.com/poolarchitekten
+  - generic [ref=e16]:
+    - list [ref=e19]:
+      - listitem [ref=e20]:
+        - link "Projekte" [ref=e21] [cursor=pointer]:
+          - /url: projekte/#Projekte
+      - listitem [ref=e22]:
+        - link "Büro" [ref=e23] [cursor=pointer]:
+          - /url: buero/portrait/#Büro
+      - listitem [ref=e24]:
+        - link "Loop" [ref=e25] [cursor=pointer]:
+          - /url: loop/#Loop
+      - listitem [ref=e26]:
+        - link "Annex" [ref=e27] [cursor=pointer]:
+          - /url: annex/ausstellungen.html#Annex
+    - list [ref=e30]:
+      - list:
+        - listitem [ref=e31]:
+          - link "Portrait" [ref=e32] [cursor=pointer]:
+            - /url: buero/portrait/#Portrait
+        - listitem [ref=e33]:
+          - link "Team" [ref=e34] [cursor=pointer]:
+            - /url: buero/team/#Team
+        - listitem [ref=e35]:
+          - link "Jobs" [ref=e36] [cursor=pointer]:
+            - /url: buero/jobs.html#Jobs
+        - listitem [ref=e37]:
+          - link "Kontakt" [ref=e38] [cursor=pointer]:
+            - /url: buero/kontakt.html#Kontakt
+    - generic [ref=e39]:
+      - generic [ref=e41]:
+        - paragraph [ref=e42]:
+          - text: pool Architekten
+          - text: Genossenschaft
+        - paragraph [ref=e43]:
+          - text: Bremgartnerstrasse 7
+          - text: CH – 8003 Zürich
+        - paragraph [ref=e44]:
+          - text: +41 (0)44 200 70 70
+          - link "pool@poolarch.ch" [ref=e45] [cursor=pointer]:
+            - /url: mailto:pool@poolarch.ch
+          - text: _____________________
+        - paragraph [ref=e46]:
+          - text: Medienanfragen
+          - text: Sabrina Hobi
+          - link "medien@poolarch.ch" [ref=e47] [cursor=pointer]:
+            - /url: mailto:medien@poolarch.ch
+            - text: medien@poolarch.ch
+        - paragraph [ref=e48]:
+          - text: Anfragen Werkstatt
+          - link "werkstatt@poolarch.ch" [ref=e49] [cursor=pointer]:
+            - /url: mailto:werkstatt@poolarch.ch
+        - paragraph [ref=e50]:
+          - text: Bewerbung Architektur
+          - text: Maja Markovic
+          - link "mitarbeit@poolarch.ch" [ref=e51] [cursor=pointer]:
+            - /url: mailto:mitarbeit@poolarch.ch
+            - text: mitarbeit@poolarch.ch
+        - paragraph [ref=e52]:
+          - text: Bewerbung Praktikum
+          - link "praktikum@poolarch.ch" [ref=e53] [cursor=pointer]:
+            - /url: mailto:praktikant@poolarch.ch
+        - paragraph [ref=e54]:
+          - text: Bewerbung Lehrstelle
+          - link "lehrstelle@poolarch.ch" [ref=e55] [cursor=pointer]:
+            - /url: mailto:lehrstelle@poolarch.ch
+        - paragraph [ref=e56]:
+          - text: Bewerbung Schnupperstelle
+          - link "schnuppern@poolarch.ch" [ref=e57] [cursor=pointer]:
+            - /url: mailto:schnuppern@poolarch.ch
+      - generic [ref=e60]:
+        - generic:
+          - generic:
+            - generic:
+              - img [ref=e61]
+              - img [ref=e62]
+              - img [ref=e63]
+              - img [ref=e64]
+              - img [ref=e65]
+              - img [ref=e66]
+              - img [ref=e67]
+              - img [ref=e68]
+              - img [ref=e69]
+              - img [ref=e70]
+              - img [ref=e71]
+              - img [ref=e72]
+          - img [ref=e73] [cursor=pointer]
+        - generic:
+          - generic [ref=e74]:
+            - link "+" [ref=e75] [cursor=pointer]:
+              - /url: "#"
+            - link "-" [ref=e76] [cursor=pointer]:
+              - /url: "#"
+          - generic [ref=e77]:
+            - text: Powered by
+            - link "Leaflet" [ref=e78] [cursor=pointer]:
+              - /url: http://leafletjs.com
+            - text: — Map data ©
+            - link "OpenStreetMap" [ref=e79] [cursor=pointer]:
+              - /url: http://openstreetmap.org
+  - generic [ref=e80]:
+    - generic [ref=e81]:
+      - heading "Kontakt:" [level=2] [ref=e82]
+      - text: pool Architekten
+      - text: Bremgartnerstrasse 7
+      - text: 8003 Zürich
+      - text: T +41 44 200 70 70
+      - link "pool@poolarch.ch" [ref=e83] [cursor=pointer]:
+        - /url: mailto:pool@poolarch.ch
+      - link "Instagram" [ref=e84] [cursor=pointer]:
+        - /url: https://www.instagram.com/poolarchitekten/
+    - heading "News" [level=2] [ref=e86]:
+      - link "News" [ref=e87] [cursor=pointer]:
+        - /url: index/
+    - generic [ref=e88]:
+      - heading "Projekte" [level=2] [ref=e89]:
+        - link "Projekte" [ref=e90] [cursor=pointer]:
+          - /url: projekte/
+      - list [ref=e91]:
+        - listitem [ref=e92]:
+          - link "Karte" [ref=e93] [cursor=pointer]:
+            - /url: projekte/karte.html
+        - listitem [ref=e94]:
+          - link "Projektstand" [ref=e95] [cursor=pointer]:
+            - /url: projekte/projektstand.html
+          - list [ref=e96]:
+            - listitem [ref=e97]:
+              - link "Ausgeführt" [ref=e98] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Ausgeführt
+            - listitem [ref=e99]:
+              - link "In Bearbeitung" [ref=e100] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=In Bearbeitung
+            - listitem [ref=e101]:
+              - link "1. Preis" [ref=e102] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=1. Preis
+            - listitem [ref=e103]:
+              - link "Wettbewerbe" [ref=e104] [cursor=pointer]:
+                - /url: projekte/projektstand.html&refPage=Projektstand&filter=Wettbewerbe
+        - listitem [ref=e105]:
+          - link "Werkverzeichnis" [ref=e106] [cursor=pointer]:
+            - /url: projekte/werkverzeichnis.html
+        - listitem [ref=e107]:
+          - link "Nutzung" [ref=e108] [cursor=pointer]:
+            - /url: projekte/nutzung.html
+          - list [ref=e109]:
+            - listitem [ref=e110]:
+              - link "Städtebau" [ref=e111] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Städtebau
+            - listitem [ref=e112]:
+              - link "Wohnen" [ref=e113] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Wohnen
+            - listitem [ref=e114]:
+              - link "Dienstleistung" [ref=e115] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Dienstleistung
+            - listitem [ref=e116]:
+              - link "Mixed" [ref=e117] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Mixed
+            - listitem [ref=e118]:
+              - link "Schulen" [ref=e119] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Schulen
+            - listitem [ref=e120]:
+              - link "Öffentliche Bauten" [ref=e121] [cursor=pointer]:
+                - /url: projekte/nutzung.html&refPage=Nutzung&filter=Öffentliche Bauten
+        - listitem:
+          - link:
+            - /url: projekte/2020.html
+        - listitem:
+          - link:
+            - /url: projekte/2021.html
+        - listitem:
+          - link:
+            - /url: projekte/2022.html
+        - listitem:
+          - link:
+            - /url: projekte/2023.html
+        - listitem:
+          - link:
+            - /url: projekte/2024.html
+        - listitem:
+          - link:
+            - /url: projekte/2025.html
+    - generic [ref=e122]:
+      - heading "Büro" [level=2] [ref=e123]:
+        - link "Büro" [ref=e124] [cursor=pointer]:
+          - /url: buero/
+      - list [ref=e125]:
+        - listitem [ref=e126]:
+          - link "Portrait" [ref=e127] [cursor=pointer]:
+            - /url: buero/portrait/
+        - listitem [ref=e128]:
+          - link "Team" [ref=e129] [cursor=pointer]:
+            - /url: buero/team/
+        - listitem [ref=e130]:
+          - link "Jobs" [ref=e131] [cursor=pointer]:
+            - /url: buero/jobs.html
+        - listitem [ref=e132]:
+          - link "Kontakt" [ref=e133] [cursor=pointer]:
+            - /url: buero/kontakt.html
+    - generic [ref=e134]:
+      - heading "Annex" [level=2] [ref=e135]:
+        - link "Annex" [ref=e136] [cursor=pointer]:
+          - /url: annex/
+      - list [ref=e137]:
+        - listitem [ref=e138]:
+          - link "Ausstellungen" [ref=e139] [cursor=pointer]:
+            - /url: annex/ausstellungen.html
+        - listitem [ref=e140]:
+          - link "Bücher" [ref=e141] [cursor=pointer]:
+            - /url: annex/buecher.html
+        - listitem [ref=e142]:
+          - link "Galerie" [ref=e143] [cursor=pointer]:
+            - /url: annex/galerie/
+        - listitem [ref=e144]:
+          - link "Publikationen" [ref=e145] [cursor=pointer]:
+            - /url: annex/publikationen/
+        - listitem [ref=e146]:
+          - link "Auszeichnungen" [ref=e147] [cursor=pointer]:
+            - /url: annex/auszeichnungen.html
+    - generic [ref=e148]:
+      - heading "Impressum" [level=2] [ref=e149]:
+        - link "Impressum" [ref=e150] [cursor=pointer]:
+          - /url: impressum.html
+      - list [ref=e151]:
+        - listitem [ref=e152]:
+          - link "Datenschutzinformation" [ref=e153] [cursor=pointer]:
+            - /url: impressum/datenschutzinformationen.html

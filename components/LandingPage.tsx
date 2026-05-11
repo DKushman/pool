@@ -19,20 +19,20 @@ import { SiteFooterReveal } from "@/components/SiteFooterReveal";
 import { ContactCtaSection } from "@/components/ContactCtaSection";
 import { PillArrowButton } from "@/components/PillArrowButton";
 
-/** Sticky cards: Inhalte/Bilder aus ausgewählten Projektseiten von daumarchitekten.com. */
-const PROJECT_IMAGES = {
-  anklamerStrasse:
-    "https://static.wixstatic.com/media/a32e4f_a205ec512d7640348097267f2a591793~mv2.jpg",
-  torstrasse:
-    "https://static.wixstatic.com/media/a32e4f_cac4ae1c1aa74d8eb9918715ea199fce~mv2.jpg",
-  kantstrasse:
-    "https://static.wixstatic.com/media/a32e4f_67193c58015f4e35a557231cee694e2c~mv2.jpg",
-  matterhornstrasse:
-    "https://static.wixstatic.com/media/a32e4f_47920c7201574135b401fd0735b7c22f~mv2.jpg",
+/** Sticky cards: Inhalte/Bilder von poolarch.ch (Projektseiten per Headline, Bild-URL, Fließtext). */
+const POOL_PROJECT_IMAGES = {
+  lauchernalp:
+    "https://www.poolarch.ch/assets/projekte/0529%20Lauchernalp/0529_Provisorisches-Hotel_Lauchernalp_001_604.png",
+  pontresina:
+    "https://www.poolarch.ch/assets/projekte/0500_Pontresina/0500_Pontresina_Visualisierung_Aussenraum-Platz_604px.png",
+  badenerstrasseAussen:
+    "https://www.poolarch.ch/assets/projekte/0526%20UBS%20Badenerstrasse/0526_VIS_131125_002_Aussenbild_604.png",
+  badenerstrasseHalle:
+    "https://www.poolarch.ch/assets/projekte/0526%20UBS%20Badenerstrasse/0526_VIS_131125_003_Eingangshalle_604.png",
 } as const;
 
 /** Hero: Daum Architekten Referenzmotiv. */
-const HERO_IMAGE_SRC = publicAssetPath("https://static.wixstatic.com/media/a32e4f_04446c253c324448961d7bf14bd557e5~mv2.jpg/v1/fill/w_1080,h_1080,al_c,q_85,enc_avif,quality_auto/a32e4f_04446c253c324448961d7bf14bd557e5~mv2.jpg");
+const HERO_IMAGE_SRC = publicAssetPath("https://www.poolarch.ch/assets/projekte/0529%20Lauchernalp/0529_Provisorisches%20Hotel%20Lauchernalp_Baustelle_6002_1180.png");
 /** Alias — gleiche URL wie `HERO_IMAGE_SRC` (<picture>/<source>). */
 const MOBILE_HERO_SRC = HERO_IMAGE_SRC;
 
@@ -67,52 +67,56 @@ type ProfilPillar = {
   iconPaths: string[];
 };
 
-/** Projekt-Highlights aus vier konkreten daumarchitekten.com Projektseiten. */
+/** Projekt-Highlights nach Headlines und Absätzen von poolarch.ch (Lauchernalp, Pontresina, Badenerstrasse). */
 const STICKY_STORY_STEPS: StickyStoryStep[] = [
   {
-    id: "314-anklamer-strasse",
+    id: "0529-temporäres-hotel-lauchernalp",
     step: "01",
-    title: "314_Anklamer Straße",
+    title: "Temporäres Hotel Lauchernalp, Lötschental",
     description:
-      "Sanierung und Umbau eines Industriegeschosses zu einem Wohnloft mit puristischem Berlin-Charme, wiederverwendeten historischen Elementen und industriellen Details.",
-    imageSrc: PROJECT_IMAGES.anklamerStrasse,
-    imageAlt: "Projekt 314_Anklamer Straße von Daum Architekten.",
+      "Ein Bergsturz im Frühjahr 2025 veränderte das Lötschental grundlegend. Neben Wohn- und Infrastrukturbauten traf es auch weite Teile des Gastgewerbes – rund zwei Drittel der Hotelbetten gingen verloren.",
+    imageSrc: POOL_PROJECT_IMAGES.lauchernalp,
+    imageAlt:
+      "Temporäres Hotel Lauchernalp, Projektbild von pool Architekten Zürich.",
   },
   {
-    id: "354-torstrasse",
+    id: "0500-bahnhofareal-pontresina",
     step: "02",
-    title: "354_Torstraße",
+    title: "Bahnhofareal und Jugendherberge, Pontresina",
     description:
-      "Entwurf eines Loftumbaus mit entferntem Trennwandsystem und einem hängenden Bücherregal als räumlichem Filter zwischen Arbeits- und Wohnbereich.",
-    imageSrc: PROJECT_IMAGES.torstrasse,
-    imageAlt: "Projekt 354_Torstraße von Daum Architekten.",
+      "Das Bahnhofsareal Nord in Pontresina soll mit einem Ersatzneubau der Jugendherberge und neuen Wohn- und Gewerbebauten reorganisiert und neu gestaltet werden. Als Teil des UNESCO-Weltkulturerbes Rhätische Bahn kommt dem Gebiet mit und um die historischen Bahnhofbauten eine wichtige baukulturelle Bedeutung zu.",
+    imageSrc: POOL_PROJECT_IMAGES.pontresina,
+    imageAlt:
+      "Bahnhofareal und Jugendherberge Pontresina, Skizze Aussenraum und Landschaft, pool Architekten Zürich.",
   },
   {
-    id: "298-kantstrasse",
+    id: "0526-badenerstrasse-urbanität",
     step: "03",
-    title: "298_Kantstraße",
+    title: "Erneuerung Wohnsiedlung Badenerstrasse, Zürich",
     description:
-      "Ausbau des Dachgeschosses im Hinterhaus und Seitenflügel mit Aufzugsanbau sowie Realisierung flexibel nutzbarer Büroeinheiten mit möglicher Loft-Umnutzung.",
-    imageSrc: PROJECT_IMAGES.kantstrasse,
-    imageAlt: "Projekt 298_Kantstraße von Daum Architekten.",
+      "Urbanität durch qualitätvolle Dichte – Entlang der Badenerstrasse entsteht ein Stadthaus als Baustein einer sich verdichtenden Stadtlandschaft. Das Projekt markiert den Übergang zwischen bestehender Bebauung und zukünftiger Massstäblichkeit und versteht sich als präzise Weiterentwicklung im gewachsenen Kontext.",
+    imageSrc: POOL_PROJECT_IMAGES.badenerstrasseAussen,
+    imageAlt:
+      "Erneuerung Wohnsiedlung Badenerstrasse Zürich, Aussenvisualisierung, pool Architekten.",
   },
   {
-    id: "381-matterhornstrasse",
+    id: "0526-badenerstrasse-konstruktion",
     step: "04",
-    title: "381_Matterhornstraße",
+    title: "Erneuerung Badenerstrasse — Konstruktion und Betrieb",
     description:
-      "Komplettsanierung eines historischen Landhauses mit behutsamer Transformation, räumlicher Neuordnung und technischer Erneuerung inklusive PV, Wärmepumpe und KNX.",
-    imageSrc: PROJECT_IMAGES.matterhornstrasse,
-    imageAlt: "Projekt 381_Matterhornstraße von Daum Architekten.",
+      "Das Gebäude bietet flexible, langfristig nutzbare Grundrisse für unterschiedliche Lebensmodelle. Die Wohnungen reagieren differenziert auf Stadt- und Gartenseite und schaffen ein ausgewogenes Verhältnis zwischen Offenheit und Rückzug. Gemeinschaftliche Bereiche fördern Begegnung und Nachbarschaft.",
+    imageSrc: POOL_PROJECT_IMAGES.badenerstrasseHalle,
+    imageAlt:
+      "Erneuerung Wohnsiedlung Badenerstrasse Zürich, Visualisierung Eingangshalle, pool Architekten.",
   },
 ];
 
 const STUDIO_PROFIL_PILLARS: ProfilPillar[] = [
   {
     id: "neugier",
-    title: "Bestand mit Zukunft",
+    title: "Weiterbauen im Bestand",
     description:
-      "Wir transformieren Bestand präzise und respektvoll, damit Architektur langfristig nutzbar, wertig und lebendig bleibt.",
+      "Wir entwickeln Bestandsbauten weiter und verbinden Erhalt, Anpassung und neue Nutzung zu langlebigen Lösungen.",
     iconTitle: "Vielfalt",
     iconPaths: [
       "M12 12m-7.5 0a7.5 7.5 0 1 0 15 0a7.5 7.5 0 1 0 -15 0",
@@ -123,9 +127,9 @@ const STUDIO_PROFIL_PILLARS: ProfilPillar[] = [
   },
   {
     id: "zukunft",
-    title: "Klare Entwurfshaltung",
+    title: "Präzise Entwurfshaltung",
     description:
-      "Reduzierte Formensprache, sorgfältige Proportionen und materialgerechte Details bilden den Kern unserer Entwurfsarbeit.",
+      "Unsere Architektur ist klar gegliedert, kontextbezogen und in Proportion, Material und Detail sorgfältig ausgearbeitet.",
     iconTitle: "Zukunft",
     iconPaths: [
       "M6.5 4.5h8l3 3v11h-11z",
@@ -135,9 +139,9 @@ const STUDIO_PROFIL_PILLARS: ProfilPillar[] = [
   },
   {
     id: "nachhaltigkeit",
-    title: "Nachhaltig gedacht",
+    title: "Zirkulär und ressourcenschonend",
     description:
-      "Nachhaltigkeit verstehen wir ganzheitlich - ökologisch, funktional und kulturell - vom Konzept bis in die Realisierung.",
+      "Wir planen mit Fokus auf Wiederverwendung, robuste Konstruktionen und einen verantwortungsvollen Einsatz von Ressourcen.",
     iconTitle: "Nachhaltigkeit",
     iconPaths: [
       "M12 4.5s-5.6 2.2-7.5 4.3c0 5.2 3.3 8.6 7.5 10.7c4.2-2.1 7.5-5.5 7.5-10.7C17.6 6.7 12 4.5 12 4.5z",
@@ -146,9 +150,9 @@ const STUDIO_PROFIL_PILLARS: ProfilPillar[] = [
   },
   {
     id: "flexibel",
-    title: "Räume mit Haltung",
+    title: "Räume für Alltag und Öffentlichkeit",
     description:
-      "Wir entwickeln Räume, die zugleich klar organisiert und atmosphärisch sind - für Wohnen, Arbeiten und öffentliche Nutzungen.",
+      "Wir entwerfen Gebäude für Wohnen, Bildung, Kultur, Sport und Infrastruktur - funktional, offen und identitätsstiftend.",
     iconTitle: "Flexibilität",
     iconPaths: [
       "M12 4v8l5.2 3",
@@ -157,9 +161,9 @@ const STUDIO_PROFIL_PILLARS: ProfilPillar[] = [
   },
   {
     id: "robust",
-    title: "Sorgfalt im Detail",
+    title: "Ausführung mit Sorgfalt",
     description:
-      "Von Materialübergängen bis Lichtführung entstehen durch präzise Detaillierung robuste und zeitlose Architekturen.",
+      "In enger Zusammenarbeit mit Fachplanenden und Handwerk setzen wir Projekte präzise und qualitätsvoll um.",
     iconTitle: "Material",
     iconPaths: [
       "M7 7h.01",
@@ -172,9 +176,9 @@ const STUDIO_PROFIL_PILLARS: ProfilPillar[] = [
   },
   {
     id: "aesthetik",
-    title: "Berliner Kontext",
+    title: "Städtebau und Architektur",
     description:
-      "Unsere Projekte reagieren auf den Ort, den städtischen Maßstab und die Geschichte des Bestands - mit zeitgemäßen Lösungen.",
+      "Vom Quartier bis zum Gebäude entwickeln wir tragfähige Konzepte, die Ort, Maßstab und Entwicklung zusammenbringen.",
     iconTitle: "Ästhetik",
     iconPaths: [
       "M12 3.5l2.6 5.2l5.7.8l-4.1 4l1 5.7L12 16.4l-5.2 2.8l1-5.7l-4.1-4l5.7-.8z",
@@ -581,7 +585,7 @@ export function LandingPage() {
       <IntroPreloader skip={reducedMotion} onIntroReady={handleIntroDone} />
 
       <SiteHeader
-        contactHref="mailto:office@daumarchitekten.com"
+        contactHref="mailto:pool@poolarch.ch"
         introDone={introDone}
         reducedMotion={reducedMotion}
       />
@@ -610,7 +614,7 @@ export function LandingPage() {
                     (hideChrome ? "opacity-0" : "")
                   }
                 >
-                  Daum Architekten - Berlin
+                  pool Architekten · Zürich
                 </h1>
 
                 <figure
@@ -656,9 +660,7 @@ export function LandingPage() {
             id="hero-section-copy"
             className="split ml-auto px-[clamp(1rem,4vw,2.5rem)] pb-[clamp(1rem,2.5vw,1.75rem)] pt-[clamp(1.5rem,4vw,3rem)] lg:pt-[clamp(3.5rem,7vw,6rem)] max-w-[30ch] text-left font-sans text-[clamp(1.5rem,3.4vw,3.3rem)] leading-[1.08] tracking-tight text-black"
           >
-            Daum Architekten verbindet präzise Planung mit poetischer
-            Raumwirkung - von der ersten Idee bis zur gebauten Architektur, die
-            Orte mit Charakter schafft.
+            pool hat sich 1998 aus einer Diskussionsplattform gegründet. Wir pflegen bis heute eine Kultur des Dialogs und der Debatte, aktuell geleitet von 11 Partner:innen und 9 Associates. 2024 sind wir ein interdisziplinäres Team aus rund 100 Architekt:innen und Stadtplaner:innen. Unsere Projekte beinhalten die Themen Wohnen, Bildung, Kultur, Sport und Infrastruktur, Nachhaltigkeit und Bauen im Bestand sowie Städtebauliche Planungen.
           </p>
         </section>
 
@@ -846,7 +848,7 @@ export function LandingPage() {
                               stickyStoryCardDescriptionRefs.current[index] = node;
                             }}
                             id={`sticky-services-card-description-${step.id}`}
-                            className="absolute inset-0 max-w-[33ch] font-sans text-[clamp(0.85rem,1.2vw,1.05rem)] leading-[1.28] text-black/85 [contain:paint]"
+                            className="absolute inset-0 font-sans text-[clamp(0.85rem,1.2vw,1.05rem)] leading-[1.28] text-black/85 [contain:paint]"
                             style={{ zIndex: 40 + index + 1 }}
                           >
                             {step.description}
@@ -883,13 +885,13 @@ export function LandingPage() {
                 id="profil-section-heading"
                 className="font-sans text-[clamp(1.7rem,4.2vw,3.35rem)] font-semibold leading-[1.04] tracking-tight text-black"
               >
-                Profil von Daum Architekten
+                Profil von pool
               </h2>
               <p
                 id="profil-section-intro"
                 className="mx-auto mt-[clamp(0.8rem,2vw,1.4rem)] max-w-[62ch] font-sans text-[clamp(0.95rem,1.5vw,1.12rem)] leading-[1.45] text-black/80"
               >
-                Daum Architekten entwickelt Umbau-, Sanierungs- und Neubauprojekte mit einem klaren Fokus auf Bestand, Präzision und zeitlose Materialität.
+                pool in Zürich steht für Architektur, Städtebau und Forschung mit Fokus auf Bestand, Nachhaltigkeit und präzise Umsetzung.
               </p>
             </header>
 
@@ -963,13 +965,13 @@ export function LandingPage() {
                     id="profil-section-heading"
                     className="font-sans text-[clamp(1.7rem,4.2vw,3.35rem)] font-semibold leading-[1.04] tracking-tight text-black"
                   >
-                    Profil von Daum Architekten
+                    Profil von pool
                   </h2>
                   <p
                     id="profil-section-intro"
                     className="mx-auto mt-[clamp(0.8rem,2vw,1.4rem)] max-w-[62ch] font-sans text-[clamp(0.95rem,1.5vw,1.12rem)] leading-[1.45] text-black/80"
                   >
-                Daum Architekten entwickelt Umbau-, Sanierungs- und Neubauprojekte mit einem klaren Fokus auf Bestand, Präzision und zeitlose Materialität.
+                pool in Zürich steht für Architektur, Städtebau und Forschung mit Fokus auf Bestand, Nachhaltigkeit und präzise Umsetzung.
                 </p>
                 </header>
 

@@ -283,7 +283,7 @@ export function SiteHeader({
                 "focus-visible:after:scale-x-100"
               }
             >
-              office@daumarchitekten.com
+              pool@poolarch.ch
             </Link>
           </nav>
         </div>

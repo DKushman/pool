@@ -4,6 +4,8 @@ import Link from "next/link";
 import { useEffect, useRef } from "react";
 import { PillArrowButton } from "@/components/PillArrowButton";
 
+const POOL_SITE = "https://www.poolarch.ch";
+
 export function SiteFooterReveal() {
   const footerRef = useRef<HTMLElement | null>(null);
 
@@ -129,14 +131,14 @@ export function SiteFooterReveal() {
             id="site-footer-kicker"
             className="max-w-[40ch] font-sans text-[clamp(0.72rem,1vw,0.86rem)] leading-[1.35] text-white/72 md:max-w-[32ch]"
           >
-            Daum Architekten PartG mbB, Berlin - Deutschland.
+            pool Genossenschaft, Bremgartnerstrasse 7, CH-8003 Zürich.
           </p>
 
           <div className="w-full">
             <PillArrowButton
               id="site-footer-cta-link"
-              href="mailto:info@daumarchitekten.com"
-              label="E-Mail an Daum Architekten"
+              href="mailto:pool@poolarch.ch"
+              label="E-Mail an pool Architekten"
               tone="light"
               className="w-full justify-start sm:w-auto"
             />
@@ -145,18 +147,224 @@ export function SiteFooterReveal() {
 
         <section
           id="site-footer-meta-row"
-          className="mt-[clamp(0.9rem,2vw,1.5rem)] grid grid-cols-1 gap-[clamp(0.8rem,2vw,1.4rem)] text-[clamp(0.72rem,0.98vw,0.84rem)] leading-[1.4] text-white/76 sm:grid-cols-2 lg:grid-cols-4"
+          className="mt-[clamp(0.9rem,2vw,1.5rem)] grid grid-cols-1 gap-[clamp(0.9rem,2vw,1.5rem)] text-[clamp(0.72rem,0.98vw,0.84rem)] leading-[1.4] text-white/76 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6"
         >
-          <div id="site-footer-links-col" className="min-w-0">
-            <ul className="space-y-[clamp(0.18rem,0.42vw,0.32rem)]">
+          <div id="site-footer-contact-col" className="min-w-0 break-words">
+            <p className="font-medium text-white">Kontakt:</p>
+            <ul className="mt-[clamp(0.22rem,0.5vw,0.35rem)] space-y-[clamp(0.18rem,0.42vw,0.32rem)]">
+              <li>pool</li>
+              <li>Bremgartnerstrasse 7</li>
+              <li>8003 Zürich</li>
               <li>
-                <Link className={navClass} href="#hero-section">
-                  Home
-                </Link>
+                <a className={navClass} href="tel:+41442007070">
+                  T +41 44 200 70 70
+                </a>
               </li>
               <li>
-                <Link className={navClass} href="#projekte-section">
-                  Projekte
+                <a className={navClass} href="mailto:pool@poolarch.ch">
+                  pool@poolarch.ch
+                </a>
+              </li>
+              <li>
+                <a
+                  className={navClass}
+                  href="https://www.instagram.com/poolarchitekten/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Instagram
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <div id="site-footer-news-col" className="min-w-0">
+            <p className="font-medium text-white">
+              <a
+                className={navClass}
+                href={`${POOL_SITE}/index/`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                News
+              </a>
+            </p>
+          </div>
+
+          <div id="site-footer-projekte-col" className="min-w-0">
+            <p className="font-medium text-white">
+              <a
+                className={navClass}
+                href={`${POOL_SITE}/projekte/`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Projekte
+              </a>
+            </p>
+            <ul className="mt-[clamp(0.22rem,0.5vw,0.35rem)] space-y-[clamp(0.18rem,0.42vw,0.32rem)]">
+              <li>
+                <a
+                  className={navClass}
+                  href={`${POOL_SITE}/projekte/karte.html`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Karte
+                </a>
+              </li>
+              <li>
+                <a
+                  className={navClass}
+                  href={`${POOL_SITE}/projekte/projektstand.html`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Projektstand
+                </a>
+                <ul className="mt-[clamp(0.12rem,0.35vw,0.22rem)] space-y-[clamp(0.12rem,0.35vw,0.22rem)] border-l border-white/14 pl-[clamp(0.45rem,1vw,0.65rem)]">
+                  <li>
+                    <a
+                      className={navClass}
+                      href={`${POOL_SITE}/projekte/projektstand.html&refPage=Projektstand&filter=Ausgeführt`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Ausgeführt
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      className={navClass}
+                      href={`${POOL_SITE}/projekte/projektstand.html&refPage=Projektstand&filter=In Bearbeitung`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      In Bearbeitung
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      className={navClass}
+                      href={`${POOL_SITE}/projekte/projektstand.html&refPage=Projektstand&filter=1. Preis`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      1. Preis
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      className={navClass}
+                      href={`${POOL_SITE}/projekte/projektstand.html&refPage=Projektstand&filter=Wettbewerbe`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Wettbewerbe
+                    </a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a
+                  className={navClass}
+                  href={`${POOL_SITE}/projekte/werkverzeichnis.html`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Werkverzeichnis
+                </a>
+              </li>
+              <li>
+                <a
+                  className={navClass}
+                  href={`${POOL_SITE}/projekte/nutzung.html`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Nutzung
+                </a>
+                <ul className="mt-[clamp(0.12rem,0.35vw,0.22rem)] space-y-[clamp(0.12rem,0.35vw,0.22rem)] border-l border-white/14 pl-[clamp(0.45rem,1vw,0.65rem)]">
+                  <li>
+                    <a
+                      className={navClass}
+                      href={`${POOL_SITE}/projekte/nutzung.html&refPage=Nutzung&filter=Städtebau`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Städtebau
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      className={navClass}
+                      href={`${POOL_SITE}/projekte/nutzung.html&refPage=Nutzung&filter=Wohnen`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Wohnen
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      className={navClass}
+                      href={`${POOL_SITE}/projekte/nutzung.html&refPage=Nutzung&filter=Dienstleistung`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Dienstleistung
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      className={navClass}
+                      href={`${POOL_SITE}/projekte/nutzung.html&refPage=Nutzung&filter=Mixed`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Mixed
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      className={navClass}
+                      href={`${POOL_SITE}/projekte/nutzung.html&refPage=Nutzung&filter=Schulen`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Schulen
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      className={navClass}
+                      href={`${POOL_SITE}/projekte/nutzung.html&refPage=Nutzung&filter=Öffentliche Bauten`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Öffentliche Bauten
+                    </a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+
+          <div id="site-footer-buero-col" className="min-w-0">
+            <p className="font-medium text-white">
+              <a
+                className={navClass}
+                href={`${POOL_SITE}/buero/`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Büro
+              </a>
+            </p>
+            <ul className="mt-[clamp(0.22rem,0.5vw,0.35rem)] space-y-[clamp(0.18rem,0.42vw,0.32rem)]">
+              <li>
+                <Link className={navClass} href="#profil-section-section">
+                  Portrait
                 </Link>
               </li>
               <li>
@@ -165,71 +373,113 @@ export function SiteFooterReveal() {
                 </Link>
               </li>
               <li>
+                <a
+                  className={navClass}
+                  href={`${POOL_SITE}/buero/jobs.html`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Jobs
+                </a>
+              </li>
+              <li>
                 <Link className={navClass} href="#site-contact-cta-section">
                   Kontakt
                 </Link>
               </li>
             </ul>
           </div>
-          <div id="site-footer-sitemap-col" className="min-w-0">
-            <ul className="space-y-[clamp(0.18rem,0.42vw,0.32rem)]">
+
+          <div id="site-footer-annex-col" className="min-w-0">
+            <p className="font-medium text-white">
+              <a
+                className={navClass}
+                href={`${POOL_SITE}/annex/`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Annex
+              </a>
+            </p>
+            <ul className="mt-[clamp(0.22rem,0.5vw,0.35rem)] space-y-[clamp(0.18rem,0.42vw,0.32rem)]">
               <li>
                 <a
                   className={navClass}
-                  href="https://www.instagram.com/"
+                  href={`${POOL_SITE}/annex/ausstellungen.html`}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Instagram
+                  Ausstellungen
                 </a>
               </li>
               <li>
                 <a
                   className={navClass}
-                  href="https://www.linkedin.com/"
+                  href={`${POOL_SITE}/annex/buecher.html`}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  LinkedIn
+                  Bücher
                 </a>
               </li>
               <li>
                 <a
                   className={navClass}
-                  href="https://www.daumarchitekten.com/datenschutz"
+                  href={`${POOL_SITE}/annex/galerie/`}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Datenschutz
+                  Galerie
                 </a>
               </li>
               <li>
                 <a
                   className={navClass}
-                  href="https://www.daumarchitekten.com/impressum"
+                  href={`${POOL_SITE}/annex/publikationen/`}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Impressum
+                  Publikationen
+                </a>
+              </li>
+              <li>
+                <a
+                  className={navClass}
+                  href={`${POOL_SITE}/annex/auszeichnungen.html`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Auszeichnungen
                 </a>
               </li>
             </ul>
           </div>
-          <div id="site-footer-contact-col" className="min-w-0 break-words">
-            <p className="font-medium text-white">Kontakt:</p>
+
+          <div id="site-footer-impressum-col" className="min-w-0 break-words">
+            <p className="font-medium text-white">
+              <a
+                className={navClass}
+                href={`${POOL_SITE}/impressum.html`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Impressum
+              </a>
+            </p>
             <ul className="mt-[clamp(0.22rem,0.5vw,0.35rem)] space-y-[clamp(0.18rem,0.42vw,0.32rem)]">
-              <li>info@daumarchitekten.com</li>
-              <li>Berlin, Deutschland</li>
+              <li>
+                <a
+                  className={navClass}
+                  href={`${POOL_SITE}/impressum/datenschutzinformationen.html`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Datenschutzinformation
+                </a>
+              </li>
             </ul>
-          </div>
-          <div id="site-footer-social-col" className="min-w-0 break-words">
-            <p className="font-medium text-white">Anschrift:</p>
-            <ul className="mt-[clamp(0.22rem,0.5vw,0.35rem)] space-y-[clamp(0.18rem,0.42vw,0.32rem)]">
-              <li>Daum Architekten PartG mbB</li>
-              <li>Berlin | Deutschland</li>
-            </ul>
-            <p className="mt-[clamp(0.8rem,1.5vw,1.1rem)]">
-              © Daum Architekten {new Date().getFullYear()}
+            <p className="mt-[clamp(0.8rem,1.5vw,1.1rem)] text-white/76">
+              © pool {new Date().getFullYear()}
             </p>
           </div>
         </section>
@@ -238,8 +488,8 @@ export function SiteFooterReveal() {
           id="site-footer-brand"
           className="mt-[clamp(1rem,2.3vw,1.8rem)] border-t border-white/10 pt-[clamp(1rem,2.3vw,1.8rem)]"
         >
-          <span className="block max-w-[100vw] font-sans font-black uppercase leading-[0.9] tracking-tighter text-white [font-size:clamp(1.75rem,8vw,9.5rem)]">
-            DAUM ARCHITEKTEN
+          <span className="block max-w-[100vw] font-sans font-medium leading-[0.92] tracking-tight text-white [font-size:clamp(1.75rem,8vw,9.5rem)]">
+            pool 
           </span>
         </div>
       </div>
